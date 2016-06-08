@@ -3,4 +3,4 @@
 ---
 ###Group Members
 
--Luke McDuff
+* Luke McDuff
