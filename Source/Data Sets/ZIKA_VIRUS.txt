@@ -1,0 +1,371 @@
+Dengue researchers around the world have been cracking open their freezers in search of serum or antibodies that might neutralize the related flavivirus, Zika. Three groups described such antibodies in the past week. In a paper published yesterday (June 27) in the PNAS, researchers from the Emory University School of Medicine in Atlanta and their colleagues described serum and monoclonal antibodies from nine patients in Thailand, where dengue is endemic. Most of the patients’ sera and some of their monoclonal antibodies were able to neutralize Zika virus in vitro, the researchers reported. But the same sera and antibodies also enhanced Zika’s ability to infect human cells in vitro.
+
+“It’s well known in the flavivirus field that antibodies that don’t neutralize cause enhancement,” said Michael Diamond, who studies mosquito-borne pathogens at the Washington University in St. Louis and was not involved in the work. Antibody-dependent enhancement (ADE) occurs through Fc receptors, which bind the back ends of antibodies. Fc receptors are found on several cell types, including macrophages and placental epithelial cells. They internalize antibodies and may also internalize partially neutralized viral particles bound by those antibodies. This often happens in cases of secondary dengue infection, since each of the four dengue serotypes differ enough from one another that antibodies to one serotype can be poor neutralizers of another. Even sub-neutralizing concentrations of otherwise neutralizing antibodies can lead to ADE.
+
+Because placental Fc receptors transfer maternal antibodies to the developing fetus, some have speculated that maternal antibodies to dengue may not only worsen Zika, but also promote its transmission across the placenta. “It could be a double whammy,” Diamond told The Scientist.
+
+However, no one has observed enhancement of Zika infection due to dengue antibodies in humans or in animal models. Diamond noted that just because ADE occurs in vitro does not mean it will occur in vivo. In fact, many in vitro studies have reported that anti-dengue antibodies enhance infection by West Nile Virus, yet that enhancement appears absent in vivo. 
+
+Emory immunologist Jens Wrammert, a coauthor on the PNAS paper, said large cohort studies are needed to discern what effect ADE between dengue and Zika may have on infection in humans. Because current diagnostic techniques rely on binding or neutralization assays, it’s impossible to tell whether someone with Zika also has dengue antibodies. Wrammert and colleagues plan to compare B cell responses of people with Zika in places where dengue is either endemic or absent, he said. In the meantime, the team will follow up on some of the dengue antibodies that did neutralize Zika in vitro, to determine where they bind the viruses. 
+
+Wrammert and colleagues’ study follows on two others published last week (June 23) in Nature and Nature Immunology, in which scientists also tested sera and antibodies from dengue patients against Zika; most of these enhanced infection in vitro, the teams reported.
+
+Gavin Screaton, an immunologist at Imperial College London and coauthor on both studies, said in-vitro ADE was expected and may not reflect what happens in vivo. Still, the results of these investigations could help researchers home in on vaccine targets that are least likely to promote ADE in vivo. 
+
+For the Nature study, Screaton’s colleagues used crystal structures to map out precisely how a particular class of Zika-neutralizing antibody binds a key region of the E protein found of both viruses, called the E dimer epitope. Screaton told The Scientist that he suspects the most potent neutralizer in Wrammert and colleagues’ study may also bind E dimer epitope.
+
+“So far, most of the cross-reactive antibodies against Zika have been poorly neutralizing,” Diamond said. The class of antibodies that bind the E dimer epitope, EDE1 antibodies, could be the exception, he noted.
+
+EDE1 antibodies are such strong neutralizers because they prevent flaviviruses from fusing with endosomes and releasing their contents into cellular cytosol. This also allows them to prevent ADE in vitro, Diamond noted, as Screaton’s team demonstrated in the Nature Immunology paper.
+
+The Nature study coauthors pointed out that these properties make the EDE1 binding site a good candidate for a vaccine that could protect against both dengue and Zika without promoting ADE. 
+
+Meanwhile, additional vaccine candidates are likely to arise from studies of monoclonal antibodies derived from Zika patients. Many groups, including Wrammert’s and Screaton’s, intend to begin working with those samples soon.
+
+G. Barba-Spaeth et al., “Structural basis of potent Zika-dengue virus antibody cross-neutralization,” Nature, doi:10.1038/nature18938, 2016.
+
+W. Dejnirattisai et al., “Dengue virus sero-cross-reactivity drives antibody-dependent enhancement of infection with zika virus,” Nature Immunology, doi:10.1038/ni.3515, 2016.
+
+L. Priyamvada et al., “Human antibody responses after dengue virus infection are highly cross-reactive to Zika virus,” PNAS, doi:10.1073/pnas.1607931113, 2016.Counties in yellow recorded one year of A. aegypti being present; those shown in orange recorded two years; and those shown in red, three or more years.
+
+Years ago we found the same problem trying to develop a commercial vaccine against FeLV, the problem was that even with extremely high neutralizing antibodies we were getting near 100% infection and mortality. After failing to get a vaccine using virus neutralization as our goal, we switch the strategy to induce a T-cell immune response using a new adjuvant that we developed QS-21; indeed, the new formulation induced a protection of over 90%. Hence, maybe they should try changing gears from humoral to cell-mediated immunity. I am not too optimistic about neutralizing epitopes, as they would need to use possibly peptides conjugated to a carrier, which will introduce the problem of “carrier-induced epitope-specific suppression” that will be aggravated by some of the cross-linking agents.
+
+
+CDC
+Vaccines against Zika virus have proven effective in mice, a team of scientists reported Tuesday (June 28) in Nature. “The protection was striking,” study coauthor Dan Barouch, who leads the Center for Virology and Vaccine Research at Beth Israel Deaconess Medical Center and Harvard Medical School, told The Verge.
+
+Two different vaccines, both designed against a Zika strain isolated from northeast Brazil, induced protective antibodies that conferred immunity when transferred into unvaccinated mice. One of the vaccines is DNA-based and expressed Zika pre-membrane and envelope immunogens. The other is made of inactivated virus.
+
+“Our findings suggest that the development of a ZIKV [Zika virus] vaccine for humans will likely be readily achievable,” the authors from the Walter Reed Army Institute of Research, Harvard Medical School, and the University of São Paulo, Brazil, wrote in their paper.
+
+Researchers hope to initiate clinical trials by the end of the year, study coauthor Nelson Michael, director of the US Military HIV Research Program at Walter Reed, told STAT News. However, experts cautioned that it would still take years for either vaccine to be made widely available.
+
+“There’s a lot of unknowns,” Barouch told BBC News.
+
+One concern is that antibodies against Zika could enhance infection with other flaviviruses, such as dengue. Another crucial question is whether a vaccine will work during pregnancy, in order to prevent Zika’s potentially devastating effects on the fetus. Because mice are also known to develop Zika-associated birth defects, including microcephaly, the team is now conducting tests with pregnant mice.
+
+Meanwhile, researchers at Walter Reed are partnering with an undisclosed company to advance the inactivated virus vaccine toward clinical trials, BBC News reported.
+Introduction
+
+Zika virus is a mosquito-borne flavivirus that was first identified in Uganda in 1947 in monkeys through a network that monitored yellow fever. It was later identified in humans in 1952 in Uganda and the United Republic of Tanzania. Outbreaks of Zika virus disease have been recorded in Africa, the Americas, Asia and the Pacific. From the 1960s to 1980s, human infections were found across Africa and Asia, typically accompanied by mild illness. The first large outbreak of disease caused by Zika infection was reported from the Island of Yap (Federated States of Micronesia) in 2007. In July 2015 Brazil reported an association between Zika virus infection and Guillain-Barré syndrome. In October 2015 Brazil reported an association between Zika virus infection and microcephaly.
+
+More on the history of Zika virus
+Read the latest situation report
+Signs and Symptoms
+
+The incubation period (the time from exposure to symptoms) of Zika virus disease is not clear, but is likely to be a few days. The symptoms are similar to other arbovirus infections such as dengue, and include fever, skin rashes, conjunctivitis, muscle and joint pain, malaise, and headache. These symptoms are usually mild and last for 2-7 days.
+
+Complications of Zika virus disease
+
+After a comprehensive review of evidence, there is scientific consensus that Zika virus is a cause of microcephaly and Guillain-Barré syndrome. Intense efforts are continuing to investigate the link between Zika virus and a range of neurological disorders, within a rigorous research framework.
+
+Q&A: Zika virus and complication
+Transmission
+
+Zika virus is primarily transmitted to people through the bite of an infected mosquito from the Aedes genus, mainly Aedes aegypti in tropical regions. Aedes mosquitoes usually bite during the day, peaking during early morning and late afternoon/evening. This is the same mosquito that transmits dengue, chikungunya and yellow fever. Sexual transmission of Zika virus is also possible. Other modes of transmission such as blood transfusion are being investigated.
+
+Diagnosis
+
+Infection with Zika virus may be suspected based on symptoms and recent history of travel (e.g. residence in or travel to an area with active Zika virus transmission). A diagnosis of Zika virus infection can only be confirmed through laboratory tests on blood or other body fluids, such as urine, saliva or semen.
+
+Laboratory testing for Zika virus infection
+Treatment
+
+Zika virus disease is usually mild and requires no specific treatment. People sick with Zika virus should get plenty of rest, drink enough fluids, and treat pain and fever with common medicines. If symptoms worsen, they should seek medical care and advice. There is currently no vaccine available.
+
+Prevention
+
+Mosquito bites
+Protection against mosquito bites is a key measure to prevent Zika virus infection. This can be done by wearing clothes (preferably light-coloured) that cover as much of the body as possible; using physical barriers such as window screens or closing doors and windows; sleeping under mosquito nets; and using insect repellent containing DEET, IR3535 or icaridin according to the product label instructions. Special attention and help should be given to those who may not be able to protect themselves adequately, such as young children, the sick or elderly. Travellers and those living in affected areas should take the basic precautions described above to protect themselves from mosquito bites.
+
+It is important to cover, empty or clean potential mosquito breeding sites in and around houses such as buckets, drums, pots, gutters, and used tyres. Communities should support local government efforts to reduce mosquitoes in their locality. Health authorities may also advise that spraying of insecticides be carried out.
+
+Vector control operations framework for Zika virus
+Sexual transmission
+Sexual transmission of Zika virus has been documented in several different countries. To reduce the risk of sexual transmission and potential pregnancy complications related to Zika virus infection, the sexual partners of pregnant women, living in or returning from areas where local transmission of Zika virus occurs should practice safer sex (including using condoms) or abstain from sexual activity throughout the pregnancy.
+
+People living in areas where local transmission of Zika virus occurs should also practice safer sex or abstain from sexual activity. In addition, people returning from areas where local transmission of Zika virus occurs should adopt safer sexual practices or abstain from sex for at least 8 weeks after their return, even if they don’t have symptoms. If men experience Zika virus symptoms they should adopt safer sexual practices or consider abstinence for at least 6 months. Those planning a pregnancy should wait at least 8 weeks before trying to conceive if no symptoms of Zika virus infection appear, or 6 months if one or both members of the couple are symptomatic.
+
+Prevention of sexual transmission of Zika virus
+
+
+
+
+WHO response
+
+WHO is supporting countries to control Zika virus disease by taking actions outlined in the “Zika Strategic Response Framework":
+
+Define and prioritize research into Zika virus disease by convening experts and partners.
+Enhance surveillance of Zika virus and potential complications.
+Strengthen capacity in risk communication to engage communities to better understand risks associated with Zika virus.
+Strengthen the capacity of laboratories to detect the virus.
+Support health authorities to implement vector control strategies aimed at reducing Aedes mosquito populations.
+Prepare recommendations for the clinical care and follow-up of people with complications related to Zika virus infection, in collaboration with experts and other health agencies.
+Zika Strategic Response Framework
+
+With the Zika virus making daily headlines, public health officials in the U.S. are bracing for the pathogen’s arrival in the lower 48 states. Earlier this spring, the US Centers for Disease Control and Prevention (CDC) released a map that painted a dire picture; summertime temperatures could support populations of Aedes aegypti—the mosquito species that carries Zika, dengue, chikungunya, and other viruses—as far north as Ohio and New Jersey and as far west as California. But researchers at CDC’s Division of Vector-Borne Diseases in Fort Collins, Colorado, published a new map in the Journal of Medical Entomology last week (June 9). And this one suggests a much more constrained range for the Zika-transmitting insects: between January 1995 and March 2016, only 183 counties in 26 states and the District of Columbia reported occurrences of A. aegypti, the researchers noted. These reports came mostly from areas that are already known disease-carrying insect hotpots, such as southern Florida, southern Texas, and the Gulf Coast.
+
+“The new map is more accurate than the initial one,” Thomas Scott, an entomologist at the University of California, Davis, who wasn’t involved with the study, told NPR’s Shots. “The distribution of the A. aegypti mosquito is much more restricted than the initial map showed.”
+
+But the new map also shows areas of the country that haven’t historically hosted A. aegypti and other tropical and subtropical disease vectors. These include central California, parts of the Bay Area, Washington, D.C., regions in the Southwest, and the Dallas-Fort Worth area. The CDC researchers compiled the map based on county records supplied by mosquito control agencies, university researchers, and state and local health departments.
+
+Study coauthor Johan-Paul Mutebi of the CDC told NPR that the new map shows different trends than those portrayed in the earlier agency map. “The first map showed where the climate is able to sustain populations of A. aegypti,” he said. “This new map shows reports from counties where these mosquitoes were found in the last 20 years.”
+
+And the reports used to create the map may be incomplete. “Our findings underscore the need for systematic surveillance of A. aegypti and A. albopictus in the United States and delineate areas with risk for the transmission of these introduced arboviruses,” Mutebi and his coauthors wrote in their paper.
+Zika virus disease is caused by a virus transmitted primarily by Aedes mosquitoes.
+People with Zika virus disease can have symptoms including mild fever, skin rash, conjunctivitis, muscle and joint pain, malaise or headache. These symptoms normally last for 2-7 days.
+There is scientific consensus that Zika virus is a cause of microcephaly and Guillain-Barré syndrome. Links to other neurological complications are also being investigated.
+Zika virus spreads to people primarily through the bite of an infected Aedes species mosquito (Ae. aegypti and Ae. albopictus). People can also get Zika through sex with an infected man, and the virus can also be passed from a pregnant woman to her fetus. The most common symptoms of Zika are fever, rash, joint pain, and conjunctivitis (red eyes). The illness is usually mild with symptoms lasting for several days to a week after being bitten by an infected mosquito. People usually don’t get sick enough to go to the hospital, and they very rarely die of Zika. For this reason, many people might not realize they have been infected. However, Zika virus infection during pregnancy can cause a serious birth defect called microcephaly, as well as other severe fetal brain defects. Once a person has been infected, he or she is likely to be protected from future infections.
+
+Zika virus was first discovered in 1947 and is named after the Zika Forest in Uganda. In 1952, the first human cases of Zika were detected and since then, outbreaks of Zika have been reported in tropical Africa, Southeast Asia, and the Pacific Islands. Zika outbreaks have probably occurred in many locations. Before 2007, at least 14 cases of Zika had been documented, although other cases were likely to have occurred and were not reported. Because the symptoms of Zika are similar to those of many other diseases, many cases may not have been recognized.
+
+In May 2015, the Pan American Health Organization (PAHO) issued an alert regarding the first confirmed Zika virus infection in Brazil. On February 1, 2016, the World Health Organization (WHO) declared Zika virus a Public Health Emergency of International Concern (PHEIC). Local transmission has been reported in many other countries and territories. Zika virus will likely continue to spread to new areas.
+
+Specific areas where Zika is spreading are often difficult to determine and are likely to change over time. If traveling, please visit the CDC Travelers' Health site for the most updated travel information.
+No vaccine exists to prevent Zika virus disease (Zika).
+Zika virus is mostly spread through the bite of an infected mosquito. Prevent Zika by avoiding mosquito bites (see below).
+Mosquitoes that spread Zika virus bite mostly during the daytime.
+Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses.
+Zika virus can be spread during sex by a man infected with Zika to his sex partners.
+Steps to prevent mosquito bites
+When in areas with Zika and other diseases spread by mosquitoes, take the following steps[PDF - 2 pages]:
+
+Wear long-sleeved shirts and long pants.
+Stay in places with air conditioning and window and door screens to keep mosquitoes outside.
+Take steps to control mosquitoes inside and outside your home.
+Sleep under a mosquito bed net if you are overseas or outside and are not able to protect yourself from mosquito bites.
+Use Environmental Protection Agency (EPA)-registered insect repellents with one of the following active ingredients: DEET, picaridin, IR3535, oil of lemon eucalyptus, or para-menthane-diol. Choosing an EPA-registered repellent ensures the EPA has evaluated the product for effectiveness. When used as directed, EPA-registered insect repellents are proven safe and effective, even for pregnant and breast-feeding women.
+Always follow the product label instructions.
+Reapply insect repellent as directed.
+Do not spray repellent on the skin under clothing.
+If you are also using sunscreen, apply sunscreen before applying insect repellent.
+To protect your child from mosquito bites:
+Do not use insect repellent on babies younger than 2 months old.
+Do not use products containing oil of lemon eucalyptus or para-menthane-diol on children younger than 3 years old.
+Dress your child in clothing that covers arms and legs.
+Cover crib, stroller, and baby carrier with mosquito netting.
+Do not apply insect repellent onto a child’s hands, eyes, mouth, and cut or irritated skin.
+Adults: Spray insect repellent onto your hands and then apply to a child’s face.
+Treat clothing and gear with permethrin or purchase permethrin-treated items.
+Treated clothing remains protective after multiple washings. See product information to learn how long the protection will last.
+If treating items yourself, follow the product instructions carefully.
+Do NOT use permethrin products directly on skin. They are intended to treat clothing.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites for 3 weeks. These steps will prevent them from passing Zika to mosquitoes that could spread the virus to other people.
+
+	Sick with Chikungunya, Dengue, or Zika?  Protect yourself and others from mosquito bites during the first week of illness.
+
+Sick with Chikungunya, Dengue, or Zika?
+
+English[PDF -  1 page]
+Spanish[PDF - 1 page]
+If you have Zika, protect others from getting sick
+During the first week of infection, Zika virus can be found in the blood and passed from an infected person to another mosquito through mosquito bites. An infected mosquito can then spread the virus to other people.
+To help prevent others from getting sick, strictly follow steps to prevent mosquito bites[PDF - 2 pages] during the first week of illness.
+A man with Zika virus can pass it to his female or male sex partners.
+Zika virus can stay in semen longer than in blood, but we don’t know exactly how long Zika stays in semen.
+To help prevent spreading Zika from sex, you can use condoms, correctly from start to finish, every time you have sex. This includes vaginal, anal, and oral (mouth-to-penis) sex. Not having sex is the only way to be sure that someone does not get sexually transmitted Zika virus.
+If you are a man who lives in or has traveled to an area with Zika
+If your partner is pregnant, either use condoms correctly (warning: this link contains sexually graphic images) from start to finish, every time you have vaginal, anal, and oral (mouth-to-penis) sex, or do not have sex during the pregnancy.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites[PDF - 2 pages] for 3 weeks so they do not spread Zika to mosquitoes that could spread the virus to other people.
+If you are concerned about getting Zika from a male sex partner
+You can use condoms correctly from start to finish, every time you have vaginal, anal, and oral (mouth-to-penis) sex.  Condoms also prevent HIV and other STDs.  Not having sex is the only way to be sure that you do not get sexually transmitted Zika virus.
+Pregnant women should talk to a doctor or other healthcare provider if they or their male sex partners recently traveled to an area with Zika, even if they don’t feel sick.
+Information for travelers
+Traveling? Visit CDC's Travelers Health website to see if the country you plan to visit has any travel health notices.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites for 3 weeks so they do not spread Zika to mosquitoes that could spread the virus to other people.
+CDC has posted maps that show elevation levels in countries with Zika.
+Mosquito Bite Prevention for Travelers [PDF - 2 pages]
+Read the Traveler's Health Yellow Book for more information on Protection against Mosquitoes, Ticks, Fleas & Other Insects and Arthropods.
+Symptoms
+Many people infected with Zika virus won’t have symptoms or will only have mild symptoms. The most common symptoms of Zika are fever, rash, joint pain, or conjunctivitis (red eyes). Other common symptoms include muscle pain and headache. The incubation period (the time from exposure to symptoms) for Zika virus disease is not known, but is likely to be a few days to a week.
+See your doctor or other healthcare provider if you are pregnant and develop a fever, rash, joint pain, or red eyes within 2 weeks after traveling to an area with Zika. Be sure to tell your doctor or other healthcare provider where you traveled.
+The illness is usually mild with symptoms lasting for several days to a week.
+People usually don’t get sick enough to go to the hospital, and they very rarely die of Zika. For this reason, many people might not realize they have been infected.
+Zika virus usually remains in the blood of an infected person for about a week but it can be found longer in some people.
+Once a person has been infected, he or she is likely to be protected from future infections.
+Diagnosis
+The symptoms of Zika are similar to those of dengue and chikungunya, diseases spread through the same mosquitoes that transmit Zika.
+See your doctor or other healthcare provider if you have the symptoms described above and have visited an area with Zika.
+If you have recently traveled, tell your doctor or other healthcare provider when and where you traveled.
+A blood or urine test can confirm a Zika infection
+Your doctor or other healthcare provider may order blood tests to look for Zika or other similar viruses like dengue or chikungunya.
+Treatment
+There is no vaccine to prevent or medicine to treat Zika virus.
+Treat the symptoms:
+Get plenty of rest.
+Drink fluids to prevent dehydration.
+Take medicine such as acetaminophen (Tylenol®) or paracetamol to reduce fever and pain.
+Do not take aspirin and other non-steroidal anti-inflammatory drugs (NSAIDS) until dengue can be ruled out to reduce the risk of bleeding.
+If you are taking medicine for another medical condition, talk to your doctor or other healthcare provider before taking additional medication.
+If you have Zika, take steps to prevent mosquito bites for the first week of your illness.
+During the first week of infection, Zika virus can be found in the blood and passed from an infected person to a mosquito through mosquito bites.
+An infected mosquito can then spread the virus to other people.
+All Countries & Territories with Active Zika Virus Transmission
+Americas
+Argentina
+Aruba
+Barbados
+Belize
+Bolivia
+Bonaire
+Brazil
+Colombia
+Commonwealth of
+Puerto Rico, US territory
+Costa Rica
+Cuba
+Curacao
+Dominica
+Dominican Republic
+Ecuador
+El Salvador
+French Guiana
+Grenada
+Guadeloupe
+Guatemala
+Guyana
+Haiti
+Honduras
+Jamaica
+Martinique
+Mexico
+Nicaragua
+Panama
+Paraguay
+Peru
+Saint Barthélemy
+Saint Lucia
+Saint Martin
+Saint Vincent and the Grenadines
+Sint Maarten
+Suriname
+Trinidad and Tobago
+U.S. Virgin Islands
+Venezuela
+Oceania/Pacific Islands
+American Samoa
+Fiji
+Kosrae, Federated States of Micronesia
+Marshall Islands
+New Caledonia
+Papua New Guinea
+Samoa
+Tonga
+Africa
+Cape Verde
+Zika virus is transmitted to people primarily through the bite of an infected Aedes species mosquito (Ae. aegypti and Ae. albopictus). These are the same mosquitoes that spread dengue and chikungunya viruses.
+
+These mosquitoes typically lay eggs in and near standing water in things like buckets, bowls, animal dishes, flower pots and vases.  They prefer to bite people, and live indoors and outdoors near people.
+Mosquitoes that spread chikungunya, dengue, and Zika are aggressive daytime biters, but they can also bite at night.
+Mosquitoes become infected when they feed on a person already infected with the virus. Infected mosquitoes can then spread the virus to other people through bites.
+From mother to child
+A pregnant woman can pass Zika virus to her fetus during pregnancy. Zika is a cause of microcephaly and other severe fetal brain defects. We are studying the full range of other potential health problems that Zika virus infection during pregnancy may cause.
+A pregnant woman already infected with Zika virus can pass the virus to her fetus during the pregnancy or around the time of birth.
+To date, there are no reports of infants getting Zika virus through breastfeeding. Because of the benefits of breastfeeding, mothers are encouraged to breastfeed even in areas where Zika virus is found.
+Through sexual contact
+Zika virus can be spread by a man to his sex partners.
+In known cases of sexual transmission, the men developed Zika virus symptoms. From these cases, we know the virus can be spread when the man has symptoms, before symptoms start and after symptoms resolve.
+In one case, the virus was spread a few days before symptoms developed.
+The virus is present in semen longer than in blood.
+Through blood transfusion
+As of February, 1, 2016, there have not been any confirmed blood transfusion transmission cases in the United States.
+There have been multiple reports of blood transfusion transmission cases in Brazil. These reports are currently being investigated.
+During the French Polynesian outbreak, 2.8% of blood donors tested positive for Zika and in previous outbreaks, the virus has been found in blood donors.
+Through laboratory exposure
+Prior to the current outbreak, there were four reports of laboratory acquired Zika virus infections, although the route of transmission was not clearly established in all cases.
+As of June 15, 2016, there has been one reported case of laboratory-acquired Zika virus disease in the United States.
+Risks
+Anyone who lives in or travels to an area where Zika virus is found and has not already been infected with Zika virus can get it from mosquito bites. Once a person has been infected, he or she is likely to be protected from future infections.
+What we know
+No vaccine exists to prevent Zika virus disease (Zika).
+Zika virus is mostly spread through the bite of an infected mosquito. Prevent Zika by avoiding mosquito bites (see below).
+Mosquitoes that spread Zika virus bite mostly during the daytime.
+Mosquitoes that spread Zika virus also spread dengue and chikungunya viruses.
+Zika virus can be spread during sex by a man infected with Zika to his sex partners.
+Steps to prevent mosquito bites
+When in areas with Zika and other diseases spread by mosquitoes, take the following steps[PDF - 2 pages]:
+
+Wear long-sleeved shirts and long pants.
+Stay in places with air conditioning and window and door screens to keep mosquitoes outside.
+Take steps to control mosquitoes inside and outside your home.
+Sleep under a mosquito bed net if you are overseas or outside and are not able to protect yourself from mosquito bites.
+Use Environmental Protection Agency (EPA)-registered insect repellents with one of the following active ingredients: DEET, picaridin, IR3535, oil of lemon eucalyptus, or para-menthane-diol. Choosing an EPA-registered repellent ensures the EPA has evaluated the product for effectiveness. When used as directed, EPA-registered insect repellents are proven safe and effective, even for pregnant and breast-feeding women.
+Always follow the product label instructions.
+Reapply insect repellent as directed.
+Do not spray repellent on the skin under clothing.
+If you are also using sunscreen, apply sunscreen before applying insect repellent.
+To protect your child from mosquito bites:
+Do not use insect repellent on babies younger than 2 months old.
+Do not use products containing oil of lemon eucalyptus or para-menthane-diol on children younger than 3 years old.
+Dress your child in clothing that covers arms and legs.
+Cover crib, stroller, and baby carrier with mosquito netting.
+Do not apply insect repellent onto a child’s hands, eyes, mouth, and cut or irritated skin.
+Adults: Spray insect repellent onto your hands and then apply to a child’s face.
+Treat clothing and gear with permethrin or purchase permethrin-treated items.
+Treated clothing remains protective after multiple washings. See product information to learn how long the protection will last.
+If treating items yourself, follow the product instructions carefully.
+Do NOT use permethrin products directly on skin. They are intended to treat clothing.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites for 3 weeks. These steps will prevent them from passing Zika to mosquitoes that could spread the virus to other people.
+
+	Sick with Chikungunya, Dengue, or Zika?  Protect yourself and others from mosquito bites during the first week of illness.
+
+Sick with Chikungunya, Dengue, or Zika?
+
+English[PDF -  1 page]
+Spanish[PDF - 1 page]
+If you have Zika, protect others from getting sick
+During the first week of infection, Zika virus can be found in the blood and passed from an infected person to another mosquito through mosquito bites. An infected mosquito can then spread the virus to other people.
+To help prevent others from getting sick, strictly follow steps to prevent mosquito bites[PDF - 2 pages] during the first week of illness.
+A man with Zika virus can pass it to his female or male sex partners.
+Zika virus can stay in semen longer than in blood, but we don’t know exactly how long Zika stays in semen.
+To help prevent spreading Zika from sex, you can use condoms, correctly from start to finish, every time you have sex. This includes vaginal, anal, and oral (mouth-to-penis) sex. Not having sex is the only way to be sure that someone does not get sexually transmitted Zika virus.
+If you are a man who lives in or has traveled to an area with Zika
+If your partner is pregnant, either use condoms correctly (warning: this link contains sexually graphic images) from start to finish, every time you have vaginal, anal, and oral (mouth-to-penis) sex, or do not have sex during the pregnancy.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites[PDF - 2 pages] for 3 weeks so they do not spread Zika to mosquitoes that could spread the virus to other people.
+If you are concerned about getting Zika from a male sex partner
+You can use condoms correctly from start to finish, every time you have vaginal, anal, and oral (mouth-to-penis) sex.  Condoms also prevent HIV and other STDs.  Not having sex is the only way to be sure that you do not get sexually transmitted Zika virus.
+Pregnant women should talk to a doctor or other healthcare provider if they or their male sex partners recently traveled to an area with Zika, even if they don’t feel sick.
+Information for travelers
+Traveling? Visit CDC's Travelers Health website to see if the country you plan to visit has any travel health notices.
+Even if they do not feel sick, travelers returning to the United States from an area with Zika should take steps to prevent mosquito bites for 3 weeks so they do not spread Zika to mosquitoes that could spread the virus to other people.
+CDC has posted maps that show elevation levels in countries with Zika.
+Mosquito Bite Prevention for Travelers
+CDC’s Emergency Operations Center (EOC) was activated for Zika on January 22, 2016, and moved to a level 1 activation—the highest level – on February 8, 2016. The EOC is the command center for monitoring and coordinating the emergency response to Zika, bringing together CDC scientists with expertise in arboviruses like Zika, reproductive health, birth defects, and developmental disabilities, and travel health. Their work includes:
+Developing laboratory tests to diagnose Zika.
+Conducting studies to learn more about the link between Zika and microcephaly and Guillain-Barré syndrome.
+Monitoring and reporting cases of Zika, which will help improve our understanding of how and where Zika is spreading.
+Providing guidance to travelers and Americans living in areas with current outbreaks.
+Surveillance for the virus in the United States, including US territories.
+Supporting in Puerto Rico, Brazil, Colombia, American Samoa, the US Virgin Islands, and Panama on the ground.
+Conducting a study to evaluate the persistence of Zika virus in semen and urine among male residents of the United States.
+CDC’s EOC is currently home to hundreds of CDC staff working in collaboration with local, national, and international response partners to analyze, validate, and efficiently exchange information about the outbreak.
+The EOC has resources to rapidly transport diagnostic kits, samples and specimens, and personnel to areas with Zika.
+The EOC is serving as CDC's command center for monitoring and coordinating the emergency response to Zika, including the deployment of CDC staff and the procurement and management of all equipment and supplies that CDC responders may need during deployment.
+CDC Deployment Totals
+As of 21 June 2016	Pending	Current	Completed
+International/Territorial
+Basseterre, St. Kitts and Nevis	0	0	1
+San Salvador, El Salvador	0	0	2
+Joao Pessoa/Brasilia, Brazil	0	0	19
+Bogota/Barranquilla, Colombia	1	4	38
+Lisbon, Portugal	0	0	1
+Mexico City, Mexico	0	0	6
+Majuro, Marshall Islands	0	1	5
+Panama City, Panama	0	1	6
+Pago Pago, American Samoa	4	6	23
+Paris, France	0	0	2
+San Juan, PR	31	39	187
+Christiansted, USVI	9	9	28
+Geneva, Switzerland	0	0	4
+Port-of-Spain, Trinidad and Tobago	0	0	1
+Tamuning, Guam	0	0	1
+ 
+Total	45	60	324
+Timeline
+Before 2015, Zika virus disease (Zika) outbreaks occurred in areas of Africa, Southeast Asia, and the Pacific Islands.
+In May 2015, the Pan American Health Organization (PAHO) issued an alert regarding the first confirmed Zika virus infections in Brazil.
+Currently, outbreaks are occurring in many countries and territories.
+On January 22, 2016, CDC activated its Emergency Operations Center (EOC) to respond to outbreaks of Zika occurring in the Americas and increased reports of birth defects and Guillain-Barré syndrome in areas affected by Zika. On February 8, 2016, CDC elevated its EOC activation to a Level 1, the highest level.
+On February 1, 2016, the World Health Organization declared a Public Health Emergency of International Concern (PHEIC) because of clusters of microcephaly and other neurological disorders in some areas affected by Zika.
+On February 8, 2016, President Obama announced a request for $1.8 billion in emergency funds for several agencies to accelerate research into a vaccine and educate populations at risk for disease.
+O
