@@ -1,6 +1,6 @@
-angular.module('app.controllers', ['chart.js'])
+angular.module('app.controllers', ['PointService'])
   
-.controller('homeCtrl', function($scope) {
+.controller('homeCtrl', function($scope, Points) {
            
     var map, heatmap;
     $scope.initMap = function(){
@@ -49,11 +49,7 @@ angular.module('app.controllers', ['chart.js'])
     }
     
     $scope.getPoints = function(){
-        return[
-          new google.maps.LatLng(37.782551, -122.445368),
-          new google.maps.LatLng(37.782745, -122.444586),
-          new google.maps.LatLng(37.782842, -122.443688),           
-        ];
+        return Points.pts();
     }
     
     $scope.initMap();
