@@ -1,0 +1,324 @@
+Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus.[1] Symptoms can be mild to severe.[2] The most common symptoms include: a high fever, runny nose, sore throat, muscle pains, headache, coughing, and feeling tired. These symptoms typically begin two days after exposure to the virus and most last less than a week. The cough, however, may last for more than two weeks.[1] In children, there may be nausea and vomiting, but these are not common in adults. Nausea and vomiting occur more commonly in the unrelated infection gastroenteritis, which is sometimes inaccurately referred to as "stomach flu" or "24-hour flu".[3] Complications of influenza may include viral pneumonia, secondary bacterial pneumonia, sinus infections, and worsening of previous health problems such as asthma or heart failure.[2][4]
+
+Three types of influenza viruses affect people, called Type A, Type B, and Type C.[4] Usually, the virus is spread through the air from coughs or sneezes.[1] This is believed to occur mostly over relatively short distances.[5] It can also be spread by touching surfaces contaminated by the virus and then touching the mouth or eyes.[2][5] A person may be infectious to others both before and during the time they are showing symptoms.[2] The infection may be confirmed by testing the throat, sputum, or nose for the virus. A number of rapid tests are available; however, people may still have the infection if the results are negative. A type of polymerase chain reaction that detects the virus's RNA is more accurate.[4]
+
+Frequent hand washing reduces the risk of infection because the virus is inactivated by soap.[6] Wearing a surgical mask is also useful.[6] Yearly vaccinations against influenza are recommended by the World Health Organization for those at high risk. The vaccine is usually effective against three or four types of influenza.[1] It is usually well tolerated. A vaccine made for one year may not be useful in the following year, since the virus evolves rapidly. Antiviral drugs such as the neuraminidase inhibitor oseltamivir, among others, have been used to treat influenza.[1] Their benefits in those who are otherwise healthy do not appear to be greater than their risks.[7] No benefit has been found in those with other health problems.[7][8]
+
+Influenza spreads around the world in a yearly outbreak, resulting in about three to five million cases of severe illness and about 250,000 to 500,000 deaths.[1] In the Northern and Southern parts of the world outbreaks occur mainly in winter while in areas around the equator outbreaks may occur at any time of the year.[1] Death occurs mostly in the young, the old and those with other health problems.[1] Larger outbreaks known as pandemics are less frequent.[4] In the 20th century three influenza pandemics occurred: Spanish influenza in 1918, Asian influenza in 1958, and Hong Kong influenza in 1968, each resulting in more than a million deaths.[9] The World Health Organization declared an outbreak of a new type of influenza A/H1N1 to be a pandemic in June 2009.[10] Influenza may also affect other animals, including pigs, horses and birds.
+Signs and symptoms
+Most sensitive symptoms for diagnosing influenza[12]
+Symptom:	sensitivity	specificity
+Fever	68–86%	25–73%
+Cough	84–98%	7–29%
+Nasal congestion	68–91%	19–41%
+All three findings, especially fever, were less sensitive in people over 60 years of age.
+
+Symptoms of influenza,[13] with fever and cough the most common symptoms.[12]
+Approximately 33% of people with influenza are asymptomatic.[14]
+
+Symptoms of influenza can start quite suddenly one to two days after infection. Usually the first symptoms are chills or a chilly sensation, but fever is also common early in the infection, with body temperatures ranging from 38 to 39 °C (approximately 100 to 103 °F).[15] Many people are so ill that they are confined to bed for several days, with aches and pains throughout their bodies, which are worse in their backs and legs.[16] Symptoms of influenza may include:
+
+Fever and extreme coldness (chills shivering, shaking (rigor))
+Cough
+Nasal congestion
+Runny nose
+Sneezing
+Body aches, especially joints and throat
+Fatigue
+Headache
+Irritated, watering eyes
+Reddened eyes, skin (especially face), mouth, throat and nose
+Petechial rash[17]
+In children, gastrointestinal symptoms such as diarrhea and abdominal pain,[18][19] (may be severe in children with influenza B)[20]
+It can be difficult to distinguish between the common cold and influenza in the early stages of these infections,[21] but a flu can be identified by a high fever with a sudden onset and extreme fatigue. Influenza is a mixture of symptoms of common cold and pneumonia, body ache, headache, and fatigue. Diarrhea is not normally a symptom of influenza in adults,[12] although it has been seen in some human cases of the H5N1 "bird flu"[22] and can be a symptom in children.[18] The symptoms most reliably seen in influenza are shown in the table to the right.[12]
+
+Since antiviral drugs are effective in treating influenza if given early (see treatment section, below), it can be important to identify cases early. Of the symptoms listed above, the combinations of fever with cough, sore throat and/or nasal congestion can improve diagnostic accuracy.[23] Two decision analysis studies[24][25] suggest that during local outbreaks of influenza, the prevalence will be over 70%,[25] and thus patients with any of these combinations of symptoms may be treated with neuraminidase inhibitors without testing. Even in the absence of a local outbreak, treatment may be justified in the elderly during the influenza season as long as the prevalence is over 15%.[25]
+
+The available laboratory tests for influenza continue to improve. The United States Centers for Disease Control and Prevention (CDC) maintains an up-to-date summary of available laboratory tests.[26] According to the CDC, rapid diagnostic tests have a sensitivity of 50–75% and specificity of 90–95% when compared with viral culture.[27] These tests may be especially useful during the influenza season (prevalence=25%) but in the absence of a local outbreak, or peri-influenza season (prevalence=10%[25]).
+
+Occasionally, influenza can cause severe illness including primary viral pneumonia or secondary bacterial pneumonia.[28][29] The obvious symptom is trouble breathing. In addition, if a child (or presumably an adult) seems to be getting better and then relapses with a high fever, that is a danger sign since this relapse can be bacterial pneumonia.[30]
+
+Virology
+Types of virus
+
+Structure of the influenza virion. The hemagglutinin (HA) and neuraminidase(NA) proteins are shown on the surface of the particle. The viral RNAs that make up the genome are shown as red coils inside the particle and bound to Ribonuclear Proteins (RNPs).
+In virus classification influenza viruses are RNA viruses that make up three of the five genera of the family Orthomyxoviridae:[31]
+
+Influenzavirus A
+Influenzavirus B
+Influenzavirus C
+These viruses are only distantly related to the human parainfluenza viruses, which are RNA viruses belonging to the paramyxovirus family that are a common cause of respiratory infections in children such as croup,[32] but can also cause a disease similar to influenza in adults.[33]
+
+A fourth family of influenza viruses has been proposed - influenza D.[34][35][36][37][38][39][40] The type species for this family is Bovine Influenza D virus which was first isolated in 2012.
+
+Influenzavirus A
+This genus has one species, influenza A virus. Wild aquatic birds are the natural hosts for a large variety of influenza A. Occasionally, viruses are transmitted to other species and may then cause devastating outbreaks in domestic poultry or give rise to human influenza pandemics.[41] The type A viruses are the most virulent human pathogens among the three influenza types and cause the severest disease. The influenza A virus can be subdivided into different serotypes based on the antibody response to these viruses.[42] The serotypes that have been confirmed in humans, ordered by the number of known human pandemic deaths, are:
+
+H1N1, which caused Spanish Flu in 1918, and Swine Flu in 2009
+H2N2, which caused Asian Flu in 1957
+H3N2, which caused Hong Kong Flu in 1968
+H5N1, which caused Bird Flu in 2004
+H7N7, which has unusual zoonotic potential[43]
+H1N2, endemic in humans, pigs and birds
+H9N2
+H7N2
+H7N3
+H10N7
+H7N9
+Influenzavirus B
+
+Influenza virus nomenclature (for a Fujian flu virus)
+This genus has one species, influenza B virus. Influenza B almost exclusively infects humans[42] and is less common than influenza A. The only other animals known to be susceptible to influenza B infection are the seal[44] and the ferret.[45] This type of influenza mutates at a rate 2–3 times slower than type A[46] and consequently is less genetically diverse, with only one influenza B serotype.[42] As a result of this lack of antigenic diversity, a degree of immunity to influenza B is usually acquired at an early age. However, influenza B mutates enough that lasting immunity is not possible.[47] This reduced rate of antigenic change, combined with its limited host range (inhibiting cross species antigenic shift), ensures that pandemics of influenza B do not occur.[48]
+
+Influenzavirus C
+This genus has one species, influenza C virus, which infects humans, dogs and pigs, sometimes causing both severe illness and local epidemics.[49][50] However, influenza C is less common than the other types and usually only causes mild disease in children.[51][52]
+
+Structure, properties, and subtype nomenclature
+Influenzaviruses A, B and C are very similar in overall structure.[53] The virus particle is 80–120 nanometers in diameter and usually roughly spherical, although filamentous forms can occur.[54][55] These filamentous forms are more common in influenza C, which can form cordlike structures up to 500 micrometers long on the surfaces of infected cells.[56] However, despite these varied shapes, the viral particles of all influenza viruses are similar in composition.[56] These are made of a viral envelope containing two main types of glycoproteins, wrapped around a central core. The central core contains the viral RNA genome and other viral proteins that package and protect this RNA. RNA tends to be single stranded but in special cases it is double.[55] Unusually for a virus, its genome is not a single piece of nucleic acid; instead, it contains seven or eight pieces of segmented negative-sense RNA, each piece of RNA containing either one or two genes, which code for a gene product (protein).[56] For example, the influenza A genome contains 11 genes on eight pieces of RNA, encoding for 11 proteins: hemagglutinin (HA), neuraminidase (NA), nucleoprotein (NP), M1, M2, NS1, NS2 (NEP: nuclear export protein), PA, PB1 (polymerase basic 1), PB1-F2 and PB2.[57]
+
+Hemagglutinin (HA) and neuraminidase (NA) are the two large glycoproteins on the outside of the viral particles. HA is a lectin that mediates binding of the virus to target cells and entry of the viral genome into the target cell, while NA is involved in the release of progeny virus from infected cells, by cleaving sugars that bind the mature viral particles.[58] Thus, these proteins are targets for antiviral drugs.[59] Furthermore, they are antigens to which antibodies can be raised. Influenza A viruses are classified into subtypes based on antibody responses to HA and NA. These different types of HA and NA form the basis of the H and N distinctions in, for example, H5N1.[60] There are 16 H and 9 N subtypes known, but only H 1, 2 and 3, and N 1 and 2 are commonly found in humans.[61]
+
+Replication
+
+Host cell invasion and replication by the influenza virus. The steps in this process are discussed in the text.
+Viruses can replicate only in living cells.[62] Influenza infection and replication is a multi-step process: First, the virus has to bind to and enter the cell, then deliver its genome to a site where it can produce new copies of viral proteins and RNA, assemble these components into new viral particles, and, last, exit the host cell.[56]
+
+Influenza viruses bind through hemagglutinin onto sialic acid sugars on the surfaces of epithelial cells, typically in the nose, throat, and lungs of mammals, and intestines of birds (Stage 1 in infection figure).[63] After the hemagglutinin is cleaved by a protease, the cell imports the virus by endocytosis.[64]
+
+The intracellular details are still being elucidated. It is known that virions converge to the microtubule organizing center, interact with acidic endosomes and finally enter the target endosomes for genome release.[65]
+
+Once inside the cell, the acidic conditions in the endosome cause two events to happen: First, part of the hemagglutinin protein fuses the viral envelope with the vacuole's membrane, then the M2 ion channel allows protons to move through the viral envelope and acidify the core of the virus, which causes the core to disassemble and release the viral RNA and core proteins.[56] The viral RNA (vRNA) molecules, accessory proteins and RNA-dependent RNA polymerase are then released into the cytoplasm (Stage 2).[66] The M2 ion channel is blocked by amantadine drugs, preventing infection.[67]
+
+These core proteins and vRNA form a complex that is transported into the cell nucleus, where the RNA-dependent RNA polymerase begins transcribing complementary positive-sense vRNA (Steps 3a and b).[68] The vRNA either is exported into the cytoplasm and translated (step 4) or remains in the nucleus. Newly synthesized viral proteins are either secreted through the Golgi apparatus onto the cell surface (in the case of neuraminidase and hemagglutinin, step 5b) or transported back into the nucleus to bind vRNA and form new viral genome particles (step 5a). Other viral proteins have multiple actions in the host cell, including degrading cellular mRNA and using the released nucleotides for vRNA synthesis and also inhibiting translation of host-cell mRNAs.[69]
+
+Negative-sense vRNAs that form the genomes of future viruses, RNA-dependent RNA polymerase, and other viral proteins are assembled into a virion. Hemagglutinin and neuraminidase molecules cluster into a bulge in the cell membrane. The vRNA and viral core proteins leave the nucleus and enter this membrane protrusion (step 6). The mature virus buds off from the cell in a sphere of host phospholipid membrane, acquiring hemagglutinin and neuraminidase with this membrane coat (step 7).[70] As before, the viruses adhere to the cell through hemagglutinin; the mature viruses detach once their neuraminidase has cleaved sialic acid residues from the host cell.[63] After the release of new influenza viruses, the host cell dies.
+
+Because of the absence of RNA proofreading enzymes, the RNA-dependent RNA polymerase that copies the viral genome makes an error roughly every 10 thousand nucleotides, which is the approximate length of the influenza vRNA. Hence, the majority of newly manufactured influenza viruses are mutants; this causes antigenic drift, which is a slow change in the antigens on the viral surface over time.[71] The separation of the genome into eight separate segments of vRNA allows mixing or reassortment of vRNAs if more than one type of influenza virus infects a single cell. The resulting rapid change in viral genetics produces antigenic shifts, which are sudden changes from one antigen to another. These sudden large changes allow the virus to infect new host species and quickly overcome protective immunity.[60] This is important in the emergence of pandemics, as discussed below in the section on Epidemiology.
+
+Mechanism
+Transmission
+When an infected person sneezes or coughs more than half a million virus particles can be spread to those close by.[72] In otherwise healthy adults, influenza virus shedding (the time during which a person might be infectious to another person) increases sharply one-half to one day after infection, peaks on day 2 and persists for an average total duration of 5 days—but can persist as long as 9 days.[73] In those who develop symptoms from experimental infection (only 67% of healthy experimentally infected individuals), symptoms and viral shedding show a similar pattern, but with viral shedding preceding illness by one day.[73] Children are much more infectious than adults and shed virus from just before they develop symptoms until two weeks after infection.[74] In immunocompromised people, viral shedding can continue for longer than two weeks.[75]
+
+Influenza can be spread in three main ways:[76][77] by direct transmission (when an infected person sneezes mucus directly into the eyes, nose or mouth of another person); the airborne route (when someone inhales the aerosols produced by an infected person coughing, sneezing or spitting) and through hand-to-eye, hand-to-nose, or hand-to-mouth transmission, either from contaminated surfaces or from direct personal contact such as a hand-shake. The relative importance of these three modes of transmission is unclear, and they may all contribute to the spread of the virus.[5] In the airborne route, the droplets that are small enough for people to inhale are 0.5 to 5 µm in diameter and inhaling just one droplet might be enough to cause an infection.[76] Although a single sneeze releases up to 40,000 droplets,[78] most of these droplets are quite large and will quickly settle out of the air.[76] How long influenza survives in airborne droplets seems to be influenced by the levels of humidity and UV radiation, with low humidity and a lack of sunlight in winter aiding its survival.[76]
+
+As the influenza virus can persist outside of the body, it can also be transmitted by contaminated surfaces such as banknotes,[79] doorknobs, light switches and other household items.[16] The length of time the virus will persist on a surface varies, with the virus surviving for one to two days on hard, non-porous surfaces such as plastic or metal, for about fifteen minutes from dry paper tissues, and only five minutes on skin.[80] However, if the virus is present in mucus, this can protect it for longer periods (up to 17 days on banknotes).[76][79] Avian influenza viruses can survive indefinitely when frozen.[81] They are inactivated by heating to 56 °C (133 °F) for a minimum of 60 minutes, as well as by acids (at pH <2).[81]
+
+Pathophysiology
+
+The different sites of infection (shown in red) of seasonal H1N1 versus avian H5N1. This influences their lethality and ability to spread.
+The mechanisms by which influenza infection causes symptoms in humans have been studied intensively. One of the mechanisms is believed to be the inhibition of adrenocorticotropic hormone (ACTH) resulting in lowered cortisol levels.[82] Knowing which genes are carried by a particular strain can help predict how well it will infect humans and how severe this infection will be (that is, predict the strain's pathophysiology).[50][83]
+
+For instance, part of the process that allows influenza viruses to invade cells is the cleavage of the viral hemagglutinin protein by any one of several human proteases.[64] In mild and avirulent viruses, the structure of the hemagglutinin means that it can only be cleaved by proteases found in the throat and lungs, so these viruses cannot infect other tissues. However, in highly virulent strains, such as H5N1, the hemagglutinin can be cleaved by a wide variety of proteases, allowing the virus to spread throughout the body.[83]
+
+The viral hemagglutinin protein is responsible for determining both which species a strain can infect and where in the human respiratory tract a strain of influenza will bind.[84] Strains that are easily transmitted between people have hemagglutinin proteins that bind to receptors in the upper part of the respiratory tract, such as in the nose, throat and mouth. In contrast, the highly lethal H5N1 strain binds to receptors that are mostly found deep in the lungs.[85] This difference in the site of infection may be part of the reason why the H5N1 strain causes severe viral pneumonia in the lungs, but is not easily transmitted by people coughing and sneezing.[86][87]
+
+Common symptoms of the flu such as fever, headaches, and fatigue are the result of the huge amounts of proinflammatory cytokines and chemokines (such as interferon or tumor necrosis factor) produced from influenza-infected cells.[21][88] In contrast to the rhinovirus that causes the common cold, influenza does cause tissue damage, so symptoms are not entirely due to the inflammatory response.[89] This massive immune response might produce a life-threatening cytokine storm. This effect has been proposed to be the cause of the unusual lethality of both the H5N1 avian influenza,[90] and the 1918 pandemic strain.[91][92] However, another possibility is that these large amounts of cytokines are just a result of the massive levels of viral replication produced by these strains, and the immune response does not itself contribute to the disease.[93]
+
+Prevention
+Vaccination
+Main article: Influenza vaccine
+
+Giving an influenza vaccination
+The influenza vaccine is recommended by the World Health Organization and United States Centers for Disease Control and Prevention for high-risk groups, such as children, the elderly, health care workers, and people who have chronic illnesses such as asthma, diabetes, heart disease, or are immuno-compromised among others.[94][95] In healthy adults it is modestly effective in decreasing the amount of influenza-like symptoms in a population.[96] Evidence is supportive of a decreased rate of influenza in children over the age of two.[97] In those with chronic obstructive pulmonary disease vaccination reduces exacerbations,[98] it is not clear if it reduces asthma exacerbations.[99] Evidence supports a lower rate of influenza-like illness in many groups who are immunocompromised such as those with: HIV/AIDS, cancer, and post organ transplant.[100] In those at high risk immunization may reduce the risk of heart disease.[101] Whether immunizing health care workers affects patient outcomes is controversial with some reviews finding insufficient evidence[102][103] and others finding tentative evidence.[104][105]
+
+Due to the high mutation rate of the virus, a particular influenza vaccine usually confers protection for no more than a few years. Every year, the World Health Organization predicts which strains of the virus are most likely to be circulating in the next year (see Historical annual reformulations of the influenza vaccine), allowing pharmaceutical companies to develop vaccines that will provide the best immunity against these strains.[106] The vaccine is reformulated each season for a few specific flu strains but does not include all the strains active in the world during that season. It takes about six months for the manufacturers to formulate and produce the millions of doses required to deal with the seasonal epidemics; occasionally, a new or overlooked strain becomes prominent during that time.[107] It is also possible to get infected just before vaccination and get sick with the strain that the vaccine is supposed to prevent, as the vaccine takes about two weeks to become effective.[108]
+
+Vaccines can cause the immune system to react as if the body were actually being infected, and general infection symptoms (many cold and flu symptoms are just general infection symptoms) can appear, though these symptoms are usually not as severe or long-lasting as influenza. The most dangerous adverse effect is a severe allergic reaction to either the virus material itself or residues from the hen eggs used to grow the influenza; however, these reactions are extremely rare.[109]
+
+The cost-effectiveness of seasonal influenza vaccination has been widely evaluated for different groups and in different settings.[110] It has generally been found to be a cost-effective intervention, especially in children[111] and the elderly,[112] however the results of economic evaluations of influenza vaccination have often been found to be dependent on key assumptions.[113][114]
+
+Infection control
+Further information: Influenza prevention
+Reasonably effective ways to reduce the transmission of influenza include good personal health and hygiene habits such as: not touching your eyes, nose or mouth;[115] frequent hand washing (with soap and water, or with alcohol-based hand rubs);[116] covering coughs and sneezes; avoiding close contact with sick people; and staying home yourself if you are sick. Avoiding spitting is also recommended.[117] Although face masks might help prevent transmission when caring for the sick,[118][119] there is mixed evidence on beneficial effects in the community.[117][120] Smoking raises the risk of contracting influenza, as well as producing more severe disease symptoms.[121][122]
+
+Since influenza spreads through both aerosols and contact with contaminated surfaces, surface sanitizing may help prevent some infections.[123] Alcohol is an effective sanitizer against influenza viruses, while quaternary ammonium compounds can be used with alcohol so that the sanitizing effect lasts for longer.[124] In hospitals, quaternary ammonium compounds and bleach are used to sanitize rooms or equipment that have been occupied by patients with influenza symptoms.[124] At home, this can be done effectively with a diluted chlorine bleach.[125]
+
+During past pandemics, closing schools, churches and theaters slowed the spread of the virus but did not have a large effect on the overall death rate.[126][127] It is uncertain if reducing public gatherings, by for example closing schools and workplaces, will reduce transmission since people with influenza may just be moved from one area to another; such measures would also be difficult to enforce and might be unpopular.[117] When small numbers of people are infected, isolating the sick might reduce the risk of transmission.[117]
+
+Treatment
+Main article: Influenza treatment
+People with the flu are advised to get plenty of rest, drink plenty of liquids, avoid using alcohol and tobacco and, if necessary, take medications such as acetaminophen (paracetamol) to relieve the fever and muscle aches associated with the flu.[128] Children and teenagers with flu symptoms (particularly fever) should avoid taking aspirin during an influenza infection (especially influenza type B), because doing so can lead to Reye's syndrome, a rare but potentially fatal disease of the liver.[129] Since influenza is caused by a virus, antibiotics have no effect on the infection; unless prescribed for secondary infections such as bacterial pneumonia. Antiviral medication may be effective, if given early, but some strains of influenza can show resistance to the standard antiviral drugs and there is concern about the quality of the research.[130]
+
+Antivirals
+The two classes of antiviral drugs used against influenza are neuraminidase inhibitors (oseltamivir and zanamivir) and M2 protein inhibitors (adamantane derivatives).
+
+Neuraminidase inhibitors
+Overall the benefits of neuraminidase inhibitors in those who are otherwise healthy do not appear to be greater than the risks.[7] There does not appear to be any benefit in those with other health problems.[7] In those believed to have the flu, they decreased the length of time symptoms were present by slightly less than a day but did not appear to affect the risk of complications such as needing hospitalization or pneumonia.[8] Previous to 2013 the benefits were unclear as the manufacturer (Roche) refused to release trial data for independent analysis.[131] Increasingly prevalent resistance to neuraminidase inhibitors has led to researchers to seek alternative antiviral drugs with different mechanisms of action.[132]
+
+M2 inhibitors
+The antiviral drugs amantadine and rimantadine inhibit a viral ion channel (M2 protein), thus inhibiting replication of the influenza A virus.[67] These drugs are sometimes effective against influenza A if given early in the infection but are ineffective against influenza B viruses, which lack the M2 drug target.[133] Measured resistance to amantadine and rimantadine in American isolates of H3N2 has increased to 91% in 2005.[134] This high level of resistance may be due to the easy availability of amantadines as part of over-the-counter cold remedies in countries such as China and Russia,[135] and their use to prevent outbreaks of influenza in farmed poultry.[136][137] The CDC recommended against using M2 inhibitors during the 2005–06 influenza season due to high levels of drug resistance.[138]
+
+Prognosis
+Influenza's effects are much more severe and last longer than those of the common cold. Most people will recover completely in about one to two weeks, but others will develop life-threatening complications (such as pneumonia). Thus, influenza can be deadly, especially for the weak, young and old, or chronically ill.[60] People with a weak immune system, such as people with advanced HIV infection or transplant patients (whose immune systems are medically suppressed to prevent transplant organ rejection), suffer from particularly severe disease.[139] Pregnant women and young children are also at a high risk for complications.[140]
+
+The flu can worsen chronic health problems. People with emphysema, chronic bronchitis or asthma may experience shortness of breath while they have the flu, and influenza may cause worsening of coronary heart disease or congestive heart failure.[141] Smoking is another risk factor associated with more serious disease and increased mortality from influenza.[142]
+
+According to the World Health Organization: "Every winter, tens of millions of people get the flu. Most are only ill and out of work for a week, yet the elderly are at a higher risk of death from the illness. We know the worldwide death toll exceeds a few hundred thousand people a year, but even in developed countries the numbers are uncertain, because medical authorities don't usually verify who actually died of influenza and who died of a flu-like illness."[143] Even healthy people can be affected, and serious problems from influenza can happen at any age. People over 50 years old, very young children and people of any age with chronic medical conditions are more likely to get complications from influenza, such as pneumonia, bronchitis, sinus, and ear infections.[108]
+
+In some cases, an autoimmune response to an influenza infection may contribute to the development of Guillain-Barré syndrome.[144] However, as many other infections can increase the risk of this disease, influenza may only be an important cause during epidemics.[144][145] This syndrome has been believed to also be a rare side effect of influenza vaccines. One review gives an incidence of about one case per million vaccinations.[146] Getting infected by influenza itself increases both the risk of death (up to 1 in 10,000) and increases the risk of developing GBS to a much higher level than the highest level of suspected vaccine involvement (approx. 10 times higher by recent estimates).[147][148]
+
+Epidemiology
+Seasonal variations
+Further information: Flu season
+
+Seasonal risk areas for influenza: November–April (blue), April–November (red), and year-round (yellow).
+Influenza reaches peak prevalence in winter, and because the Northern and Southern Hemispheres have winter at different times of the year, there are actually two different flu seasons each year. This is why the World Health Organization (assisted by the National Influenza Centers) makes recommendations for two different vaccine formulations every year; one for the Northern, and one for the Southern Hemisphere.[106]
+
+A long-standing puzzle has been why outbreaks of the flu occur seasonally rather than uniformly throughout the year. One possible explanation is that, because people are indoors more often during the winter, they are in close contact more often, and this promotes transmission from person to person. Increased travel due to the Northern Hemisphere winter holiday season may also play a role.[149] Another factor is that cold temperatures lead to drier air, which may dehydrate mucus, preventing the body from effectively expelling virus particles. The virus also survives longer on surfaces at colder temperatures and aerosol transmission of the virus is highest in cold environments (less than 5 °C) with low relative humidity.[150] The lower air humidity in winter seems to be the main cause of seasonal influenza transmission in temperate regions.[151][152]
+
+However, seasonal changes in infection rates also occur in tropical regions, and in some countries these peaks of infection are seen mainly during the rainy season.[153] Seasonal changes in contact rates from school terms, which are a major factor in other childhood diseases such as measles and pertussis, may also play a role in the flu. A combination of these small seasonal effects may be amplified by dynamical resonance with the endogenous disease cycles.[154] H5N1 exhibits seasonality in both humans and birds.[155]
+People may experience:
+Pain areas: in the muscles
+Cough: can be dry, with phlegm, or mild
+Whole body: chills, dehydration, fatigue, fever, flushing, loss of appetite, malaise, body ache, or sweating
+Nasal: congestion, runny nose, or sneezing
+Throat: irritation or soreness
+Also common: head congestion, headache, nausea, shortness of breath, or swollen lymph nodes.
+Influenza Symptoms
+
+Influenza (also known as the flu) is a contagious respiratory illness caused by flu viruses. It can cause mild to severe illness, and at times can lead to death. The flu is different from a cold. The flu usually comes on suddenly. People who have the flu often feel some or all of these symptoms:
+
+Fever* or feeling feverish/chills
+Cough
+Sore throat
+Runny or stuffy nose
+Muscle or body aches
+Headaches
+Fatigue (tiredness)
+Some people may have vomiting and diarrhea, though this is more common in children than adults.
+* It's important to note that not everyone with flu will have a fever.
+
+Flu Complications
+
+Most people who get influenza will recover in several days to less than two weeks, but some people will develop complications as a result of the flu. A wide range of complications can be caused by influenza virus infection of the upper respiratory tract (nasal passages, throat) and lower respiratory tract (lungs). While anyone can get sick with flu and become severely ill, some people are more likely to experience severe flu illness. Young children, adults aged 65 years and older, pregnant women, and people with certain chronic medical conditions are among those groups of people who are at high risk of serious flu complications, possibly requiring hospitalization and sometimes resulting in death. For example, people with chronic lung disease are at higher risk of developing severe pneumonia.
+
+Sinus and ear infections are examples of moderate complications from flu, while pneumonia is a serious flu complication that can result from either influenza virus infection alone or from co-infection of flu virus and bacteria. Other possible serious complications triggered by flu can include inflammation of the heart (myocarditis), brain (encephalitis) or muscle (myositis, rhabdomyolysis) tissues, and multi-organ failure (for example, respiratory and kidney failure). Flu virus infection of the respiratory tract can trigger an extreme inflammatory response in the body and can lead to sepsis, the body’s life-threatening response to infection. Flu also can make chronic medical problems worse. For example, people with asthma may experience asthma attacks while they have the flu, and people with chronic heart disease may experience a worsening of this condition triggered by flu.
+
+An alternative hypothesis to explain seasonality in influenza infections is an effect of vitamin D levels on immunity to the virus.[156] This idea was first proposed by Robert Edgar Hope-Simpson in 1965.[157] He proposed that the cause of influenza epidemics during winter may be connected to seasonal fluctuations of vitamin D, which is produced in the skin under the influence of solar (or artificial) UV radiation. This could explain why influenza occurs mostly in winter and during the tropical rainy season, when people stay indoors, away from the sun, and their vitamin D levels fall.
+
+Epidemic and pandemic spread
+Further information: Flu pandemic
+
+Antigenic drift creates influenza viruses with slightly modified antigens, while antigenic shift generates viruses with entirely novel antigens.
+As influenza is caused by a variety of species and strains of viruses, in any given year some strains can die out while others create epidemics, while yet another strain can cause a pandemic. Typically, in a year's normal two flu seasons (one per hemisphere), there are between three and five million cases of severe illness and around 500,000 deaths worldwide,[158] which by some definitions is a yearly influenza epidemic.[159] Although the incidence of influenza can vary widely between years, approximately 36,000 deaths and more than 200,000 hospitalizations are directly associated with influenza every year in the United States.[160][161] One method of calculating influenza mortality produced an estimate of 41,400 average deaths per year in the United States between 1979 and 2001.[162] Different methods in 2010 by the Centers for Disease Control and Prevention (CDC) reported a range from a low of about 3,300 deaths to a high of 49,000 per year.[163]
+
+Roughly three times per century, a pandemic occurs, which infects a large proportion of the world's population and can kill tens of millions of people (see pandemics section). One study estimated that if a strain with similar virulence to the 1918 influenza emerged today, it could kill between 50 and 80 million people.[164]
+
+
+Antigenic shift, or reassortment, can result in novel and highly pathogenic strains of human influenza
+New influenza viruses are constantly evolving by mutation or by reassortment.[42] Mutations can cause small changes in the hemagglutinin and neuraminidase antigens on the surface of the virus. This is called antigenic drift, which slowly creates an increasing variety of strains until one evolves that can infect people who are immune to the pre-existing strains. This new variant then replaces the older strains as it rapidly sweeps through the human population, often causing an epidemic.[165] However, since the strains produced by drift will still be reasonably similar to the older strains, some people will still be immune to them. In contrast, when influenza viruses reassort, they acquire completely new antigens—for example by reassortment between avian strains and human strains; this is called antigenic shift. If a human influenza virus is produced that has entirely new antigens, everybody will be susceptible, and the novel influenza will spread uncontrollably, causing a pandemic.[166] In contrast to this model of pandemics based on antigenic drift and shift, an alternative approach has been proposed where the periodic pandemics are produced by interactions of a fixed set of viral strains with a human population with a constantly changing set of immunities to different viral strains.[167]
+
+
+The generation time for influenza (the time from one infection to the next) is very short (only 2 days). This explains why influenza epidemics start and finish in a short time scale of only a few months.[168]
+From a public health point of view, flu epidemics spread rapidly and are very difficult to control. Most influenza virus strains are not very infectious and each infected individual will only go on to infect one or two other individuals (the basic reproduction number for influenza is generally around 1.4). However, the generation time for influenza is extremely short: the time from a person becoming infected to when he infects the next person is only two days. The short generation time means that influenza epidemics generally peak at around 2 months and burn out after 3 months: the decision to intervene in an influenza epidemic therefore has to be taken early, and the decision is therefore often made on the back of incomplete data. Another problem is that individuals become infectious before they become symptomatic, which means that putting people in quarantine after they become ill is not an effective public health intervention.[168] For the average person, viral shedding tends to peak on day two whereas symptoms peak on day three.[14]
+
+History
+See also: Timeline of influenza
+Etymology
+The word Influenza comes from the Italian language meaning "influence" and refers to the cause of the disease; initially, this ascribed illness to unfavorable astrological influences.[169] Changes in medical thought led to its modification to influenza del freddo, meaning "influence of the cold". The word influenza was first used in English to refer to the disease we know today in 1703 by J. Hugger of the University of Edinburgh in his thesis De Catarrho epidemio, vel Influenza, prout in India occidentali sese ostendit.[170] Archaic terms for influenza include epidemic catarrh, grippe (from the French, first used by Molyneaux in 1694 [171]), sweating sickness, and Spanish fever (particularly for the 1918 flu pandemic strain).[172]
+
+Pandemics
+Further information: Influenza pandemic, Spanish flu, Hong Kong flu
+
+The difference between the influenza mortality age distributions of the 1918 epidemic and normal epidemics. Deaths per 100,000 persons in each age group, United States, for the interpandemic years 1911–1917 (dashed line) and the pandemic year 1918 (solid line).[173]
+
+Thermal imaging camera and screen, photographed in an airport terminal in Greece during the 2009 flu pandemic. Thermal imaging can detect elevated body temperature, one of the signs of swine flu.
+The symptoms of human influenza were clearly described by Hippocrates roughly 2,400 years ago.[174][175] Although the virus seems to have caused epidemics throughout human history, historical data on influenza are difficult to interpret, because the symptoms can be similar to those of other respiratory diseases.[176][177] The disease may have spread from Europe to the Americas as early as the European colonization of the Americas; since almost the entire indigenous population of the Antilles was killed by an epidemic resembling influenza that broke out in 1493, after the arrival of Christopher Columbus.[178][179]
+
+The first convincing record of an influenza pandemic was of an outbreak in 1580, which began in Russia and spread to Europe via Africa. In Rome, over 8,000 people were killed, and several Spanish cities were almost wiped out. Pandemics continued sporadically throughout the 17th and 18th centuries, with the pandemic of 1830–1833 being particularly widespread; it infected approximately a quarter of the people exposed.[177]
+
+The most famous and lethal outbreak was the 1918 flu pandemic (Spanish flu pandemic) (type A influenza, H1N1 subtype), which lasted from 1918 to 1919. It is not known exactly how many it killed, but estimates range from 50 to 100 million people.[173][180][181] This pandemic has been described as "the greatest medical holocaust in history" and may have killed as many people as the Black Death.[177] This huge death toll was caused by an extremely high infection rate of up to 50% and the extreme severity of the symptoms, suspected to be caused by cytokine storms.[181] Symptoms in 1918 were so unusual that initially influenza was misdiagnosed as dengue, cholera, or typhoid. One observer wrote, "One of the most striking of the complications was hemorrhage from mucous membranes, especially from the nose, stomach, and intestine. Bleeding from the ears and petechial hemorrhages in the skin also occurred."[180] The majority of deaths were from bacterial pneumonia, a secondary infection caused by influenza, but the virus also killed people directly, causing massive hemorrhages and edema in the lung.[182]
+
+The 1918 flu pandemic (Spanish flu pandemic) was truly global, spreading even to the Arctic and remote Pacific islands. The unusually severe disease killed between 2 and 20% of those infected, as opposed to the more usual flu epidemic mortality rate of 0.1%.[173][180] Another unusual feature of this pandemic was that it mostly killed young adults, with 99% of pandemic influenza deaths occurring in people under 65, and more than half in young adults 20 to 40 years old.[183] This is unusual since influenza is normally most deadly to the very young (under age 2) and the very old (over age 70). The total mortality of the 1918–1919 pandemic is not known, but it is estimated that 2.5% to 5% of the world's population was killed. As many as 25 million may have been killed in the first 25 weeks; in contrast, HIV/AIDS has killed 25 million in its first 25 years.[180]
+
+Later flu pandemics were not so devastating. They included the 1957 Asian Flu (type A, H2N2 strain) and the 1968 Hong Kong Flu (type A, H3N2 strain), but even these smaller outbreaks killed millions of people. In later pandemics antibiotics were available to control secondary infections and this may have helped reduce mortality compared to the Spanish Flu of 1918.[173]
+
+Known flu pandemics[9][60][177]
+Name of pandemic	Date	Deaths	Case fatality rate	Subtype involved	Pandemic Severity Index
+1889–1890 flu pandemic
+(Asiatic or Russian Flu)[184]	1889–1890	1 million	0.15%	possibly H3N8
+or H2N2	N/A
+1918 flu pandemic
+(Spanish flu)[185]	1918–1920	20 to 100 million	2%	H1N1	5
+Asian Flu	1957–1958	1 to 1.5 million	0.13%	H2N2	2
+Hong Kong Flu	1968–1969	0.75 to 1 million	<0.1%	H3N2	2
+Russian flu	1977–1978	no accurate count	N/A	H1N1	N/A
+2009 flu pandemic[186]	2009–2010	105,700-395,600[187]	0.03%	H1N1	N/A
+The first influenza virus to be isolated was from poultry, when in 1901 the agent causing a disease called "fowl plague" was passed through Chamberland filters, which have pores that are too small for bacteria to pass through.[188] The etiological cause of influenza, the Orthomyxoviridae family of viruses, was first discovered in pigs by Richard Shope in 1931.[189] This discovery was shortly followed by the isolation of the virus from humans by a group headed by Patrick Laidlaw at the Medical Research Council of the United Kingdom in 1933.[190] However, it was not until Wendell Stanley first crystallized tobacco mosaic virus in 1935 that the non-cellular nature of viruses was appreciated.
+
+
+The main types of influenza viruses in humans. Solid squares show the appearance of a new strain, causing recurring influenza pandemics. Broken lines indicate uncertain strain identifications.[191]
+The first significant step towards preventing influenza was the development in 1944 of a killed-virus vaccine for influenza by Thomas Francis, Jr.. This built on work by Australian Frank Macfarlane Burnet, who showed that the virus lost virulence when it was cultured in fertilized hen's eggs.[192] Application of this observation by Francis allowed his group of researchers at the University of Michigan to develop the first influenza vaccine, with support from the U.S. Army.[193] The Army was deeply involved in this research due to its experience of influenza in World War I, when thousands of troops were killed by the virus in a matter of months.[180] In comparison to vaccines, the development of anti-influenza drugs has been slower, with amantadine being licensed in 1966 and, almost thirty years later, the next class of drugs (the neuraminidase inhibitors) being developed.[61]
+
+Society and culture
+Further information: Social impact of H5N1
+Influenza produces direct costs due to lost productivity and associated medical treatment, as well as indirect costs of preventative measures. In the United States, influenza is responsible for a total cost of over $10 billion per year, while it has been estimated that a future pandemic could cause hundreds of billions of dollars in direct and indirect costs.[194] However, the economic impacts of past pandemics have not been intensively studied, and some authors have suggested that the Spanish influenza actually had a positive long-term effect on per-capita income growth, despite a large reduction in the working population and severe short-term depressive effects.[195] Other studies have attempted to predict the costs of a pandemic as serious as the 1918 Spanish flu on the U.S. economy, where 30% of all workers became ill, and 2.5% were killed. A 30% sickness rate and a three-week length of illness would decrease the gross domestic product by 5%. Additional costs would come from medical treatment of 18 million to 45 million people, and total economic costs would be approximately $700 billion.[196]
+
+Preventative costs are also high. Governments worldwide have spent billions of U.S. dollars preparing and planning for a potential H5N1 avian influenza pandemic, with costs associated with purchasing drugs and vaccines as well as developing disaster drills and strategies for improved border controls.[197] On 1 November 2005, United States President George W. Bush unveiled the National Strategy to Safeguard Against the Danger of Pandemic Influenza[198] backed by a request to Congress for $7.1 billion to begin implementing the plan.[199] Internationally, on 18 January 2006, donor nations pledged US$2 billion to combat bird flu at the two-day International Pledging Conference on Avian and Human Influenza held in China.[200]
+
+In an assessment of the 2009 H1N1 pandemic on selected countries in the Southern Hemisphere, data suggest that all countries experienced some time-limited and/or geographically isolated socio/economic effects and a temporary decrease in tourism most likely due to fear of 2009 H1N1 disease. It is still too early to determine whether the H1N1 pandemic has caused any long-term economic impacts.[201]
+
+Research
+Further information: Influenza research
+
+Dr. Terrence Tumpey examining a laboratory-grown reconstruction of the 1918 Spanish flu virus in a biosafety level 3 environment.
+Research on influenza includes studies on molecular virology, how the virus produces disease (pathogenesis), host immune responses, viral genomics, and how the virus spreads (epidemiology). These studies help in developing influenza countermeasures; for example, a better understanding of the body's immune system response helps vaccine development, and a detailed picture of how influenza invades cells aids the development of antiviral drugs. One important basic research program is the Influenza Genome Sequencing Project, which is creating a library of influenza sequences; this library should help clarify which factors make one strain more lethal than another, which genes most affect immunogenicity, and how the virus evolves over time.[202]
+
+Research into new vaccines is particularly important, as current vaccines are very slow and expensive to produce and must be reformulated every year. The sequencing of the influenza genome and recombinant DNA technology may accelerate the generation of new vaccine strains by allowing scientists to substitute new antigens into a previously developed vaccine strain.[203] New technologies are also being developed to grow viruses in cell culture, which promises higher yields, less cost, better quality and surge capacity.[204] Research on a universal influenza A vaccine, targeted against the external domain of the transmembrane viral M2 protein (M2e), is being done at the University of Ghent by Walter Fiers, Xavier Saelens and their team[205][206][207] and has now successfully concluded Phase I clinical trials. There has been some research success towards a "universal flu vaccine" that produces antibodies against proteins on the viral coat which mutate less rapidly, and thus a single shot could potentially provide longer-lasting protection.[208][209][210]
+
+A number of biologics, therapeutic vaccines and immunobiologics are also being investigated for treatment of infection caused by viruses. Therapeutic biologics are designed to activate the immune response to virus or antigens. Typically, biologics do not target metabolic pathways like anti-viral drugs, but stimulate immune cells such as lymphocytes, macrophages, and/or antigen presenting cells, in an effort to drive an immune response towards a cytotoxic effect against the virus. Influenza models, such as murine influenza, are convenient models to test the effects of prophylactic and therapeutic biologics. For example, Lymphocyte T-Cell Immune Modulator inhibits viral growth in the murine model of influenza.[211]
+
+
+Further information: Influenzavirus A, H5N1, and Transmission and infection of H5N1
+Influenza infects many animal species, and transfer of viral strains between species can occur. Birds are thought to be the main animal reservoirs of influenza viruses.[212] Sixteen forms of hemagglutinin and nine forms of neuraminidase have been identified. All known subtypes (HxNy) are found in birds, but many subtypes are endemic in humans, dogs, horses, and pigs; populations of camels, ferrets, cats, seals, mink, and whales also show evidence of prior infection or exposure to influenza.[47] Variants of flu virus are sometimes named according to the species the strain is endemic in or adapted to. The main variants named using this convention are: bird flu, human flu, swine flu, horse flu and dog flu. (Cat flu generally refers to feline viral rhinotracheitis or feline calicivirus and not infection from an influenza virus.) In pigs, horses and dogs, influenza symptoms are similar to humans, with cough, fever and loss of appetite.[47] The frequency of animal diseases are not as well-studied as human infection, but an outbreak of influenza in harbor seals caused approximately 500 seal deaths off the New England coast in 1979–1980.[213] However, outbreaks in pigs are common and do not cause severe mortality.[47] Vaccines have also been developed to protect poultry from avian influenza. These vaccines can be effective against multiple strains and are used either as part of a preventative strategy, or combined with culling in attempts to eradicate outbreaks.[214]
+
+Bird flu
+Flu symptoms in birds are variable and can be unspecific.[215] The symptoms following infection with low-pathogenicity avian influenza may be as mild as ruffled feathers, a small reduction in egg production, or weight loss combined with minor respiratory disease.[216] Since these mild symptoms can make diagnosis in the field difficult, tracking the spread of avian influenza requires laboratory testing of samples from infected birds. Some strains such as Asian H9N2 are highly virulent to poultry and may cause more extreme symptoms and significant mortality.[217] In its most highly pathogenic form, influenza in chickens and turkeys produces a sudden appearance of severe symptoms and almost 100% mortality within two days.[218] As the virus spreads rapidly in the crowded conditions seen in the intensive farming of chickens and turkeys, these outbreaks can cause large economic losses to poultry farmers.
+
+An avian-adapted, highly pathogenic strain of H5N1 (called HPAI A(H5N1), for "highly pathogenic avian influenza virus of type A of subtype H5N1") causes H5N1 flu, commonly known as "avian influenza" or simply "bird flu", and is endemic in many bird populations, especially in Southeast Asia. This Asian lineage strain of HPAI A(H5N1) is spreading globally. It is epizootic (an epidemic in non-humans) and panzootic (a disease affecting animals of many species, especially over a wide area), killing tens of millions of birds and spurring the culling of hundreds of millions of other birds in an attempt to control its spread. Most references in the media to "bird flu" and most references to H5N1 are about this specific strain.[219][220]
+
+At present, HPAI A(H5N1) is an avian disease, and there is no evidence suggesting efficient human-to-human transmission of HPAI A(H5N1). In almost all cases, those infected have had extensive physical contact with infected birds.[221] In the future, H5N1 may mutate or reassort into a strain capable of efficient human-to-human transmission. The exact changes that are required for this to happen are not well understood.[222] However, due to the high lethality and virulence of H5N1, its endemic presence, and its large and increasing biological host reservoir, the H5N1 virus was the world's pandemic threat in the 2006–07 flu season, and billions of dollars are being raised and spent researching H5N1 and preparing for a potential influenza pandemic.[197]
+
+
+Chinese inspectors on an airplane, checking passengers for fevers, a common symptom of swine flu
+In March 2013, the Chinese government reported three cases of H7N9 influenza infections in humans. Two of whom had died and the third was critically ill. Although the strain of the virus is not thought to spread efficiently between humans,[223][224] by mid-April, at least 82 persons had become ill from H7N9, of which 17 had died. These cases include three small family clusters in Shanghai and one cluster between a neighboring girl and boy in Beijing, raising at least the possibility of human-to-human transmission. WHO points out that one cluster did not have two of the cases lab confirmed and further points out, as a matter of baseline information, that some viruses are able to cause limited human-to-human transmission under conditions of close contact but are not transmissible enough to cause large community outbreaks.[225][226]
+
+Swine flu
+In pigs swine influenza produces fever, lethargy, sneezing, coughing, difficulty breathing and decreased appetite.[227] In some cases the infection can cause abortion. Although mortality is usually low, the virus can produce weight loss and poor growth, causing economic loss to farmers.[227] Infected pigs can lose up to 12 pounds of body weight over a 3- to 4-week period.[227] Direct transmission of an influenza virus from pigs to humans is occasionally possible (this is called zoonotic swine flu). In all, 50 human cases are known to have occurred since the virus was identified in the mid-20th century, which have resulted in six deaths.[228]
+
+In 2009, a swine-origin H1N1 virus strain commonly referred to as "swine flu" caused the 2009 flu pandemic, but there is no evidence that it is endemic to pigs (i.e. actually a swine flu) or of transmission from pigs to people, instead the virus is spreading from person to person.[229][230] This strain is a reassortment of several strains of H1N1 that are usually found separately, in humans, birds, and pigs.
+How Flu Spreads
+Person to Person
+
+People with flu can spread it to others up to about 6 feet away. Most experts think that flu viruses are spread mainly by droplets made when people with flu cough, sneeze or talk. These droplets can land in the mouths or noses of people who are nearby or possibly be inhaled into the lungs. Less often, a person might also get flu by touching a surface or object that has flu virus on it and then touching their own mouth or nose.
+
+To avoid this, people should stay away from sick people and stay home if sick. It also is important to wash hands often with soap and water. If soap and water are not available, use an alcohol-based hand rub. Linens, eating utensils, and dishes belonging to those who are sick should not be shared without washing thoroughly first. Eating utensils can be washed either in a dishwasher or by hand with water and soap and do not need to be cleaned separately. Further, frequently touched surfaces should be cleaned and disinfected at home, work and school, especially if someone is ill.
+
+The Flu Is Contagious
+
+Most healthy adults may be able to infect other people beginning 1 day before symptoms develop and up to 5 to 7 days after becoming sick. Children may pass the virus for longer than 7 days. Symptoms start 1 to 4 days after the virus enters the body. That means that you may be able to pass on the flu to someone else before you know you are sick, as well as while you are sick. Some people can be infected with the flu virus but have no symptoms. During this time, those persons may still spread the virus to others.
+Preventing Seasonal Flu With Vaccination
+On June 22, 2016, CDC’s Advisory Committee on Immunization Practices (ACIP) recommended a change to U.S. influenza vaccination policy for 2016-2017. The ACIP recommendation must be reviewed and approved by CDC’s Director, and the final recommendations will be published in a CDC Morbidity and Mortality Weekly Report (MMWR), in late summer or early fall. The content of this website will be reviewed and updated prior to the 2016-2017 influenza season.
+Influenza
+
+What is Influenza?
+
+Influenza (also known as the flu) is a contagious respiratory illness caused by influenza viruses. It can cause mild to severe illness, and at times can lead to death. The best way to prevent the flu is by getting a flu vaccination each year.
+
+Complications of influenza can include bacterial pneumonia, ear infections, sinus infections, dehydration, and worsening of chronic medical conditions, such as congestive heart failure, asthma, or diabetes.
+
+Causes of the flu
+The flu is caused by influenza virus types A, B, and C. Both type A and type B flu viruses are responsible for the seasonal outbreaks of flu. Type A flu viruses are found in many different animals, including ducks, chickens, pigs, and horses. Influenza B viruses circulate widely only among humans.
+
+Flu viruses spread mainly from person to person, through coughing or sneezing by people infected with influenza. Sometimes people may become infected by touching a contaminated surface and then touching their mouth or nose. Healthy adults may be able to infect others beginning one day before symptoms develop and up to seven days after becoming sick. This means a person may be able to pass on the flu to someone else before ever knowing they are sick.
+
+Flu symptoms
+Symptoms of the flu include fever, headache, fatigue, cough, sore throat, runny or stuffy nose, body aches, diarrhea and vomiting (more common among children than adults).
+
+If you develop flu-like symptoms and are concerned about your illness, especially if you are at high risk for complications of the flu, you should consult your health care provider. Those at high risk for complications include people 65 years or older, people with chronic medical conditions, pregnant women, and young children.
+
+Preventing the flu
+The most important step in flu prevention is getting vaccinated each year with a flu shot. Avoid close contact with people who are sick, stay home when you are sick, cover your mouth and nose when you cough or sneeze, wash your hands, avoid touching your eyes, nose or mouth, get plenty of sleep, and drink plenty of fluids. In certain situations, antiviral drugs can be used to prevent seasonal influenza.
+
+Treating the flu
+If you get the flu, there are some actions you can take at home, such as getting plenty of rest, drinking plenty of liquids, avoiding alcohol and tobacco use, and taking medication to relieve the symptoms of flu. Using aspirin or ibuprofen can also help to treat the fever, headaches and muscle aches associated with the flu. Aspirin should never be used to treat flu-like symptoms in children. Antiviral drugs may also be prescribed for treating the flu, depending upon the duration of illness, severity of symptoms, and your medical history.
