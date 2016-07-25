@@ -42,18 +42,28 @@
                 </div>
                 <select ng-model="select3" ng-change="getSelect3(select3)">
                     <option>Cancer</option>
-                    <option selected>Lung Cancer</option>
-                    <option>Skin Cancer</option>
-                    <option>Brain Cancer</option>
+                    <option selected>LungCancer</option>
+                    <option>SkinCancer</option>
+                    <option>BrainCancer</option>
                 </select>
             </label>
         </div>
         
-        <h2>{{queryText1}}</h2>
+        <h4><b>Question: </b>{{queryText1}}</h4>
+        <h4><b>SPARQL Query: </b>{{sparqlQuery}}</h4>
         
-        <button class="button button-full button-positive">
+        <button class="button button-full button-positive" ng-click="buildQuery()">
           Execute Query
         </button>
+        
+        <h2>Answer:</h2>
+        <ion-list>
+            <div ng-repeat="item in answers" divider-collection-repeat>
+                <ion-item>
+                    <h3><b>{{item.answer}}</b></h3>
+                </ion-item>
+            </div>
+        </ion-list>
     
     </ion-content>
 </ion-view>

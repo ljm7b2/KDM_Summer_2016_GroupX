@@ -14,7 +14,7 @@ public class QueryVirtuoso {
 	{
 		JSONObject queryResults = new JSONObject();		
 		String service = "http://localhost:8890/sparql";		
-		String queryAndPrefix = "PREFIX d: <https://www.mnpkdm.com/OWL/disease#> " + userQuery;		
+		String queryAndPrefix = "PREFIX d: <https://www.mnpkdm.com/OWL/disease#> PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>" + userQuery;		
 		Query query = QueryFactory.create(queryAndPrefix);
 		
 		QueryExecution qe = QueryExecutionFactory.sparqlService(service, query);		
@@ -24,9 +24,14 @@ public class QueryVirtuoso {
 	        for ( ; results.hasNext() ; ) {
 	            QuerySolution soln = results.nextSolution() ;
 	            RDFNode i = soln.get("i") ;
-	            //System.out.println(i.toString());
+	            System.out.println(i.toString());
 	            counter++;
-	            queryResults.put("Result_" + Integer.toString(counter), i.toString().substring(0, i.toString().indexOf("^")));
+	            if(i.toString().contains("https://www.mnpkdm"))
+	            {
+	            	queryResults.put("Result_" + Integer.toString(counter), i.toString().substring(i.toString().indexOf("#") + 1));
+	            }else{
+	            	queryResults.put("Result_" + Integer.toString(counter), i.toString().substring(0, i.toString().indexOf("^")));
+	            }
 	        }
 	        queryResults.put("total", Integer.toString(counter));
 	     } catch (Exception e) {
