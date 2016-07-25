@@ -60,7 +60,29 @@ angular.module('app.controllers', ['PointService'])
 })
    
 .controller('contactCtrl', function($scope) {
+    
+    $scope.queryText1 = "";
+    $scope.queryText2 = "";
+    $scope.queryText3 = "";
+    $scope.queryText4 = "";
+    
+    
+    $scope.getSelect1 = function(select){
+        console.log(select)
+        $scope.queryText2 = select
+        $scope.queryText1 = select + " " + $scope.queryText3 + " " + $scope.queryText4 + "?"
+    }
 
+    $scope.getSelect2 = function(select){
+        console.log(select)
+        $scope.queryText3 = select
+        $scope.queryText1 = $scope.queryText2 + " " + select + " " + $scope.queryText4 + "?"
+    }
+    $scope.getSelect3 = function(select){
+        console.log(select)
+        $scope.queryText4 = select
+        $scope.queryText1 = $scope.queryText2 + " " + $scope.queryText3 + " " + select + "?"
+    }
 })
 
 .controller('chartJS', function($scope){
