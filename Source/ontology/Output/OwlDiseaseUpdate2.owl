@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="https://www.mnpkdm.com/OWL/disease"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="https://www.mnpkdm.com/OWL/disease">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Disease"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#LungCancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#SkinCancer"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Poliomyelitis"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Cerebral Palsy"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Mumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#PhysicalDeformation"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#BrainCancer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#CausesOf"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cancer"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#isAffected"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Spina Bifida"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ViralInfection"/>
+    </Declaration>
+    <Declaration>
+        <DataProperty IRI="#hasSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Influenza"/>
+    </Declaration>
+    <Declaration>
+        <NamedIndividual IRI="#Chickenpox"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Cancer"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#PhysicalDeformation"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ViralInfection"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Cancer"/>
+        <Class IRI="#PhysicalDeformation"/>
+        <Class IRI="#ViralInfection"/>
+    </DisjointClasses>
+    <ClassAssertion>
+        <Class IRI="#Cancer"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ViralInfection"/>
+        <NamedIndividual IRI="#Chickenpox"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ViralInfection"/>
+        <NamedIndividual IRI="#Influenza"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cancer"/>
+        <NamedIndividual IRI="#LungCancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#ViralInfection"/>
+        <NamedIndividual IRI="#Mumps"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#PhysicalDeformation"/>
+        <NamedIndividual IRI="#Poliomyelitis"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#Cancer"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#PhysicalDeformation"/>
+        <NamedIndividual IRI="#Cerebral Palsy"/>
+    </ClassAssertion>
+    <ClassAssertion>
+        <Class IRI="#PhysicalDeformation"/>
+        <NamedIndividual IRI="#Spina Bifida"/>
+    </ClassAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Dizziness</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Headache</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Nausea</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lungs</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#BrainCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lymphnodes</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#CausesOf"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Intake of Carcinogens</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#CausesOf"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Smoking</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">ChestPain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Fatigue</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Wheezing</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lungs</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#LungCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lymphnodes</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#CausesOf"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Burning</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#CausesOf"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Tanning</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#CausesOf"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">UV Radiation</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Lumps</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Scalypatch</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#hasSymptoms"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Ulcer</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Brain</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Liver</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyAssertion>
+        <DataProperty IRI="#isAffected"/>
+        <NamedIndividual IRI="#SkinCancer"/>
+        <Literal datatypeIRI="http://www.w3.org/2001/XMLSchema#string">Pancreas</Literal>
+    </DataPropertyAssertion>
+    <DataPropertyDomain>
+        <DataProperty IRI="#CausesOf"/>
+        <Class IRI="#Cancer"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasSymptoms"/>
+        <Class IRI="#Cancer"/>
+    </DataPropertyDomain>
+    <DataPropertyDomain>
+        <DataProperty IRI="#isAffected"/>
+        <Class IRI="#Cancer"/>
+    </DataPropertyDomain>
+    <DataPropertyRange>
+        <DataProperty IRI="#CausesOf"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#hasSymptoms"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+    <DataPropertyRange>
+        <DataProperty IRI="#isAffected"/>
+        <Datatype abbreviatedIRI="xsd:string"/>
+    </DataPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.0.2.20160507-1747) https://github.com/owlcs/owlapi/ -->
+
+
