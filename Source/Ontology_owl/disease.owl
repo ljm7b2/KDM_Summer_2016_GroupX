@@ -1,0 +1,719 @@
+<?xml version="1.0"?>
+<Ontology xmlns="http://www.w3.org/2002/07/owl#"
+     xml:base="https://www.kdm.com/OWL/Disease"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     ontologyIRI="https://www.kdm.com/OWL/Disease">
+    <Prefix name="owl" IRI="http://www.w3.org/2002/07/owl#"/>
+    <Prefix name="rdf" IRI="http://www.w3.org/1999/02/22-rdf-syntax-ns#"/>
+    <Prefix name="xml" IRI="http://www.w3.org/XML/1998/namespace"/>
+    <Prefix name="xsd" IRI="http://www.w3.org/2001/XMLSchema#"/>
+    <Prefix name="rdfs" IRI="http://www.w3.org/2000/01/rdf-schema#"/>
+    <Declaration>
+        <Class IRI="#Disease"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#causesLungcancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#InfluenzaAffectedBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#pancreas"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LungCancerPrevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MumpsSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fatigue"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Skin"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Soreness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#scalypatch"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#burns"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#brain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#headache"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#stomach"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Lung"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#causesBraincancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Throat"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MumpsAffectedBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MMRvaccination"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedpartsofInfluenza"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#causes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrainCancerBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#dizziness"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkinCancerSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#UVradiation"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedpartof"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#itching"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#preventsMumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Virulinfection"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#SymptomsofChickenpox"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Carcinogens"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkinCancerPrevention"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedBrainCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Smoking"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#scab"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Neck"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Brain"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LungCancerBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#SymptomofLungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#liver"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#wheezing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#preventsInfluenza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chills"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#nausea"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrainCancerPrevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#InfluenzaSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ears"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chickenpoxprevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#face"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Influenza"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Testicles"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#sneezing"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#preventsChickenpox"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ulcer"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#SymptomsofInfluenza"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#isSymptomof"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedpartsofChickenpox"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedpartsofMumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#abdomen"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Influenzaprevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#blister"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Vaccination"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#toxicchemicals"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#fever"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Bronchialtubes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#eyes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#LungCancerSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#SymptomofBrainCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#radiation"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lungs"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SkinCancerBodyparts"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#HIVinfection"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#affectedLungCancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#BrainCancerSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#SickPeople"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Cancer"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#NeckSwelling"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Mumpsprevention"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#lymphnodes"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Dehydration"/>
+    </Declaration>
+    <Declaration>
+        <ObjectProperty IRI="#SymptomsofMumps"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#tanning"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#Chickenpox"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ContaminatedWater"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#ChickenpoxSymptoms"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#chestpain"/>
+    </Declaration>
+    <SubClassOf>
+        <Class IRI="#Brain"/>
+        <Class IRI="#Cancer"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrainCancerBodyparts"/>
+        <Class IRI="#Brain"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrainCancerPrevention"/>
+        <Class IRI="#Brain"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#BrainCancerSymptoms"/>
+        <Class IRI="#Brain"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Bronchialtubes"/>
+        <Class IRI="#InfluenzaAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Cancer"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Carcinogens"/>
+        <Class IRI="#LungCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chickenpox"/>
+        <Class IRI="#Virulinfection"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+        <Class IRI="#Chickenpox"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ChickenpoxSymptoms"/>
+        <Class IRI="#Chickenpox"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chickenpoxprevention"/>
+        <Class IRI="#Chickenpox"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Chills"/>
+        <Class IRI="#MumpsSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ContaminatedWater"/>
+        <Class IRI="#Influenzaprevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Dehydration"/>
+        <Class IRI="#InfluenzaSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#HIVinfection"/>
+        <Class IRI="#BrainCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Influenza"/>
+        <Class IRI="#Virulinfection"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#InfluenzaAffectedBodyparts"/>
+        <Class IRI="#Influenza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#InfluenzaSymptoms"/>
+        <Class IRI="#Influenza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Influenzaprevention"/>
+        <Class IRI="#Influenza"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Lung"/>
+        <Class IRI="#Cancer"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancerBodyparts"/>
+        <Class IRI="#Lung"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancerPrevention"/>
+        <Class IRI="#Lung"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#LungCancerSymptoms"/>
+        <Class IRI="#Lung"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MMRvaccination"/>
+        <Class IRI="#Mumpsprevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mumps"/>
+        <Class IRI="#Virulinfection"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MumpsAffectedBodyparts"/>
+        <Class IRI="#Mumps"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#MumpsSymptoms"/>
+        <Class IRI="#Mumps"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Mumpsprevention"/>
+        <Class IRI="#Mumps"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Neck"/>
+        <Class IRI="#MumpsAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#NeckSwelling"/>
+        <Class IRI="#MumpsSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SickPeople"/>
+        <Class IRI="#Influenzaprevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Skin"/>
+        <Class IRI="#Cancer"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SkinCancerBodyparts"/>
+        <Class IRI="#Skin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SkinCancerPrevention"/>
+        <Class IRI="#Skin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#SkinCancerSymptoms"/>
+        <Class IRI="#Skin"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Smoking"/>
+        <Class IRI="#LungCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Soreness"/>
+        <Class IRI="#MumpsSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Testicles"/>
+        <Class IRI="#MumpsAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Throat"/>
+        <Class IRI="#InfluenzaAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#UVradiation"/>
+        <Class IRI="#SkinCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Vaccination"/>
+        <Class IRI="#Chickenpoxprevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#Virulinfection"/>
+        <Class IRI="#Disease"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#abdomen"/>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#blister"/>
+        <Class IRI="#ChickenpoxSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#brain"/>
+        <Class IRI="#SkinCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#burns"/>
+        <Class IRI="#SkinCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#chestpain"/>
+        <Class IRI="#LungCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#dizziness"/>
+        <Class IRI="#BrainCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ears"/>
+        <Class IRI="#BrainCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#eyes"/>
+        <Class IRI="#BrainCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#face"/>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fatigue"/>
+        <Class IRI="#LungCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#fever"/>
+        <Class IRI="#InfluenzaSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#headache"/>
+        <Class IRI="#BrainCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#itching"/>
+        <Class IRI="#ChickenpoxSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#liver"/>
+        <Class IRI="#SkinCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lumps"/>
+        <Class IRI="#SkinCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lungs"/>
+        <Class IRI="#LungCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#lymphnodes"/>
+        <Class IRI="#LungCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#nausea"/>
+        <Class IRI="#BrainCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#pancreas"/>
+        <Class IRI="#SkinCancerBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#radiation"/>
+        <Class IRI="#BrainCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#scab"/>
+        <Class IRI="#ChickenpoxSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#scalypatch"/>
+        <Class IRI="#SkinCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#sneezing"/>
+        <Class IRI="#InfluenzaSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#stomach"/>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#tanning"/>
+        <Class IRI="#SkinCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#toxicchemicals"/>
+        <Class IRI="#BrainCancerPrevention"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#ulcer"/>
+        <Class IRI="#SkinCancerSymptoms"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#wheezing"/>
+        <Class IRI="#LungCancerSymptoms"/>
+    </SubClassOf>
+    <DisjointClasses>
+        <Class IRI="#Brain"/>
+        <Class IRI="#Chickenpox"/>
+        <Class IRI="#Influenza"/>
+        <Class IRI="#Lung"/>
+        <Class IRI="#Mumps"/>
+        <Class IRI="#Skin"/>
+    </DisjointClasses>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#SymptomofBrainCancer"/>
+        <Class IRI="#BrainCancerSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#SymptomofLungCancer"/>
+        <Class IRI="#LungCancerSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#SymptomsofChickenpox"/>
+        <Class IRI="#ChickenpoxSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#SymptomsofInfluenza"/>
+        <Class IRI="#InfluenzaSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#SymptomsofMumps"/>
+        <Class IRI="#MumpsSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedBrainCancer"/>
+        <Class IRI="#BrainCancerBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedLungCancer"/>
+        <Class IRI="#LungCancerBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedpartof"/>
+        <Class IRI="#SkinCancerBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedpartsofChickenpox"/>
+        <Class IRI="#ChickenpoxAffectedBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedpartsofInfluenza"/>
+        <Class IRI="#InfluenzaAffectedBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#affectedpartsofMumps"/>
+        <Class IRI="#MumpsAffectedBodyparts"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#causes"/>
+        <Class IRI="#SkinCancerPrevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#causesBraincancer"/>
+        <Class IRI="#BrainCancerPrevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#causesLungcancer"/>
+        <Class IRI="#LungCancerPrevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#isSymptomof"/>
+        <Class IRI="#SkinCancerSymptoms"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#preventsChickenpox"/>
+        <Class IRI="#Chickenpoxprevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#preventsInfluenza"/>
+        <Class IRI="#Influenzaprevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyDomain>
+        <ObjectProperty IRI="#preventsMumps"/>
+        <Class IRI="#Mumpsprevention"/>
+    </ObjectPropertyDomain>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#SymptomofBrainCancer"/>
+        <Class IRI="#Brain"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#SymptomofLungCancer"/>
+        <Class IRI="#Lung"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#SymptomsofChickenpox"/>
+        <Class IRI="#Chickenpox"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#SymptomsofInfluenza"/>
+        <Class IRI="#Influenza"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#SymptomsofMumps"/>
+        <Class IRI="#Mumps"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedBrainCancer"/>
+        <Class IRI="#Brain"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedLungCancer"/>
+        <Class IRI="#Lung"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedpartof"/>
+        <Class IRI="#Skin"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedpartsofChickenpox"/>
+        <Class IRI="#Chickenpox"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedpartsofInfluenza"/>
+        <Class IRI="#Influenza"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#affectedpartsofMumps"/>
+        <Class IRI="#Mumps"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#causes"/>
+        <Class IRI="#Skin"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#causesBraincancer"/>
+        <Class IRI="#Brain"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#causesLungcancer"/>
+        <Class IRI="#Lung"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#isSymptomof"/>
+        <Class IRI="#Skin"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#preventsChickenpox"/>
+        <Class IRI="#Chickenpox"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#preventsInfluenza"/>
+        <Class IRI="#Influenza"/>
+    </ObjectPropertyRange>
+    <ObjectPropertyRange>
+        <ObjectProperty IRI="#preventsMumps"/>
+        <Class IRI="#Mumps"/>
+    </ObjectPropertyRange>
+</Ontology>
+
+
+
+<!-- Generated by the OWL API (version 5.0.2.20160507-1747) https://github.com/owlcs/owlapi/ -->
+
+

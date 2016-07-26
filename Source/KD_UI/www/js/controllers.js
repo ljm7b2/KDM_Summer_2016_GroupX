@@ -59,8 +59,92 @@ angular.module('app.controllers', ['PointService'])
 
 })
    
-.controller('contactCtrl', function($scope) {
+.controller('contactCtrl', function($scope, $http) {
+    
+    $scope.queryText1 = "";
+    $scope.queryText2 = "";
+    $scope.queryText3 = "";
+    $scope.queryText4 = "";
+    $scope.userQuery = "";
+    
+    
+    
+    $scope.getSelect1 = function(select){
+        console.log(select)
+        $scope.queryText2 = select
+        $scope.queryText1 = select + " " + $scope.queryText3 + " " + $scope.queryText4 + "?"
+    }
 
+    $scope.getSelect2 = function(select){
+        console.log(select)
+        $scope.queryText3 = select
+        $scope.queryText1 = $scope.queryText2 + " " + select + " " + $scope.queryText4 + "?"
+    }
+    $scope.getSelect3 = function(select){
+        console.log(select)
+        $scope.queryText4 = select
+        $scope.queryText1 = $scope.queryText2 + " " + $scope.queryText3 + " " + select + "?"
+    }
+    
+    $scope.buildQuery = function(){
+        console.log("hello world")
+        
+        $scope.select1 = "SELECT ?i WHERE { "
+        $scope.select2 = ""
+        $scope.select3 = ""
+        $scope.selectType = ""
+        console.log($scope.queryText2)
+        $scope.sparqlQuery = ""
+        
+        if($scope.queryText3 == "are the symptoms of"){
+            $scope.select2 = " d:" + $scope.queryText4 
+            $scope.select3 = " d:hasSymptoms ?i} "
+            console.log($scope.select1 + $scope.select2 + $scope.select3)
+            $scope.sparqlQuery = $scope.select1 + $scope.select2 + $scope.select3
+            $scope.getAnswer( $scope.select1 + $scope.select2 + $scope.select3 )
+            
+            
+        }else if($scope.queryText3 == "body parts are affected by"){
+            $scope.select2 = " d:" + $scope.queryText4
+            $scope.select3 = " d:isAffected ?i} "
+            console.log($scope.select1 + $scope.select2 + $scope.select3)
+            $scope.sparqlQuery = $scope.select1 + $scope.select2 + $scope.select3
+            $scope.getAnswer( $scope.select1 + $scope.select2 + $scope.select3 )
+            
+        }else if($scope.queryText3 == "is the cause of"){
+            $scope.select2 = " d:" + $scope.queryText4
+            $scope.select3 = " d:CausesOf ?i} "
+            console.log($scope.select1 + $scope.select2 + $scope.select3)
+            $scope.sparqlQuery = $scope.select1 + $scope.select2 + $scope.select3
+            $scope.getAnswer( $scope.select1 + $scope.select2 + $scope.select3 )
+            
+        }else if($scope.queryText3 == "are the types of"){
+            $scope.selectType = "?i rdf:type d:" + $scope.queryText4 + "} "
+            $scope.sparqlQuery = $scope.select1 + $scope.selectType
+            $scope.getAnswer( $scope.select1 + $scope.selectType )
+            
+        }else{
+            console.log("There is an error in query 1")
+        }
+        
+    }
+    
+    $scope.getAnswer = function(query){
+        var link = "http://localhost:8080/QAServer/QueryOntology?query=" + query
+        console.log(link)
+        $scope.answers = []
+        $http.get(link).then(function (response){
+            
+            for(var i = 0; i <= response.data.total; i++){
+                var item = {
+                    answer: response.data["Result_" + i]
+                };
+                $scope.answers.push(item)
+            }
+            console.log($scope.answers)
+        });       
+    }
+    
 })
 
 .controller('chartJS', function($scope){
