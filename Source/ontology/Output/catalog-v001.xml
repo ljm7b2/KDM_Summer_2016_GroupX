@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="http://www.kdm.com/ontologies/pizza" uri="ProtegeOwlPizza.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.kdm.com/OWL/Disease" uri="disease.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.kdm.com/OWL/Disease" uri="disease2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="https://www.kdm.com/OWL/pizza" uri="OwlPizza.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.mnpkdm.com/OWL/disease" uri="OwlDiseaseUpdate.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.mnpkdm.com/OWL/disease" uri="OwlDiseaseUpdate2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.mnpkdm.com/OWL/disease" uri="OwlDiseaseUpdate5.1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.mnpkdm.com/OWL/disease" uri="OwlDiseaseUpdate5.2.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1469402316655" name="duplicate:https://www.mnpkdm.com/OWL/disease" uri="OwlDiseaseUpdate5.owl"/>
+    </group>
+</catalog>

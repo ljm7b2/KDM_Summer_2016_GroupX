@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="User Entered Import Resolution" name="https://www.kdm.com/OWL/health" uri="health3.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1468930349683" name="duplicate:http://www.semanticweb.org/manojprabhakar/ontologies/2016/6/untitled-ontology-3" uri="health1.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468930349683" name="duplicate:http://www.semanticweb.org/manojprabhakar/ontologies/2016/6/untitled-ontology-3" uri="health3.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468930349683" name="duplicate:https://www.kdm.com/OWL/health" uri="health.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468930349683" name="duplicate:https://www.kdm.com/OWL/health" uri="healthonto.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1468930349683" name="https://www.kdm.com/OWL/pizza" uri="OwlPizza.owl"/>
+    </group>
+</catalog>
