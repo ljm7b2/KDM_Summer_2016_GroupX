@@ -1,0 +1,2699 @@
+Brain Cancer
+Brain cancer can have a wide variety of symptoms including seizures, sleepiness, confusion, and behavioral changes. Not all brain tumors are cancerous, and benign tumors can result in similar symptoms.
+
+A brain tumor or intracranial neoplasm occurs when abnormal cells form within the brain.[1] There are two main types of tumors: malignant or cancerous tumors and benign tumors.[1] Cancerous tumors can be divided into primary tumors that start within the brain, and secondary tumors that have spread from somewhere else, known as brain metastasis tumors.[2] This article deals mainly with tumors that start within the brain. All types of brain tumors may produce symptoms that vary depending on the part of the brain involved.[1] These may include headaches, seizures, problem with vision, vomiting, and mental changes.[2][3] The headache is classically worse in the morning and goes away with vomiting.[1] More specific problems may include difficulty in walking, speaking and with sensation.[2][4] As the disease progresses unconsciousness may occur.[4]
+
+The cause of most brain tumors is unknown.[1] Risk factors that may occasionally be involved include a number of inherited conditions known as neurofibromatosis as well as exposure to the industrial chemical vinyl chloride, the Epstein-Barr virus, and ionizing radiation.[1][2][4] While concern has been raised about mobile phone use, the evidence is not clear.[4] The most common types of primary tumors in adults are: meningiomas (usually benign), and astrocytomas such as glioblastomas.[2] In children, the most common type is a malignant medulloblastoma.[4] Diagnosis is usually by medical examination along with computed tomography or magnetic resonance imaging.[1] This is then often confirmed by a biopsy.[2] Based on the findings, the tumors are divided into different grades of severity.[2]
+
+Treatment may include some combination of surgery, radiation therapy and chemotherapy.[2] Anticonvulsant medication may be needed if seizures occur.[2] Dexamethasone and furosemide may be used to decrease swelling around the tumor.[2] Some tumors grow gradually, requiring only monitoring and possibly needing no further intervention.[2] Treatments that use a person's immune system are being studied.[1] Outcome varies considerably depending on the type of tumor and how far it has spread at diagnosis.[4] Glioblastomas usually have poor outcomes while meningiomas usually have good outcomes.[4] The average five-year survival rate for brain cancer in the United States is 33%.[5]
+
+Secondary or metastatic brain tumors are more common than primary brain tumors,[1] with about half of metastases coming from lung cancer.[1] Primary brain tumors occur in around 250,000 people a year globally, making up less than 2% of cancers.[4] In children younger than 15, brain tumors are second only to acute lymphoblastic leukemia as a cause of cancer.[6] In Australia the average economic cost of a case of brain cancer is $1.9 million, the greatest of any type of cancer.
+Signs and symptoms of a brain tumor mainly depend on the size of the tumor and its location. The time of symptom onset depends in many cases on whether the tumor is benign or malignant, and in many cases is also related to the change in the nature of the neoplasm, from slow-growing, late-symptom-onset benign to faster-growing, early-symptom-onset malignant.
+
+Symptoms of both primary and secondary brain tumors can be divided into three main categories:
+
+Symptoms as consequences of increased intracranial pressure (often first noticed): Large tumors or tumors with extensive peritumoral swelling (edema) inevitably lead to elevated intracranial pressure which translates clinically into headaches, vomiting with or without nausea, altered state of consciousness (somnolence, coma), dilation of the pupil on the side of the lesion (anisocoria), papilledema (prominent optic disc at the funduscopic eye examination). However, even small tumors obstructing the passage of cerebrospinal fluid (CSF) can also present such symptoms. Increased intracranial pressure may result in brain herniation (i.e. displacement) of certain parts of the brain, such as the cerebellar tonsils or the temporal uncus, resulting in lethal brainstem compression. In very young children, elevated intracranial pressure may cause an increase in the diameter of the skull and bulging of the fontanelles.
+Dysfunction: depending on the tumor location and the damage it may have caused to surrounding brain structures, either through compression or infiltration, focal neurologic symptoms may occur, such as cognitive and behavioral impairment including impaired judgment, memory loss, lack of recognition, spatial orientation disorders, personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, dizziness, but more severe symptoms might occur too, such as paralysis on one side of the body hemiplegia or impairment in swallowing. These symptoms are not specific for brain tumors – they may be caused by a large variety of neurologic conditions (e.g. stroke, traumatic brain injury). What counts, however, is the location of the lesion and the functional systems (e.g. motor, sensory, visual, etc.) it affects. A bilateral temporal visual field defect (bitemporal hemianopia—due to compression of the optic chiasm), often associated with endocrine dysfunction—either hypopituitarism or hyperproduction of pituitary hormones and hyperprolactinemia is suggestive of a pituitary tumor.
+Irritation: abnormal fatigue, weariness, absences and tremors, but also epileptic seizures.
+Primary brain tumors can be either malignant (contain cancer cells) or benign (do not contain cancer cells). A primary brain tumor is a tumor which begins in the brain. If a cancerous tumor which starts elsewhere in the body sends cells which end up growing in the brain, such tumors are then called secondary or metastatic brain tumors. This discussion is focused on primary brain tumors.
+
+A benign brain tumor may be present for some years and be asymptomatic. Others might present ambiguous and intermittent symptoms like headaches and vomiting or weariness and so be mistaken for gastrointestinal disorders. In these cases secondary symptoms need to be looked into.
+
+Cause[edit]
+Epidemiological studies are required to determine risk factors.[8] Aside from exposure to vinyl chloride or ionizing radiation, there are no known environmental factors associated with brain tumors. Mutations and deletions of so-called tumor suppressor genes, such as P53, are thought to be the cause of some forms of brain tumor.[9] Inherited conditions, such as Von Hippel–Lindau disease, multiple endocrine neoplasia, and neurofibromatosis type 2 carry a high risk for the development of brain tumors.
+
+Although studies have not shown any link between cell phone or mobile phone radiation and the occurrence of brain tumors,[10] the World Health Organization has classified mobile phone radiation on the IARC scale into Group 2B – possibly carcinogenic.[11]
+
+Pathophysiology[edit]
+
+The main areas of the brain and limbic system.
+
+Brain cancer regions.
+Meninges[edit]
+Human brains are surrounded by a system of connective tissue membranes called meninges that separate the brain from the skull. This three-layered covering is composed of (from the outside in) the dura mater ("hard mother"), arachnoid mater ("spidery mother"), and pia mater ("tender mother"). The arachnoid and pia are physically connected and thus often considered as a single layer, the pia-arachnoid. Between the arachnoid mater and the pia mater is the subarachnoid space which contains cerebrospinal fluid (CSF). This fluid circulates in the narrow spaces between cells and through the cavities in the brain called ventricles, to nourish, support, and protect the brain tissue. Blood vessels enter the central nervous system through the perivascular space above the pia mater. The cells in the blood vessel walls are joined tightly, forming the blood–brain barrier which protects the brain from toxins that might enter through the blood. Tumors of the meninges are meningiomas and are often benign.
+
+Brain matter[edit]
+The brains of humans and other vertebrates are composed of very soft tissue and a gelatin-like texture. Living brain tissue has a pink tint in color on the outside (grey matter), and nearly complete white on the inside (white matter), with subtle variations in color. Three separate brain areas make up most of the brain's volume:
+
+telencephalon (cerebral hemispheres or cerebrum)
+mesencephalon (midbrain)
+cerebellum
+These areas are composed of two broad classes of cells: neurons and glia. These two types are equally numerous in the brain as a whole, although glial cells outnumber neurons roughly 4 to 1 in the cerebral cortex. Glia come in several types, which perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development.
+
+Primary tumors of the glial cells are called gliomas and often are malignant by the time they are diagnosed.
+
+Spinal cord and other tissues[edit]
+The pons in the brainstem is a specific region that consists of myelinated axons much like the spinal cord. The thalamus and hypothalamus of the diencephalon also consist of neuron and glial cell tissue with the hypophysis (pituitary gland) and pineal gland (which is glandular tissue) attached at the bottom; tumors of the pituitary and pineal gland are often benign. The medulla oblongata is at the start of the spinal cord and is composed mainly of neuron tissue enveloped in Schwann cells and meninges tissue. The spinal cord is made up of bundles of these axons. Glial cells such as Schwann cells in the periphery or, within the cord itself, oligodendrocytes, wrap themselves around the axon, thus promoting faster transmission of electrical signals and also providing for general maintenance of the environment surrounding the cord, in part by shuttling different compounds around in response to injury or other stimulus.
+
+Diagnosis[edit]
+
+A posterior fossa tumor leading to mass effect and midline shift
+Most of the brain is separated from the blood by the blood-brain barrier (BBB), which exerts a restrictive control as to which substances are allowed to pass. Therefore, many tracers that reach tumors in the body very easily would only reach brain tumors once there is a disruption of the BBB. Thus the disruption of the BBB, which can be detected by a MRI and CT, is regarded as the main diagnostic indicator for malignant gliomas, meningiomas, and brain metastases.[12]
+
+Although there is no specific or singular clinical symptom or sign for any brain tumors, the presence of a combination of symptoms and the lack of corresponding clinical indications of infections or other causes can be an indicator to redirect diagnostic investigation towards the possibility of an intracranial neoplasm. Brain tumors have similar characteristics and obstacles when it comes to diagnosis and therapy with tumors located elsewhere in the body. However, they create specific issues that follow closely to the properties of the organ they are in.[12]
+
+The diagnosis will often start by taking a medical history noting medical antecedents, and current symptoms. Clinical and laboratory investigations will serve to exclude infections as the cause of the symptoms. Examinations in this stage may include the eyes, otolaryngological (or ENT) and electrophysiological exams. The use of electroencephalography (EEG) often plays a role in the diagnosis of brain tumors.
+
+Swelling, or obstruction of the passage of cerebrospinal fluid (CSF) from the brain may cause (early) signs of increased intracranial pressure which translates clinically into headaches, vomiting, or an altered state of consciousness, and in children changes to the diameter of the skull and bulging of the fontanelles. More complex symptoms such as endocrine dysfunctions should alarm doctors not to exclude brain tumors.
+
+A bilateral temporal visual field defect (due to compression of the optic chiasm) or dilatation of the pupil, and the occurrence of either slowly evolving or the sudden onset of focal neurologic symptoms, such as cognitive and behavioral impairment (including impaired judgment, memory loss, lack of recognition, spatial orientation disorders), personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, or more severe symptoms such as tremors, paralysis on one side of the body hemiplegia, or (epileptic) seizures in a patient with a negative history for epilepsy, should raise the possibility of a brain tumor.
+
+Imaging[edit]
+Medical imaging plays a central role in the diagnosis of brain tumors. Early imaging methods—invasive and sometimes dangerous— such as pneumoencephalography and cerebral angiography have been abandoned in favor of non-invasive, high-resolution techniques, especially magnetic resonance imaging (MRI) and computed tomography (CT) scans. Neoplasms will often show as differently colored masses (also referred to as processes) in CT or MRI results.
+
+Benign brain tumors often show up as hypodense (darker than brain tissue) mass lesions on CT scans. On MRI, they appear either hypodense or isointense (same intensity as brain tissue) on T1-weighted scans, or hyperintense (brighter than brain tissue) on T2-weighted MRI, although the appearance is variable.
+Contrast agent uptake, sometimes in characteristic patterns, can be demonstrated on either CT or MRI scans in most malignant primary and metastatic brain tumors.
+Pressure areas where the brain tissue has been compressed by a tumor also appear hyperintense on T2-weighted scans and might indicate the presence a diffuse neoplasm due to an unclear outline. Swelling around the tumor known as peritumoral edema can also show a similar result.
+This is because these tumors disrupt the normal functioning of the BBB and lead to an increase in its permeability. However, it is not possible to diagnose high- versus low-grade gliomas based on enhancement pattern alone.
+
+The definitive diagnosis of brain tumor can only be confirmed by histological examination of tumor tissue samples obtained either by means of brain biopsy or open surgery. The histological examination is essential for determining the appropriate treatment and the correct prognosis. This examination, performed by a pathologist, typically has three stages: interoperative examination of fresh tissue, preliminary microscopic examination of prepared tissues, and follow-up examination of prepared tissues after immunohistochemical staining or genetic analysis.
+
+Pathology[edit]
+
+Micrograph of an oligodendroglioma, a type of brain cancer. Brain biopsy. H&E stain.
+Tumors have characteristics that allow determination of malignacy and how they will evolve, and determining these characteristics will allow the medical team to determine the management plan.
+
+Anaplasia or dedifferentiation: loss of differentiation of cells and of their orientation to one another and blood vessels, a characteristic of anaplastic tumor tissue. Anaplastic cells have lost total control of their normal functions and many have deteriorated cell structures. Anaplastic cells often have abnormally high nuclear-to-cytoplasmic ratios, and many are multinucleated. Additionally, the nuclei of anaplastic cells are usually unnaturally shaped or oversized. Cells can become anaplastic in two ways: neoplastic tumor cells can dedifferentiate to become anaplasias (the dedifferentiation causes the cells to lose all of their normal structure/function), or cancer stem cells can increase in their capacity to multiply (i.e., uncontrollable growth due to failure of differentiation).
+
+Atypia: an indication of abnormality of a cell (which may be indicative for malignancy). Significance of the abnormality is highly dependent on context.
+
+Neoplasia: the (uncontrolled) division of cells. As such, neoplasia is not problematic but its consequences are: the uncontrolled division of cells means that the mass of a neoplasm increases in size, and in a confined space such as the intracranial cavity this quickly becomes problematic because the mass invades the space of the brain pushing it aside, leading to compression of the brain tissue and increased intracranial pressure and destruction of brain parenchyma. Increased intracranial pressure (ICP) may be attributable to the direct mass effect of the tumor, increased blood volume, or increased cerebrospinal fluid (CSF) volume, which may in turn have secondary symptoms.
+
+Necrosis: the (premature) death of cells, caused by external factors such as infection, toxin or trauma. Necrotic cells send the wrong chemical signals which prevents phagocytes from disposing of the dead cells, leading to a buildup of dead tissue, cell debris and toxins at or near the site of the necrotic cells[13]
+
+Arterial and venous hypoxia, or the deprivation of adequate oxygen supply to certain areas of the brain, occurs when a tumor makes use of nearby blood vessels for its supply of blood and the neoplasm enters into competition for nutrients with the surrounding brain tissue.
+
+More generally a neoplasm may cause release of metabolic end products (e.g., free radicals, altered electrolytes, neurotransmitters), and release and recruitment of cellular mediators (e.g., cytokines) that disrupt normal parenchymal function.
+
+Classification[edit]
+Secondary brain tumors[edit]
+Secondary tumors of the brain are metastatic and have invaded the brain from cancers originating in other organs. This means that a cancerous neoplasm has developed in another organ elsewhere in the body and that cancer cells have leaked from that primary tumor and then entered the lymphatic system and blood vessels. They then circulate through the bloodstream, and are deposited in the brain. There, these cells continue growing and dividing, becoming another invasive neoplasm of the primary cancer's tissue. Secondary tumors of the brain are very common in the terminal phases of patients with an incurable metastasized cancer; the most common types of cancers that bring about secondary tumors of the brain are lung cancer, breast cancer, malignant melanoma, kidney cancer, and colon cancer (in decreasing order of frequency).
+
+Secondary brain tumors are more common than primary ones; in the United States there are about 170,000 new cases every year. Secondary brain tumors are the most common cause of tumors in the intracranial cavity. The skull bone structure can also be subject to a neoplasm that by its very nature reduces the volume of the intracranial cavity, and can damage the brain.[14]
+
+By behavior[edit]
+Brain tumors or intracranial neoplasms can be cancerous (malignant) or non-cancerous (benign). However, the definitions of malignant or benign neoplasms differs from those commonly used in other types of cancerous or non-cancerous neoplasms in the body. In cancers elsewhere in the body, three malignant properties differentiate benign tumors from malignant forms of cancer: benign tumors are self-limited and do not invade or metastasize. Characteristics of malignant tumors include:
+
+uncontrolled mitosis (growth by division beyond the normal limits)
+anaplasia: the cells in the neoplasm have an obviously different form (in size and shape). Anaplastic cells display marked pleomorphism. The cell nuclei are characteristically extremely hyperchromatic (darkly stained) and enlarged; the nucleus might have the same size as the cytoplasm of the cell (nuclear-cytoplasmic ratio may approach 1:1, instead of the normal 1:4 or 1:6 ratio). Giant cells – considerably larger than their neighbors – may form and possess either one enormous nucleus or several nuclei (syncytia). Anaplastic nuclei are variable and bizarre in size and shape.
+invasion or infiltration (medical literature uses these terms as synonymous equivalents. However, for clarity, the articles that follow adhere to a convention that they mean slightly different things; this convention is not followed outside these articles):
+Invasion or invasiveness is the spatial expansion of the tumor through uncontrolled mitosis, in the sense that the neoplasm invades the space occupied by adjacent tissue, thereby pushing the other tissue aside and eventually compressing the tissue. Often these tumors are associated with clearly outlined tumors in imaging.
+Infiltration is the behavior of the tumor either to grow (microscopic) tentacles that push into the surrounding tissue (often making the outline of the tumor undefined or diffuse) or to have tumor cells "seeded" into the tissue beyond the circumference of the tumorous mass; this does not mean that an infiltrative tumor does not take up space or does not compress the surrounding tissue as it grows, but an infiltrating neoplasm makes it difficult to say where the tumor ends and the healthy tissue starts.
+metastasis (spread to other locations in the body via lymph or blood).
+Of the above malignant characteristics, some elements do not apply to primary neoplasms of the brain:
+
+Primary brain tumors rarely metastasize to other organs; some forms of primary brain tumors can metastasize but will not spread outside the intracranial cavity or the central spinal canal. Due to the BBB, cancerous cells of a primary neoplasm cannot enter the bloodstream and get carried to another location in the body. (Occasional isolated case reports suggest spread of certain brain tumors outside the central nervous system, e.g. bone metastasis of glioblastoma multiforme.[15])
+Primary brain tumors generally are invasive (i.e. they will expand spatially and intrude into the space occupied by other brain tissue and compress those brain tissues); however, some of the more malignant primary brain tumors will infiltrate the surrounding tissue.
+Of numerous grading systems in use for the classification of tumor of the central nervous system, the World Health Organization (WHO) grading system is commonly used for astrocytoma. Established in 1993 in an effort to eliminate confusion regarding diagnoses, the WHO system established a four-tiered histologic grading guideline for astrocytomas that assigns a grade from 1 to 4, with 1 being the least aggressive and 4 being the most aggressive.
+
+Types[edit]
+Tumors can be benign or malignant, can occur in different parts of the brain, and may be primary or secondary. A primary tumor is one that has started in the brain, as opposed to a metastatic tumor, which is something that has spread to the brain from another part of the body.[16] The incidence of metastatic tumors are more prevalent than primary tumors by 4:1.[17] Tumors may or may not be symptomatic: some tumors are discovered because the patient has symptoms, others show up incidentally on an imaging scan, or at an autopsy.
+
+The most common primary brain tumors are:[18]
+
+Gliomas (50.4%)
+Meningiomas (20.8%)
+Pituitary adenomas (15%)
+Nerve sheath tumors (8%)
+These common tumors can also be organized according to tissue of origin as shown below:[19][verification needed]
+
+Tissue of origin
+
+Children	Adults
+Astrocytes	Pilocytic Astrocytoma (PCA)	Glioblastoma Multiforme (GBM)
+Oligodendrocytes		Oligodendroglioma
+Ependyma	Ependymoma	
+Neurons	Medulloblastoma	
+Meninges		Meningioma
+Specific types[edit]
+Main article: WHO classification of the tumors of the central nervous system
+Anaplastic astrocytoma, Astrocytoma, Central neurocytoma, Choroid plexus carcinoma, Choroid plexus papilloma, Choroid plexus tumor, Dysembryoplastic neuroepithelial tumour, Ependymal tumor, Fibrillary astrocytoma, Giant-cell glioblastoma, Glioblastoma multiforme, Gliomatosis cerebri, Gliosarcoma, Hemangiopericytoma, Medulloblastoma, Medulloepithelioma, Meningeal carcinomatosis, Neuroblastoma, Neurocytoma, Oligoastrocytoma, Oligodendroglioma, Optic nerve sheath meningioma, Pediatric ependymoma, Pilocytic astrocytoma, Pinealoblastoma, Pineocytoma, Pleomorphic anaplastic neuroblastoma, Pleomorphic xanthoastrocytoma, Primary central nervous system lymphoma, Sphenoid wing meningioma, Subependymal giant cell astrocytoma, Subependymoma, Trilateral retinoblastoma.
+
+Treatment[edit]
+When a brain tumor is diagnosed, a medical team will be formed to assess the treatment options presented by the leading surgeon to the patient and his/her family. Given the location of primary solid neoplasms of the brain in most cases a "do-nothing" option is usually not presented. Neurosurgeons take the time to observe the evolution of the neoplasm before proposing a management plan to the patient and his/her relatives. These various types of treatment are available depending on neoplasm type and location and may be combined to give the best chances of survival:
+
+Surgery: complete or partial resection of the tumor with the objective of removing as many tumor cells as possible.
+Radiotherapy: the most commonly used treatment for brain tumors; the tumor is irradiated with beta, x rays or gamma rays.
+Chemotherapy: is a treatment option for cancer, however it is not always used to treat brain tumors as the blood-brain barrier can prevent some drugs from reaching the cancerous cells.
+A variety of experimental therapies are available through clinical trials.
+Survival rates in primary brain tumors depend on the type of tumor, age, functional status of the patient, the extent of surgical tumor removal and other factors specific to each case.[20]
+
+Surgery[edit]
+The primary and most desired course of action described in medical literature is surgical removal (resection) via craniotomy. Minimally invasive techniques are becoming the dominant trend in neurosurgical oncology.[21] The prime remediating objective of surgery is to remove as many tumor cells as possible, with complete removal being the best outcome and cytoreduction ("debulking") of the tumor otherwise. In some cases access to the tumor is impossible and impedes or prohibits surgery.
+
+Many meningiomas, with the exception of some tumors located at the skull base, can be successfully removed surgically. Most pituitary adenomas can be removed surgically, often using a minimally invasive approach through the nasal cavity and skull base (trans-nasal, trans-sphenoidal approach). Large pituitary adenomas require a craniotomy (opening of the skull) for their removal. Radiotherapy, including stereotactic approaches, is reserved for inoperable cases.
+
+Several current research studies aim to improve the surgical removal of brain tumors by labeling tumor cells with 5-aminolevulinic acid that causes them to fluoresce.[22] Postoperative radiotherapy and chemotherapy are integral parts of the therapeutic standard for malignant tumors. Radiotherapy may also be administered in cases of "low-grade" gliomas, when a significant tumor burden reduction could not be achieved surgically.
+
+Any person undergoing brain surgery may suffer from epileptic seizures. These can take the form of either absence seizures or tonic-clonic seizures. Medication can lessen and sometimes prevent these attacks.
+
+Multiple metastatic tumors are generally treated with radiotherapy and chemotherapy rather than surgery and the prognosis in such cases is determined by the primary tumor, and is generally poor.
+
+Radiation therapy[edit]
+The goal of radiation therapy is to kill tumor cells while leaving normal brain tissue unharmed. In standard external beam radiation therapy, multiple treatments of standard-dose "fractions" of radiation are applied to the brain. This process is repeated for a total of 10 to 30 treatments, depending on the type of tumor. This additional treatment provides some patients with improved outcomes and longer survival rates.
+
+Radiosurgery is a treatment method that uses computerized calculations to focus radiation at the site of the tumor while minimizing the radiation dose to the surrounding brain. Radiosurgery may be an adjunct to other treatments, or it may represent the primary treatment technique for some tumors. Forms used include stereotactic radiosurgery, such as Gamma knife, Cyberknife or Novalis Tx radiosurgery.[23][unreliable medical source?]
+
+Radiotherapy may be used following, or in some cases in place of, resection of the tumor. Forms of radiotherapy used for brain cancer include external beam radiation therapy, the most common, and brachytherapy and proton therapy, the last especially used for children.
+
+Radiotherapy is the most common treatment for secondary brain tumors. The amount of radiotherapy depends on the size of the area of the brain affected by cancer. Conventional external beam "whole-brain radiotherapy treatment" (WBRT) or "whole-brain irradiation" may be suggested if there is a risk that other secondary tumors will develop in the future.[24] Stereotactic radiotherapy is usually recommended in cases involving fewer than three small secondary brain tumors.
+
+People who receive stereotactic radiosurgery (SRS) and whole-brain radiation therapy (WBRT) for the treatment of metastatic brain tumors have more than twice the risk of developing learning and memory problems than those treated with SRS alone.[25][26]
+
+Chemotherapy[edit]
+Patients undergoing chemotherapy are administered drugs designed to kill tumor cells. Although chemotherapy may improve overall survival in patients with the most malignant primary brain tumors, it does so in only about 20 percent of patients. Chemotherapy is often used in young children instead of radiation, as radiation may have negative effects on the developing brain. The decision to prescribe this treatment is based on a patient's overall health, type of tumor, and extent of the cancer. The toxicity and many side effects of the drugs, and the uncertain outcome of chemotherapy in brain tumors puts this treatment further down the line of treatment options with surgery and radiation therapy preferred.
+
+UCLA Neuro-Oncology publishes real-time survival data for patients with a diagnosis of glioblastoma multiforme. They are the only institution in the United States that displays how brain tumor patients are performing on current therapies. They also show a listing of chemotherapy agents used to treat high-grade glioma tumors.[27]
+
+Other[edit]
+A shunt may be used to relieve symptoms caused by intracranial pressure, by reducing the build-up of fluid (hydrocephalus) caused by the blockage of the free flow of cerebrospinal fluid.[28]
+
+Prognosis[edit]
+The prognosis of brain cancer depends on the type of cancer diagnosed. Medulloblastoma has a good prognosis with chemotherapy, radiotherapy, and surgical resection while glioblastoma multiforme has a median survival of only 12 months even with aggressive chemoradiotherapy and surgery. Brainstem gliomas have the poorest prognosis of any form of brain cancer, with most patients dying within one year, even with therapy that typically consists of radiation to the tumor along with corticosteroids. However, one type, focal brainstem gliomas in children, seems open to exceptional prognosis and long-term survival has frequently been reported.[29]
+
+Glioblastoma multiforme[edit]
+Main article: Glioblastoma multiforme
+Glioblastoma multiforme is the most aggressive (grade IV) and most common form of a malignant brain tumor. Even when aggressive multimodality therapy consisting of radiotherapy, chemotherapy, and surgical excision is used, median survival is only 12–17 months. Standard therapy for glioblastoma multiforme consists of maximal surgical resection of the tumor, followed by radiotherapy between two and four weeks after the surgical procedure to remove the cancer, then by chemotherapy. Most patients with glioblastoma take a corticosteroid, typically dexamethasone, during their illness to relieve symptoms. Experimental treatments include gamma knife radiosurgery,[30] boron neutron capture therapy and gene therapy.[31][32]
+
+Oligodendrogliomas[edit]
+Main article: Oligodendroglioma
+Oligodendrogliomas are incurable but slowly progressive malignant brain tumors. They can be treated with surgical resection, chemotherapy, radiotherapy or a combination. For some suspected low-grade (grade II) tumors, only a course of watchful waiting and symptomatic therapy is opted for. These tumors show a high frequency of co-deletions of the p and q arms of chromosome 1 and chromosome 19 respectively (1p19q co-deletion) and have been found to be especially chemosensitive with one report claiming them to be one of the most chemosensitive tumors.[33] A median survival of up to 16.7 years has been reported for grade II oligodendrogliomas.[34]
+
+Epidemiology[edit]
+Figures for incidences of cancers of the brain show a significant difference between more- and less-developed countries (the less-developed countries have lower incidences of tumors of the brain),[35]— this could be explained by undiagnosed tumor-related deaths (patients in extreme poor situations do not get diagnosed, simply because they do not have access to the modern diagnostic facilities required to diagnose a brain tumor) and by deaths caused by other poverty-related causes that preempt a patient's life before tumors develop or tumors become life-threatening. Nevertheless, studies[which?] suggest that certain forms of primary brain tumors are more prevalent among certain groups of the population.
+
+The incidence of low-grade astrocytoma has not been shown to vary significantly with nationality. However, studies examining the incidence of malignant central nervous system (CNS) tumors have shown some variation with national origin. Since some high-grade lesions arise from low-grade tumors, these trends are worth mentioning. Specifically, the incidence of CNS tumors in the United States, Israel, and the Nordic countries is relatively high, while Japan and Asian countries have a lower incidence. These differences probably reflect some biological differences as well as differences in pathologic diagnosis and reporting.[36] Worldwide data on incidence of cancer can be found at the WHO (World Health Organisation) and is handled by the IARC (International Agency for Research on Cancer) located in France.[37]
+
+United States[edit]
+For the United States in the year 2005, it was projected that there would be 43,800 new cases of brain tumors [38][39] which accounted for less than 1 percent of all cancers, 2.4 percent of all cancer deaths,[40] and 20–25 percent of pediatric cancers.[40][41] Ultimately, it is estimated there are 13,000 deaths per year in the United States alone as a result of brain tumors.[39]
+
+UK[edit]
+Brain, other CNS or intracranial tumors are the ninth most common cancer in the UK (around 10,600 people were diagnosed in 2013), and it is the eighth most common cause of cancer death (around 5,200 people died in 2012).[42]
+
+Research[edit]
+Immunotherapy[edit]
+Cancer immunotherapy is being actively studied. For malignant gliomas no therapy has been shown to improve life expectancy as of 2015.[43]
+
+Vesicular stomatitis virus[edit]
+See also: Oncolytic virus
+In 2000, researchers used the vesicular stomatitis virus, or VSV, to infect and kill cancer cells without affecting healthy cells.[44][45]
+
+The initial discovery of the virus' oncolytic properties were limited to only a few types of cancer. Several independent studies have identified many more types susceptible to the virus, including glioblastoma multiforme cancer cells, which account for the majority of brain tumors.
+
+In 2008, researchers artificially engineered strains of VSV that were less cytotoxic to normal cells. This advance allows administration of the virus without coadministration with interferon. Consequently, administration of the virus can be given intravenously or through the olfactory nerve. In the research, a human brain tumor was implanted into mice brains.
+
+Research on virus treatment like this has been conducted for some years, but no other viruses have been shown to be as efficient or specific as the VSV mutant strains.
+
+Retroviral replicating vectors[edit]
+
+A brainstem glioma in four-year-old. MRI, sagittal, without contrast
+Led by Prof. Nori Kasahara, researchers from USC, who are now at UCLA, reported in 2001 the first successful example of applying the use of retroviral replicating vectors towards transducing cell lines derived from solid tumors.[46] Building on this initial work, the researchers applied the technology to in vivo models of cancer and in 2005 reported a long-term survival benefit in an experimental brain tumor animal model.[47][unreliable medical source?] Subsequently, in preparation for human clinical trials, this technology was further developed by Tocagen (a pharmaceutical company primarily focused on brain cancer treatments) as a combination treatment (Toca 511 & Toca FC). This has been under investigation since 2010 in a Phase I/II clinical trial for the potential treatment of recurrent high-grade glioma including glioblastoma multiforme (GBM) and anaplastic astrocytoma. No results have yet been published.[48]
+
+Children[edit]
+Ambox current red.svg
+This section is outdated. Please update this article to reflect recent events or newly available information.
+Last update: PMID 23436013 (July 2014)
+In the USA, about 2,000 children and adolescents younger than 20 years of age are diagnosed with malignant brain tumors each year. Higher incidence rates were reported in 1985–1994 than in 1975–1983. There is some debate as to the reasons; one theory is that the trend is the result of improved diagnosis and reporting, since the jump occurred at the same time that MRIs became available widely, and there was no coincident jump in mortality. The central nervous system cancer survival rate in children is approximately 60%. The rate varies with the type of cancer and the age of onset: younger patients have higher mortality.[49]
+
+In children under 2, about 70% of brain tumors are medulloblastomas, ependymomas, and low-grade gliomas. Less commonly, and seen usually in infants, are teratomas and atypical teratoid rhabdoid tumors.[50] Germ cell tumors, including teratomas, make up just 3% of pediatric primary brain tumors, but the worldwide incidence varies significantly.[51]
+
+In the UK, 429 children aged 14 and under are diagnosed with a brain tumour on average each year, and 563 children and young people under the age of 19 are diagnosed.
+Signs and symptoms of a brain tumor mainly depend on the size of the tumor and its location. The time of symptom onset depends in many cases on whether the tumor is benign or malignant, and in many cases is also related to the change in the nature of the neoplasm, from slow-growing, late-symptom-onset benign to faster-growing, early-symptom-onset malignant.
+
+Symptoms of both primary and secondary brain tumors can be divided into three main categories:
+
+Symptoms as consequences of increased intracranial pressure (often first noticed): Large tumors or tumors with extensive peritumoral swelling (edema) inevitably lead to elevated intracranial pressure which translates clinically into headaches, vomiting with or without nausea, altered state of consciousness (somnolence, coma), dilation of the pupil on the side of the lesion (anisocoria), papilledema (prominent optic disc at the funduscopic eye examination). However, even small tumors obstructing the passage of cerebrospinal fluid (CSF) can also present such symptoms. Increased intracranial pressure may result in brain herniation (i.e. displacement) of certain parts of the brain, such as the cerebellar tonsils or the temporal uncus, resulting in lethal brainstem compression. In very young children, elevated intracranial pressure may cause an increase in the diameter of the skull and bulging of the fontanelles.
+Dysfunction: depending on the tumor location and the damage it may have caused to surrounding brain structures, either through compression or infiltration, focal neurologic symptoms may occur, such as cognitive and behavioral impairment including impaired judgment, memory loss, lack of recognition, spatial orientation disorders, personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, dizziness, but more severe symptoms might occur too, such as paralysis on one side of the body hemiplegia or impairment in swallowing. These symptoms are not specific for brain tumors – they may be caused by a large variety of neurologic conditions (e.g. stroke, traumatic brain injury). What counts, however, is the location of the lesion and the functional systems (e.g. motor, sensory, visual, etc.) it affects. A bilateral temporal visual field defect (bitemporal hemianopia—due to compression of the optic chiasm), often associated with endocrine dysfunction—either hypopituitarism or hyperproduction of pituitary hormones and hyperprolactinemia is suggestive of a pituitary tumor.
+Irritation: abnormal fatigue, weariness, absences and tremors, but also epileptic seizures.
+Primary brain tumors can be either malignant (contain cancer cells) or benign (do not contain cancer cells). A primary brain tumor is a tumor which begins in the brain. If a cancerous tumor which starts elsewhere in the body sends cells which end up growing in the brain, such tumors are then called secondary or metastatic brain tumors. This discussion is focused on primary brain tumors.
+
+A benign brain tumor may be present for some years and be asymptomatic. Others might present ambiguous and intermittent symptoms like headaches and vomiting or weariness and so be mistaken for gastrointestinal disorders. In these cases secondary symptoms need to be looked into.
+
+Cause[edit]
+Epidemiological studies are required to determine risk factors.[8] Aside from exposure to vinyl chloride or ionizing radiation, there are no known environmental factors associated with brain tumors. Mutations and deletions of so-called tumor suppressor genes, such as P53, are thought to be the cause of some forms of brain tumor.[9] Inherited conditions, such as Von Hippel–Lindau disease, multiple endocrine neoplasia, and neurofibromatosis type 2 carry a high risk for the development of brain tumors.
+
+Although studies have not shown any link between cell phone or mobile phone radiation and the occurrence of brain tumors,[10] the World Health Organization has classified mobile phone radiation on the IARC scale into Group 2B – possibly carcinogenic.[11]
+
+Pathophysiology[edit]
+
+The main areas of the brain and limbic system.
+
+Brain cancer regions.
+Meninges[edit]
+Human brains are surrounded by a system of connective tissue membranes called meninges that separate the brain from the skull. This three-layered covering is composed of (from the outside in) the dura mater ("hard mother"), arachnoid mater ("spidery mother"), and pia mater ("tender mother"). The arachnoid and pia are physically connected and thus often considered as a single layer, the pia-arachnoid. Between the arachnoid mater and the pia mater is the subarachnoid space which contains cerebrospinal fluid (CSF). This fluid circulates in the narrow spaces between cells and through the cavities in the brain called ventricles, to nourish, support, and protect the brain tissue. Blood vessels enter the central nervous system through the perivascular space above the pia mater. The cells in the blood vessel walls are joined tightly, forming the blood–brain barrier which protects the brain from toxins that might enter through the blood. Tumors of the meninges are meningiomas and are often benign.
+
+Brain matter[edit]
+The brains of humans and other vertebrates are composed of very soft tissue and a gelatin-like texture. Living brain tissue has a pink tint in color on the outside (grey matter), and nearly complete white on the inside (white matter), with subtle variations in color. Three separate brain areas make up most of the brain's volume:
+
+telencephalon (cerebral hemispheres or cerebrum)
+mesencephalon (midbrain)
+cerebellum
+These areas are composed of two broad classes of cells: neurons and glia. These two types are equally numerous in the brain as a whole, although glial cells outnumber neurons roughly 4 to 1 in the cerebral cortex. Glia come in several types, which perform a number of critical functions, including structural support, metabolic support, insulation, and guidance of development.
+
+Primary tumors of the glial cells are called gliomas and often are malignant by the time they are diagnosed.
+
+Spinal cord and other tissues[edit]
+The pons in the brainstem is a specific region that consists of myelinated axons much like the spinal cord. The thalamus and hypothalamus of the diencephalon also consist of neuron and glial cell tissue with the hypophysis (pituitary gland) and pineal gland (which is glandular tissue) attached at the bottom; tumors of the pituitary and pineal gland are often benign. The medulla oblongata is at the start of the spinal cord and is composed mainly of neuron tissue enveloped in Schwann cells and meninges tissue. The spinal cord is made up of bundles of these axons. Glial cells such as Schwann cells in the periphery or, within the cord itself, oligodendrocytes, wrap themselves around the axon, thus promoting faster transmission of electrical signals and also providing for general maintenance of the environment surrounding the cord, in part by shuttling different compounds around in response to injury or other stimulus.
+
+Diagnosis[edit]
+
+A posterior fossa tumor leading to mass effect and midline shift
+Most of the brain is separated from the blood by the blood-brain barrier (BBB), which exerts a restrictive control as to which substances are allowed to pass. Therefore, many tracers that reach tumors in the body very easily would only reach brain tumors once there is a disruption of the BBB. Thus the disruption of the BBB, which can be detected by a MRI and CT, is regarded as the main diagnostic indicator for malignant gliomas, meningiomas, and brain metastases.[12]
+
+Although there is no specific or singular clinical symptom or sign for any brain tumors, the presence of a combination of symptoms and the lack of corresponding clinical indications of infections or other causes can be an indicator to redirect diagnostic investigation towards the possibility of an intracranial neoplasm. Brain tumors have similar characteristics and obstacles when it comes to diagnosis and therapy with tumors located elsewhere in the body. However, they create specific issues that follow closely to the properties of the organ they are in.[12]
+
+The diagnosis will often start by taking a medical history noting medical antecedents, and current symptoms. Clinical and laboratory investigations will serve to exclude infections as the cause of the symptoms. Examinations in this stage may include the eyes, otolaryngological (or ENT) and electrophysiological exams. The use of electroencephalography (EEG) often plays a role in the diagnosis of brain tumors.
+
+Swelling, or obstruction of the passage of cerebrospinal fluid (CSF) from the brain may cause (early) signs of increased intracranial pressure which translates clinically into headaches, vomiting, or an altered state of consciousness, and in children changes to the diameter of the skull and bulging of the fontanelles. More complex symptoms such as endocrine dysfunctions should alarm doctors not to exclude brain tumors.
+
+A bilateral temporal visual field defect (due to compression of the optic chiasm) or dilatation of the pupil, and the occurrence of either slowly evolving or the sudden onset of focal neurologic symptoms, such as cognitive and behavioral impairment (including impaired judgment, memory loss, lack of recognition, spatial orientation disorders), personality or emotional changes, hemiparesis, hypoesthesia, aphasia, ataxia, visual field impairment, impaired sense of smell, impaired hearing, facial paralysis, double vision, or more severe symptoms such as tremors, paralysis on one side of the body hemiplegia, or (epileptic) seizures in a patient with a negative history for epilepsy, should raise the possibility of a brain tumor.
+
+Imaging[edit]
+Medical imaging plays a central role in the diagnosis of brain tumors. Early imaging methods—invasive and sometimes dangerous— such as pneumoencephalography and cerebral angiography have been abandoned in favor of non-invasive, high-resolution techniques, especially magnetic resonance imaging (MRI) and computed tomography (CT) scans. Neoplasms will often show as differently colored masses (also referred to as processes) in CT or MRI results.
+
+Benign brain tumors often show up as hypodense (darker than brain tissue) mass lesions on CT scans. On MRI, they appear either hypodense or isointense (same intensity as brain tissue) on T1-weighted scans, or hyperintense (brighter than brain tissue) on T2-weighted MRI, although the appearance is variable.
+Contrast agent uptake, sometimes in characteristic patterns, can be demonstrated on either CT or MRI scans in most malignant primary and metastatic brain tumors.
+Pressure areas where the brain tissue has been compressed by a tumor also appear hyperintense on T2-weighted scans and might indicate the presence a diffuse neoplasm due to an unclear outline. Swelling around the tumor known as peritumoral edema can also show a similar result.
+This is because these tumors disrupt the normal functioning of the BBB and lead to an increase in its permeability. However, it is not possible to diagnose high- versus low-grade gliomas based on enhancement pattern alone.
+
+The definitive diagnosis of brain tumor can only be confirmed by histological examination of tumor tissue samples obtained either by means of brain biopsy or open surgery. The histological examination is essential for determining the appropriate treatment and the correct prognosis. This examination, performed by a pathologist, typically has three stages: interoperative examination of fresh tissue, preliminary microscopic examination of prepared tissues, and follow-up examination of prepared tissues after immunohistochemical staining or genetic analysis.
+
+Pathology[edit]
+
+Micrograph of an oligodendroglioma, a type of brain cancer. Brain biopsy. H&E stain.
+Tumors have characteristics that allow determination of malignacy and how they will evolve, and determining these characteristics will allow the medical team to determine the management plan.
+
+Anaplasia or dedifferentiation: loss of differentiation of cells and of their orientation to one another and blood vessels, a characteristic of anaplastic tumor tissue. Anaplastic cells have lost total control of their normal functions and many have deteriorated cell structures. Anaplastic cells often have abnormally high nuclear-to-cytoplasmic ratios, and many are multinucleated. Additionally, the nuclei of anaplastic cells are usually unnaturally shaped or oversized. Cells can become anaplastic in two ways: neoplastic tumor cells can dedifferentiate to become anaplasias (the dedifferentiation causes the cells to lose all of their normal structure/function), or cancer stem cells can increase in their capacity to multiply (i.e., uncontrollable growth due to failure of differentiation).
+
+Atypia: an indication of abnormality of a cell (which may be indicative for malignancy). Significance of the abnormality is highly dependent on context.
+
+Neoplasia: the (uncontrolled) division of cells. As such, neoplasia is not problematic but its consequences are: the uncontrolled division of cells means that the mass of a neoplasm increases in size, and in a confined space such as the intracranial cavity this quickly becomes problematic because the mass invades the space of the brain pushing it aside, leading to compression of the brain tissue and increased intracranial pressure and destruction of brain parenchyma. Increased intracranial pressure (ICP) may be attributable to the direct mass effect of the tumor, increased blood volume, or increased cerebrospinal fluid (CSF) volume, which may in turn have secondary symptoms.
+
+Necrosis: the (premature) death of cells, caused by external factors such as infection, toxin or trauma. Necrotic cells send the wrong chemical signals which prevents phagocytes from disposing of the dead cells, leading to a buildup of dead tissue, cell debris and toxins at or near the site of the necrotic cells[13]
+
+Arterial and venous hypoxia, or the deprivation of adequate oxygen supply to certain areas of the brain, occurs when a tumor makes use of nearby blood vessels for its supply of blood and the neoplasm enters into competition for nutrients with the surrounding brain tissue.
+
+More generally a neoplasm may cause release of metabolic end products (e.g., free radicals, altered electrolytes, neurotransmitters), and release and recruitment of cellular mediators (e.g., cytokines) that disrupt normal parenchymal function.
+
+Classification[edit]
+Secondary brain tumors[edit]
+Secondary tumors of the brain are metastatic and have invaded the brain from cancers originating in other organs. This means that a cancerous neoplasm has developed in another organ elsewhere in the body and that cancer cells have leaked from that primary tumor and then entered the lymphatic system and blood vessels. They then circulate through the bloodstream, and are deposited in the brain. There, these cells continue growing and dividing, becoming another invasive neoplasm of the primary cancer's tissue. Secondary tumors of the brain are very common in the terminal phases of patients with an incurable metastasized cancer; the most common types of cancers that bring about secondary tumors of the brain are lung cancer, breast cancer, malignant melanoma, kidney cancer, and colon cancer (in decreasing order of frequency).
+
+Secondary brain tumors are more common than primary ones; in the United States there are about 170,000 new cases every year. Secondary brain tumors are the most common cause of tumors in the intracranial cavity. The skull bone structure can also be subject to a neoplasm that by its very nature reduces the volume of the intracranial cavity, and can damage the brain.[14]
+
+By behavior[edit]
+Brain tumors or intracranial neoplasms can be cancerous (malignant) or non-cancerous (benign). However, the definitions of malignant or benign neoplasms differs from those commonly used in other types of cancerous or non-cancerous neoplasms in the body. In cancers elsewhere in the body, three malignant properties differentiate benign tumors from malignant forms of cancer: benign tumors are self-limited and do not invade or metastasize. Characteristics of malignant tumors include:
+
+uncontrolled mitosis (growth by division beyond the normal limits)
+anaplasia: the cells in the neoplasm have an obviously different form (in size and shape). Anaplastic cells display marked pleomorphism. The cell nuclei are characteristically extremely hyperchromatic (darkly stained) and enlarged; the nucleus might have the same size as the cytoplasm of the cell (nuclear-cytoplasmic ratio may approach 1:1, instead of the normal 1:4 or 1:6 ratio). Giant cells – considerably larger than their neighbors – may form and possess either one enormous nucleus or several nuclei (syncytia). Anaplastic nuclei are variable and bizarre in size and shape.
+invasion or infiltration (medical literature uses these terms as synonymous equivalents. However, for clarity, the articles that follow adhere to a convention that they mean slightly different things; this convention is not followed outside these articles):
+Invasion or invasiveness is the spatial expansion of the tumor through uncontrolled mitosis, in the sense that the neoplasm invades the space occupied by adjacent tissue, thereby pushing the other tissue aside and eventually compressing the tissue. Often these tumors are associated with clearly outlined tumors in imaging.
+Infiltration is the behavior of the tumor either to grow (microscopic) tentacles that push into the surrounding tissue (often making the outline of the tumor undefined or diffuse) or to have tumor cells "seeded" into the tissue beyond the circumference of the tumorous mass; this does not mean that an infiltrative tumor does not take up space or does not compress the surrounding tissue as it grows, but an infiltrating neoplasm makes it difficult to say where the tumor ends and the healthy tissue starts.
+metastasis (spread to other locations in the body via lymph or blood).
+Of the above malignant characteristics, some elements do not apply to primary neoplasms of the brain:
+
+Primary brain tumors rarely metastasize to other organs; some forms of primary brain tumors can metastasize but will not spread outside the intracranial cavity or the central spinal canal. Due to the BBB, cancerous cells of a primary neoplasm cannot enter the bloodstream and get carried to another location in the body. (Occasional isolated case reports suggest spread of certain brain tumors outside the central nervous system, e.g. bone metastasis of glioblastoma multiforme.[15])
+Primary brain tumors generally are invasive (i.e. they will expand spatially and intrude into the space occupied by other brain tissue and compress those brain tissues); however, some of the more malignant primary brain tumors will infiltrate the surrounding tissue.
+Of numerous grading systems in use for the classification of tumor of the central nervous system, the World Health Organization (WHO) grading system is commonly used for astrocytoma. Established in 1993 in an effort to eliminate confusion regarding diagnoses, the WHO system established a four-tiered histologic grading guideline for astrocytomas that assigns a grade from 1 to 4, with 1 being the least aggressive and 4 being the most aggressive.
+
+Types[edit]
+Tumors can be benign or malignant, can occur in different parts of the brain, and may be primary or secondary. A primary tumor is one that has started in the brain, as opposed to a metastatic tumor, which is something that has spread to the brain from another part of the body.[16] The incidence of metastatic tumors are more prevalent than primary tumors by 4:1.[17] Tumors may or may not be symptomatic: some tumors are discovered because the patient has symptoms, others show up incidentally on an imaging scan, or at an autopsy.
+
+The most common primary brain tumors are:[18]
+
+Gliomas (50.4%)
+Meningiomas (20.8%)
+Pituitary adenomas (15%)
+Nerve sheath tumors (8%)
+These common tumors can also be organized according to tissue of origin as shown below:[19][verification needed]
+
+Tissue of origin
+
+Children	Adults
+Astrocytes	Pilocytic Astrocytoma (PCA)	Glioblastoma Multiforme (GBM)
+Oligodendrocytes		Oligodendroglioma
+Ependyma	Ependymoma	
+Neurons	Medulloblastoma	
+Meninges		Meningioma
+Specific types[edit]
+Main article: WHO classification of the tumors of the central nervous system
+Anaplastic astrocytoma, Astrocytoma, Central neurocytoma, Choroid plexus carcinoma, Choroid plexus papilloma, Choroid plexus tumor, Dysembryoplastic neuroepithelial tumour, Ependymal tumor, Fibrillary astrocytoma, Giant-cell glioblastoma, Glioblastoma multiforme, Gliomatosis cerebri, Gliosarcoma, Hemangiopericytoma, Medulloblastoma, Medulloepithelioma, Meningeal carcinomatosis, Neuroblastoma, Neurocytoma, Oligoastrocytoma, Oligodendroglioma, Optic nerve sheath meningioma, Pediatric ependymoma, Pilocytic astrocytoma, Pinealoblastoma, Pineocytoma, Pleomorphic anaplastic neuroblastoma, Pleomorphic xanthoastrocytoma, Primary central nervous system lymphoma, Sphenoid wing meningioma, Subependymal giant cell astrocytoma, Subependymoma, Trilateral retinoblastoma.
+
+Treatment[edit]
+When a brain tumor is diagnosed, a medical team will be formed to assess the treatment options presented by the leading surgeon to the patient and his/her family. Given the location of primary solid neoplasms of the brain in most cases a "do-nothing" option is usually not presented. Neurosurgeons take the time to observe the evolution of the neoplasm before proposing a management plan to the patient and his/her relatives. These various types of treatment are available depending on neoplasm type and location and may be combined to give the best chances of survival:
+
+Surgery: complete or partial resection of the tumor with the objective of removing as many tumor cells as possible.
+Radiotherapy: the most commonly used treatment for brain tumors; the tumor is irradiated with beta, x rays or gamma rays.
+Chemotherapy: is a treatment option for cancer, however it is not always used to treat brain tumors as the blood-brain barrier can prevent some drugs from reaching the cancerous cells.
+A variety of experimental therapies are available through clinical trials.
+Survival rates in primary brain tumors depend on the type of tumor, age, functional status of the patient, the extent of surgical tumor removal and other factors specific to each case.[20]
+
+Surgery[edit]
+The primary and most desired course of action described in medical literature is surgical removal (resection) via craniotomy. Minimally invasive techniques are becoming the dominant trend in neurosurgical oncology.[21] The prime remediating objective of surgery is to remove as many tumor cells as possible, with complete removal being the best outcome and cytoreduction ("debulking") of the tumor otherwise. In some cases access to the tumor is impossible and impedes or prohibits surgery.
+
+Many meningiomas, with the exception of some tumors located at the skull base, can be successfully removed surgically. Most pituitary adenomas can be removed surgically, often using a minimally invasive approach through the nasal cavity and skull base (trans-nasal, trans-sphenoidal approach). Large pituitary adenomas require a craniotomy (opening of the skull) for their removal. Radiotherapy, including stereotactic approaches, is reserved for inoperable cases.
+
+Several current research studies aim to improve the surgical removal of brain tumors by labeling tumor cells with 5-aminolevulinic acid that causes them to fluoresce.[22] Postoperative radiotherapy and chemotherapy are integral parts of the therapeutic standard for malignant tumors. Radiotherapy may also be administered in cases of "low-grade" gliomas, when a significant tumor burden reduction could not be achieved surgically.
+
+Any person undergoing brain surgery may suffer from epileptic seizures. These can take the form of either absence seizures or tonic-clonic seizures. Medication can lessen and sometimes prevent these attacks.
+
+Multiple metastatic tumors are generally treated with radiotherapy and chemotherapy rather than surgery and the prognosis in such cases is determined by the primary tumor, and is generally poor.
+
+Radiation therapy[edit]
+The goal of radiation therapy is to kill tumor cells while leaving normal brain tissue unharmed. In standard external beam radiation therapy, multiple treatments of standard-dose "fractions" of radiation are applied to the brain. This process is repeated for a total of 10 to 30 treatments, depending on the type of tumor. This additional treatment provides some patients with improved outcomes and longer survival rates.
+
+Radiosurgery is a treatment method that uses computerized calculations to focus radiation at the site of the tumor while minimizing the radiation dose to the surrounding brain. Radiosurgery may be an adjunct to other treatments, or it may represent the primary treatment technique for some tumors. Forms used include stereotactic radiosurgery, such as Gamma knife, Cyberknife or Novalis Tx radiosurgery.[23][unreliable medical source?]
+
+Radiotherapy may be used following, or in some cases in place of, resection of the tumor. Forms of radiotherapy used for brain cancer include external beam radiation therapy, the most common, and brachytherapy and proton therapy, the last especially used for children.
+
+Radiotherapy is the most common treatment for secondary brain tumors. The amount of radiotherapy depends on the size of the area of the brain affected by cancer. Conventional external beam "whole-brain radiotherapy treatment" (WBRT) or "whole-brain irradiation" may be suggested if there is a risk that other secondary tumors will develop in the future.[24] Stereotactic radiotherapy is usually recommended in cases involving fewer than three small secondary brain tumors.
+
+People who receive stereotactic radiosurgery (SRS) and whole-brain radiation therapy (WBRT) for the treatment of metastatic brain tumors have more than twice the risk of developing learning and memory problems than those treated with SRS alone.[25][26]
+
+Chemotherapy[edit]
+Patients undergoing chemotherapy are administered drugs designed to kill tumor cells. Although chemotherapy may improve overall survival in patients with the most malignant primary brain tumors, it does so in only about 20 percent of patients. Chemotherapy is often used in young children instead of radiation, as radiation may have negative effects on the developing brain. The decision to prescribe this treatment is based on a patient's overall health, type of tumor, and extent of the cancer. The toxicity and many side effects of the drugs, and the uncertain outcome of chemotherapy in brain tumors puts this treatment further down the line of treatment options with surgery and radiation therapy preferred.
+
+UCLA Neuro-Oncology publishes real-time survival data for patients with a diagnosis of glioblastoma multiforme. They are the only institution in the United States that displays how brain tumor patients are performing on current therapies. They also show a listing of chemotherapy agents used to treat high-grade glioma tumors.[27]
+
+Other[edit]
+A shunt may be used to relieve symptoms caused by intracranial pressure, by reducing the build-up of fluid (hydrocephalus) caused by the blockage of the free flow of cerebrospinal fluid.[28]
+
+Prognosis[edit]
+The prognosis of brain cancer depends on the type of cancer diagnosed. Medulloblastoma has a good prognosis with chemotherapy, radiotherapy, and surgical resection while glioblastoma multiforme has a median survival of only 12 months even with aggressive chemoradiotherapy and surgery. Brainstem gliomas have the poorest prognosis of any form of brain cancer, with most patients dying within one year, even with therapy that typically consists of radiation to the tumor along with corticosteroids. However, one type, focal brainstem gliomas in children, seems open to exceptional prognosis and long-term survival has frequently been reported.[29]
+
+Glioblastoma multiforme[edit]
+Main article: Glioblastoma multiforme
+Glioblastoma multiforme is the most aggressive (grade IV) and most common form of a malignant brain tumor. Even when aggressive multimodality therapy consisting of radiotherapy, chemotherapy, and surgical excision is used, median survival is only 12–17 months. Standard therapy for glioblastoma multiforme consists of maximal surgical resection of the tumor, followed by radiotherapy between two and four weeks after the surgical procedure to remove the cancer, then by chemotherapy. Most patients with glioblastoma take a corticosteroid, typically dexamethasone, during their illness to relieve symptoms. Experimental treatments include gamma knife radiosurgery,[30] boron neutron capture therapy and gene therapy.[31][32]
+
+Oligodendrogliomas[edit]
+Main article: Oligodendroglioma
+Oligodendrogliomas are incurable but slowly progressive malignant brain tumors. They can be treated with surgical resection, chemotherapy, radiotherapy or a combination. For some suspected low-grade (grade II) tumors, only a course of watchful waiting and symptomatic therapy is opted for. These tumors show a high frequency of co-deletions of the p and q arms of chromosome 1 and chromosome 19 respectively (1p19q co-deletion) and have been found to be especially chemosensitive with one report claiming them to be one of the most chemosensitive tumors.[33] A median survival of up to 16.7 years has been reported for grade II oligodendrogliomas.[34]
+
+Epidemiology[edit]
+Figures for incidences of cancers of the brain show a significant difference between more- and less-developed countries (the less-developed countries have lower incidences of tumors of the brain),[35]— this could be explained by undiagnosed tumor-related deaths (patients in extreme poor situations do not get diagnosed, simply because they do not have access to the modern diagnostic facilities required to diagnose a brain tumor) and by deaths caused by other poverty-related causes that preempt a patient's life before tumors develop or tumors become life-threatening. Nevertheless, studies[which?] suggest that certain forms of primary brain tumors are more prevalent among certain groups of the population.
+
+The incidence of low-grade astrocytoma has not been shown to vary significantly with nationality. However, studies examining the incidence of malignant central nervous system (CNS) tumors have shown some variation with national origin. Since some high-grade lesions arise from low-grade tumors, these trends are worth mentioning. Specifically, the incidence of CNS tumors in the United States, Israel, and the Nordic countries is relatively high, while Japan and Asian countries have a lower incidence. These differences probably reflect some biological differences as well as differences in pathologic diagnosis and reporting.[36] Worldwide data on incidence of cancer can be found at the WHO (World Health Organisation) and is handled by the IARC (International Agency for Research on Cancer) located in France.[37]
+
+United States[edit]
+For the United States in the year 2005, it was projected that there would be 43,800 new cases of brain tumors [38][39] which accounted for less than 1 percent of all cancers, 2.4 percent of all cancer deaths,[40] and 20–25 percent of pediatric cancers.[40][41] Ultimately, it is estimated there are 13,000 deaths per year in the United States alone as a result of brain tumors.[39]
+
+UK[edit]
+Brain, other CNS or intracranial tumors are the ninth most common cancer in the UK (around 10,600 people were diagnosed in 2013), and it is the eighth most common cause of cancer death (around 5,200 people died in 2012).[42]
+
+Research[edit]
+Immunotherapy[edit]
+Cancer immunotherapy is being actively studied. For malignant gliomas no therapy has been shown to improve life expectancy as of 2015.[43]
+
+Vesicular stomatitis virus[edit]
+See also: Oncolytic virus
+In 2000, researchers used the vesicular stomatitis virus, or VSV, to infect and kill cancer cells without affecting healthy cells.[44][45]
+
+The initial discovery of the virus' oncolytic properties were limited to only a few types of cancer. Several independent studies have identified many more types susceptible to the virus, including glioblastoma multiforme cancer cells, which account for the majority of brain tumors.
+
+In 2008, researchers artificially engineered strains of VSV that were less cytotoxic to normal cells. This advance allows administration of the virus without coadministration with interferon. Consequently, administration of the virus can be given intravenously or through the olfactory nerve. In the research, a human brain tumor was implanted into mice brains.
+
+Research on virus treatment like this has been conducted for some years, but no other viruses have been shown to be as efficient or specific as the VSV mutant strains.
+
+Retroviral replicating vectors[edit]
+
+A brainstem glioma in four-year-old. MRI, sagittal, without contrast
+Led by Prof. Nori Kasahara, researchers from USC, who are now at UCLA, reported in 2001 the first successful example of applying the use of retroviral replicating vectors towards transducing cell lines derived from solid tumors.[46] Building on this initial work, the researchers applied the technology to in vivo models of cancer and in 2005 reported a long-term survival benefit in an experimental brain tumor animal model.[47][unreliable medical source?] Subsequently, in preparation for human clinical trials, this technology was further developed by Tocagen (a pharmaceutical company primarily focused on brain cancer treatments) as a combination treatment (Toca 511 & Toca FC). This has been under investigation since 2010 in a Phase I/II clinical trial for the potential treatment of recurrent high-grade glioma including glioblastoma multiforme (GBM) and anaplastic astrocytoma. No results have yet been published.[48]
+
+Children[edit]
+Ambox current red.svg
+This section is outdated. Please update this article to reflect recent events or newly available information.
+Last update: PMID 23436013 (July 2014)
+In the USA, about 2,000 children and adolescents younger than 20 years of age are diagnosed with malignant brain tumors each year. Higher incidence rates were reported in 1985–1994 than in 1975–1983. There is some debate as to the reasons; one theory is that the trend is the result of improved diagnosis and reporting, since the jump occurred at the same time that MRIs became available widely, and there was no coincident jump in mortality. The central nervous system cancer survival rate in children is approximately 60%. The rate varies with the type of cancer and the age of onset: younger patients have higher mortality.[49]
+
+In children under 2, about 70% of brain tumors are medulloblastomas, ependymomas, and low-grade gliomas. Less commonly, and seen usually in infants, are teratomas and atypical teratoid rhabdoid tumors.[50] Germ cell tumors, including teratomas, make up just 3% of pediatric primary brain tumors, but the worldwide incidence varies significantly.[51]
+
+In the UK, 429 children aged 14 and under are diagnosed with a brain tumour on average each year, and 563 children and young people under the age of 19 are diagnosed.
+What is brain cancer?
+
+Primary brain cancer develops from cells within the brain. Part of the central nervous system (CNS), the brain is the control center for vital functions of the body, including speech, movement, thoughts, feelings, memory, vision, hearing and more.
+
+Primary brain tumors are classified by the type of cell or tissue the tumor affects, and the location and grade of the tumor. Tumor cells may travel short distances within the brain, but generally won't travel outside of the brain itself.
+
+When cancer develops elsewhere in the body and spreads (metastasizes) to the brain, it’s called a secondary brain tumor, or metastatic brain cancer. Metastatic brain tumors are more common than primary brain tumors. Some cancers that commonly spread to the brain include lung, colon, kidney and breast cancers.
+Brain cancer incidence
+
+Each year, over 190,000 people in the United States are diagnosed with a brain tumor (National Brain Tumor Society).
+
+It is estimated that 23,770 new cases of brain and other nervous system cancers will be diagnosed in 2016, with the median age at the time of diagnosis being 58 (National Cancer Institute).
+How brain cancer develops
+
+The brain and spinal cord together make up the central nervous system (CNS). Cancer can begin in the CNS or, more commonly, it can spread there.
+
+Primary brain tumors are tumors that form from cells within the brain. Not all primary brain tumors are the same. Primary brain tumors can be divided into malignant or benign tumors.
+
+Benign primary brain tumors are not cancerous. They grow slowly, and tend to be more amendable to surgical or other treatments. However, benign brain tumors can still damage normal brain tissue and cause serious problems.
+Malignant brain tumors are more aggressive by definition. They grow more quickly and invade local structures more aggressively.
+Metastatic brain tumors are tumors that spread (metastasize) to the brain from another location in the body, such as the lung, colon, breast or kidney. Metastatic brain tumors are more common than primary brain tumors.
+Cancer
+Information
+A guide for people with brain or spinal
+cord tumours, their families and friends
+Understanding
+Brain Tumours
+For information & support, call
+Understanding Brain Tumours
+A guide for people with brain or spinal cord tumours, their families and friends.
+First published January 1995. This edition May 2016.
+© Cancer Council Australia. ISBN 978 1 925136 71 5.
+Understanding Brain Tumours is reviewed approximately every two years. Check the publication date
+above to ensure this copy is up to date.
+Editor: Melissa Fagan. Designer: Rebecca Borradale. Printer: SOS Print + Media Group.
+Acknowledgements
+This edition has been developed by Cancer Council Queensland on behalf of all other state and
+territory Cancer Councils as part of a National Publications Working Group initiative.
+We thank the reviewers of this booklet: A/Prof Matthew Foote, Associate Professor, University of
+Queensland and Staff Specialist, Radiation Oncology, Princess Alexandra Hospital, QLD;
+Dr Jason Papacostas, Neurosurgeon, Mater Private Hospital, QLD; Dr Dianne Clifton, Psychiatrist
+and Coordinator of Education, Psychosocial Cancer Care and Palliative Care, St Vincent’s Hospital,
+VIC; A/Prof Georgia Halkett, Assocaite Professor, Senior Research Fellow, School of Nursing
+and Midwifery, Faculty of Health Sciences, Curtin University, WA; Lawrence Cher, Neurologist
+and Neuro-oncologist, Olivia Newton John Cancer & Wellness Centre, Austin Hospital, VIC; Kate
+Brennan, Occupational Therapist, Princess Alexandra Hospital, QLD; Vivien Biggs, Neuro-oncology
+nurse practitioner, Briz Brain & Spine, QLD; Lindy Cohn, 13 11 20 advisor, Cancer Council NSW,
+NSW; Ms Dianne Legge, Brain Tumour Support Officer, Cancer Services, Olivia Newton-John
+Cancer & Wellness Centre, Austin Hospital, VIC; Russ Talbot, consumer, SA.
+This booklet is funded through the generosity of the people of Australia.
+Note to reader
+Always consult your doctor about matters that affect your health. This booklet is intended as a
+general introduction to the topic and should not be seen as a substitute for medical, legal or financial
+advice. You should obtain independent advice relevant to your specific situation from appropriate
+professionals, and you may wish to discuss issues raised in this book with them.
+All care is taken to ensure that the information in this booklet is accurate at the time of publication.
+Please note that information on cancer, including the diagnosis, treatment and prevention of cancer, is
+constantly being updated and revised by medical professionals and the research community. Cancer
+Council Australia and its members exclude all liability for any injury, loss or damage incurred by use of
+or reliance on the information provided in this booklet
+Cancer Council
+Cancer Council is Australia’s peak non-government cancer control organisation. Through the eight
+state and territory Cancer Councils, we provide a broad range of programs and services to help
+improve the quality of life of people living with cancer, their families and friends. Cancer Councils also
+invest heavily in research and prevention. To make a donation and help us beat cancer, visit
+cancer.org.au or call your local Cancer Council.
+Cancer Council Australia
+Level 14, 477 Pitt Street, Sydney NSW 2000
+Telephone 02 8063 4100 Facsimile 02 8063 4101
+Email info@cancer.org.au Website cancer.org.au
+ABN 91 130 793 725
+Introduction
+If you or your family have any questions,
+call Cancer Council 13 11 20. We can send
+you more information and connect you with
+support services in your area. Turn to the
+last page of this book for more details.
+This booklet is designed to help you understand more about brain
+and spinal cord tumours. It includes information about both noncancerous
+(benign) and cancerous (malignant) tumours. Many
+people feel shocked and upset when told they have a brain tumour.
+We hope this booklet will help you, your family and friends
+understand how brain and spinal cord tumours are diagnosed and
+treated. We also include information about support services.
+We cannot give advice about the best treatment for you. You need to
+discuss this with your doctors. However, we hope this information
+will answer some of your questions and help you think about
+questions you may want to ask your treatment team.
+This booklet does not need to be read from cover to cover – just
+read the parts that are useful to you. Some medical terms that may
+be unfamiliar are explained in the glossary. You may also like to pass
+this booklet on to your family and friends for their information.
+How this booklet was developed
+The information in this booklet was developed with help from a
+range of health professionals and people affected by cancer.
+Contents
+What is a tumour? ............................................................ 4
+The brain and spinal cord................................................ 6
+Nervous tissue......................................................................................6
+Brain function .......................................................................................8
+Key questions ................................................................. 10
+What is a brain or spinal cord tumour? ..............................................10
+What types are there? ........................................................................11
+How common are they? .....................................................................12
+What are the symptoms? ...................................................................13
+What are the risk factors? ..................................................................16
+Diagnosis......................................................................... 17
+Physical examination..........................................................................17
+CT scan ..............................................................................................18
+MRI scan ............................................................................................19
+Further tests .......................................................................................20
+Grading brain and spinal cord tumours..............................................21
+Prognosis ...........................................................................................22
+Which health professionals will I see?................................................23
+Making treatment decisions.......................................... 26
+Talking with doctors ...........................................................................26
+A second opinion ...............................................................................27
+Taking part in a clinical trial ................................................................27
+Treatment ....................................................................... 29
+Surgery ...............................................................................................29
+Radiotherapy ......................................................................................35
+Stereotactic radiosurgery ...................................................................36
+Chemotherapy....................................................................................38
+Steroids ..............................................................................................39
+Palliative treatment.............................................................................41
+Living with a brain tumour............................................. 43
+Rehabilitation .....................................................................................44
+Managing seizures .............................................................................45
+Driving ................................................................................................47
+Looking after yourself.................................................... 51
+Relationships with others ...................................................................52
+Life after treatment.............................................................................53
+Seeking support ............................................................. 55
+Practical and financial help ................................................................55
+Talk to someone who’s been there.....................................................55
+Caring for an adult with a tumour................................. 57
+Caring for a child with a tumour ................................... 58
+Useful websites .............................................................. 62
+Question checklist.......................................................... 63
+Glossary .......................................................................... 64
+How you can help........................................................... 68
+Malignant or
+invasive cancer
+Abnormal
+cells
+Angiogenesis
+Abnormal cells
+multiply
+Abnormal cells
+How cancer starts
+Normal cells
+Normal cells
+Lymph vessel
+Boundary
+Blood vessel
+A tumour forms when cells don’t grow, divide and die in the
+usual way. A tumour can be benign or malignant. A benign
+tumour is non-cancerous. A malignant tumour is cancer.
+Benign tumour – Cells are confined to one area, grow slowly,
+and are not able to spread to other parts of the body. Although a
+benign tumour can cause problems, it is not cancer.
+Malignant tumour – This is made up of cancerous cells, which
+in some cases have the ability to spread by travelling through the
+bloodstream or lymphatic system (lymph fluid). Most primary
+tumours of the brain and spine do not spread beyond the central
+nervous system.
+What is a tumour?
+4 Cancer Council
+How cancer spreads
+Angiogenesis –
+tumours grow their
+own blood vessels
+Metastasis –
+cells invade other
+parts of the body via
+blood vessels and
+lymph vessels
+Primary cancer
+Local invasion
+Lymph vessel
+Cancer is a disease of the cells, which are the body’s basic building
+blocks. The body constantly makes new cells to help us grow,
+replace worn-out tissue and heal injuries. Normally, cells multiply
+and die in an orderly way. The cancer that first develops in a tissue
+or organ is called the primary cancer. A malignant tumour is
+usually named after the organ or type of cell affected.
+If cancerous cells grow and form another tumour at a new site,
+it is called a secondary cancer or metastasis. A metastasis keeps
+the name of the original cancer. For example, lung cancer that
+has spread to the brain is still called metastatic lung cancer, even
+though the person may be experiencing symptoms caused by
+problems in the brain.
+What is a tumour? 5
+The brain and spinal cord
+The brain and spinal cord make up the central nervous system
+(CNS). The CNS receives messages from cells called nerves,
+which are spread throughout the body.
+The brain interprets information and relays messages through
+the nerves to muscles and organs. The main sections of the
+brain are the cerebrum (the largest part of the brain), the
+cerebellum and the brain stem.
+Deep within the brain is the pituitary gland. It controls growth
+and development by releasing chemical messengers (hormones)
+into the blood. These chemical messengers signal other
+hormones to start or stop working.
+The spinal cord extends from the brain stem to the lower back.
+It consists of nerve cells and nerve bundles that connect the brain
+to all parts of the body through the peripheral nervous system.
+The spinal cord lies in the spinal canal, and is protected by bony
+vertebrae (spinal column). Both the brain and spinal cord are
+surrounded by membranes, which is called meninges. Inside
+the skull and vertebrae, the brain and spinal cord float in liquid.
+This liquid is called cerebrospinal fluid (CSF).
+Nervous tissue
+The brain, spinal cord and nerves consist of billions of nerve
+cells called neurons or neural cells, which process and send
+information. Together, this is called nervous tissue.
+6 Cancer Council
+Vertebrae
+(part of
+spinal column)
+Cerebrum
+Skull
+Cerebellum
+Meninges
+Brain stem
+Pituitary gland
+Spinal cord
+(part of
+spinal canal)
+The brain and spinal cord
+The brain and spinal cord 7
+The three main types of neural cells are:
+• sensory neurons – respond to light, sound and touch
+• motor neurons – cause muscle contractions
+• interneurons – connect neurons in the brain and spinal cord.
+Glial cells, or neuroglia, are the other main type of cells in the
+nervous system. There are several different types of glial cells,
+including astrocytes and oligodendrocytes. Glial cells surround the
+neurons and hold them in place. The glial cells also supply nutrients
+to neurons and clear away dead neurons and germs.
+Brain function
+The brain plays a unique role in the body’s essential functions.
+The brain controls all voluntary and involuntary processes, such
+as moving, learning, sensing, imagining, remembering, breathing,
+blood circulation and heart rate, body temperature, digestion, and
+bowel and bladder control (continence).
+The cerebrum is the largest part of the brain. The cerebrum is
+divided into right and left hemispheres. The right hemisphere
+controls muscles on the left side of the body, and the left hemisphere
+controls muscles on the right side. The hemispheres are connected
+by a band of nerve fibres known as the corpus callosum, which
+transfers information between the two hemispheres.
+Each hemisphere is divided into four main areas, called lobes,
+which control different functions, as shown in the diagram on the
+opposite page.
+8 Cancer Council
+The brain
+Frontal lobe
+Responsible for cognition, executive thinking and
+memory, including your ability to concentrate, plan,
+solve problems and some aspects of personality and
+character. Also responsible for motor function, or
+body movement. Your ability to change thoughts into
+words is also stored here.
+Brain stem
+Controls life-supporting
+functions including
+alertness, arousal, breathing,
+temperature, blood pressure
+and ability to sleep.
+Cerebellum
+ Responsible for coordination
+and timing of voluntary
+movement, as well as balance,
+standing and walking.
+Regulates fear, pleasure,
+attention and language.
+Temporal lobe
+Responsible for auditory
+perception and language,
+including recognition of words.
+Contains the hippocampus,
+where long-term memories are
+formed.
+Occipital lobe
+Responsible for
+visual processing,
+including visual
+memory.
+Parietal lobe
+Responsible for spatial
+awareness, and integrating
+senses including speech, visual
+perception and touch.
+The brain and spinal cord 9
+Q: What is a brain or spinal cord tumour?
+A: A brain or spinal cord tumour occurs when cells in the
+central nervous system grow and divide to form a lump.
+Tumours can be benign or malignant.
+Benign (non-cancerous) tumours – Benign tumours
+usually have slow-growing cells and rarely spread. However,
+they may press on the brain, spinal cord, or the cranial
+nerves, and cause symptoms. Benign tumours may be found
+in areas of the brain that control vital life functions, and
+require urgent treatment (see pages 29 – 42).
+Malignant (cancerous) tumours – These life-threatening
+tumours often grow rapidly, and may spread within the brain
+and spinal cord, or reoccur even after treatment. Just over
+40% of all brain and spinal cord tumours are malignant.1
+Key questions
+Childhood brain tumours
+In Australia, about 130 children
+under 15 are diagnosed with
+a brain tumour each year.
+Around 80% of these are
+cancerous. Children are more
+likely to develop tumours
+in the lower parts of the
+brain, the area that controls
+movement and coordination.
+Glioma and medulloblastoma
+are the most common
+types. About 20 children are
+diagnosed with a spinal cord
+tumour each year. If your child
+has a brain tumour, you may
+find the chapter Caring for a
+child with a tumour helpful –
+see page 58.
+10 Cancer Council
+Q: What types are there?
+A: There are more than 100 types of brain and spinal cord
+tumours (also called central nervous system or CNS tumours).
+They are usually named after the cell type they started in.
+Benign tumours – The most common types are
+pituitary tumours (which grow from the pituitary gland),
+meningiomas (which grow from the meninges), neuromas
+(which grow from the nerves), and pilocytic astrocytomas.
+Malignant tumours – The most common type of cancerous
+brain tumours in adults and children are called gliomas. There
+are three types of gliomas: astrocytomas, oligodendrogliomas
+and ependymons. Gliomas can be classified as low or high
+grade depending on how fast they are growing. A common
+high grade glioma is glioblastoma (also known as glioblastoma
+multiforme or GBM), a type of astrocytoma. Medulloblastomas
+are another type of malignant tumour, which develop in the
+cerebellum. These are rare in adults but common in children.
+Metastatic brain tumours – Secondary brain tumours that
+begin as a primary cancer in another part of the body before
+spreading to the brain. Cancers that may spread to the brain
+include melanoma, bowel, breast, kidney and lung cancer.
+Not all tumours are easily classified as benign or malignant. Some
+types of tumours, such as gliomas and ependymomas, may be either.
+Key questions 11
+Q: How common are they?
+A: Every year about 1700 malignant brain tumours are diagnosed
+in Australia.2
+ The most common type in adults is a type
+of glioma called glioblastoma multiforme or GBM. These
+tumours are generally found in the cerebral hemispheres.
+Malignant spinal cord tumours are rare. About 80 people
+are diagnosed with malignant spinal cord or central nervous
+system tumours each year.
+Data about benign brain and spinal cord tumours is not
+collected, but they are more common than malignant
+tumours.3
+ In Australia, an estimated 2350 people – including
+children – are diagnosed with a benign tumour each year.1
+Electromagnetic radiation and brain cancer
+Many people are concerned
+that mobile phones or
+microwave ovens may cause
+brain cancer.
+Evidence to date does not
+show that mobile phone use
+causes cancer. However, if you
+are concerned about potential
+harm from mobile phones,
+you may choose to use a
+headset, limit the time you
+spend on your mobile phone
+or consider texting rather than
+calling. Additionally, you could
+consider limiting your child’s
+mobile phone use.
+Microwave ovens have been
+in widespread use since the
+1980s. There is no evidence
+that ovens in working order
+emit electromagnetic radiation
+at levels harmful to humans.
+12 Cancer Council
+Q: What are the symptoms?
+A: Brain tumour symptoms depend on where it is located and
+whether it is causing pressure in the skull or on the brain
+or spinal cord. Sometimes, when a tumour grows slowly,
+symptoms develop gradually, so you may not be aware of its
+presence at first.
+General symptoms of brain or spinal cord tumours include
+headaches, seizures, changes in personality, or changes in
+balance. Increased pressure in the skull can result in nausea,
+vomiting and confusion. Tumours may also cause weakness
+or paralysis in parts of the body. Other symptoms might
+include memory loss, vision loss, hearing difficulties or
+speech changes. Symptoms may differ depending on where
+in the brain or spinal cord the tumour is located - see the
+table on the following pages.
+Many symptoms of brain tumours, such as a headache, are
+more likely to be caused by other factors. However, new or
+worsening symptoms should be reported to your doctor.
+ My doctor thought I had depression but I insisted on
+a CT scan as I had persistent headaches, felt disorientated
+and couldn’t think clearly. The scan showed that I had a
+brain tumour. Richard
+Key questions 13
+Part of the brain Symptom Part of the brain Symptom
+Frontal lobe
+• changes in personality, including loss of
+inhibition
+• mood swings
+• difficulty with planning and organising
+• weakness in part of the face, or on one side
+of the body
+• difficulty walking
+• loss of sense of smell
+• problems with your sight or speech
+Spinal cord
+• back and neck pain
+• numbness or tingling in the arms or legs
+• clumsiness or difficulty walking
+• loss of bowel or bladder control (incontinence)
+Pituitary gland
+• headaches
+• loss of vision, particularly peripheral vision
+• nausea or vomiting
+• sexual problems
+Parietal lobe
+• difficulty speaking or understanding what
+is said to you
+• problems with reading or writing
+• loss of feeling in part of the body
+Brain stem
+• coordination problems
+• difficulty swallowing or speaking
+• double vision
+• drooping eyelid or mouth on one side
+Temporal lobe
+• forgetting words
+• difficulty finding the correct word
+• short term memory loss
+• fits associated with strange feelings, smells
+or déjà vu
+• hearing voices in your head
+Meninges
+• headaches
+• vomiting
+• weakness in an arm or a leg
+• personality changes or confusion
+• seizures (fits)
+Occipital lobe • partial or complete loss of vision Optic nerve • vision problems
+Cerebellum
+• coordination problems
+• uncontrolled eye movement
+• stiff neck
+• dizziness
+Hearing nerve • hearing problems
+14 Cancer Council
+Part of the brain Symptom Part of the brain Symptom
+Frontal lobe
+• changes in personality, including loss of
+inhibition
+• mood swings
+• difficulty with planning and organising
+• weakness in part of the face, or on one side
+of the body
+• difficulty walking
+• loss of sense of smell
+• problems with your sight or speech
+Spinal cord
+• back and neck pain
+• numbness or tingling in the arms or legs
+• clumsiness or difficulty walking
+• loss of bowel or bladder control (incontinence)
+Pituitary gland
+• headaches
+• loss of vision, particularly peripheral vision
+• nausea or vomiting
+• sexual problems
+Parietal lobe
+• difficulty speaking or understanding what
+is said to you
+• problems with reading or writing
+• loss of feeling in part of the body
+Brain stem
+• coordination problems
+• difficulty swallowing or speaking
+• double vision
+• drooping eyelid or mouth on one side
+Temporal lobe
+• forgetting words
+• difficulty finding the correct word
+• short term memory loss
+• fits associated with strange feelings, smells
+or déjà vu
+• hearing voices in your head
+Meninges
+• headaches
+• vomiting
+• weakness in an arm or a leg
+• personality changes or confusion
+• seizures (fits)
+Occipital lobe • partial or complete loss of vision Optic nerve • vision problems
+Cerebellum
+• coordination problems
+• uncontrolled eye movement
+• stiff neck
+• dizziness
+Hearing nerve • hearing problems
+Key questions 15
+Q: What are the risk factors?
+A: The causes of most brain and spinal cord tumours are
+unknown. However, there are a few known risk factors for
+malignant brain tumours:
+• Family history – It is possible to have a genetic
+predisposition to developing a tumour. This means that
+you may have a fault in your genes, usually passed down
+from one of your parents, that increases your risk. For
+example, some people have a genetic condition called
+neurofibromatosis, which causes nerve tissue tumours.
+• Radiotherapy – People who have had radiation to the
+head, usually to treat another type of cancer, may be at
+an increased risk of developing a tumour. This may affect
+people who had radiotherapy for childhood leukaemia.
+Hydrocephalus
+A brain tumour can sometimes block the flow of cerebrospinal
+fluid around the brain and its spaces (cavities). When this
+happens, fluid can build up and put pressure on the brain. This is
+called hydrocephalus. The condition is most common in infants,
+but it can occur in some adults. It is usually treated with a shunt.
+16 Cancer Council
+Diagnosis
+Many people diagnosed with a brain or spinal cord tumour first
+consult their general practitioner (GP) because they are feeling
+unwell. Occasionally a brain tumour will be diagnosed during
+a scan for something unrelated, such as a head injury. Some
+people have sudden symptoms (such as loss of consciousness,
+a severe headache or a seizure) and go directly to the hospital’s
+emergency department.
+The doctor will take your medical history and ask about your
+symptoms. After that, you will have a physical examination. You
+may then be referred to have one or more scans/tests to confirm
+a diagnosis of a brain or spinal cord tumour.
+Children have the same types of diagnostic tests as adults,
+however young children may require a general anaesthetic for
+some of the tests.
+Physical examination
+Your doctor will assess your nervous system to check how
+different parts of your brain and body are working, including
+your speech, hearing, vision and movement.
+This is called a neurological examination and may cover:
+• checking your reflexes (e.g. knee jerks)
+• testing the strength in your limb muscles
+• walking, to show your balance and coordination
+• testing sensations (e.g. your ability to feel pinpricks)
+• brain exercises, such as simple arithmetic or memory tests.
+Diagnosis 17
+The doctor may also test eye and pupil movements, and may look
+into your eyes using an instrument called an ophthalmoscope.
+This allows the doctor to see your optic nerve, which sends visual
+information from the eyes to the brain. Swelling of the optic nerve
+can be an early sign of raised pressure in the skull.
+CT scan
+A CT (computerised tomography) scan is a procedure that uses x-ray
+beams to take pictures of the inside of your body. Unlike a standard
+x-ray, which takes a single picture, a CT scan uses a computer to
+compile many cross-sectional pictures of areas of your body.
+A contrast dye may be injected into your veins. This injection will
+help make the scan pictures clearer. It may make you feel flushed
+and hot for a few minutes. Rarely, more serious reactions occur,
+such as breathing difficulties or low blood pressure.
+You will be asked to lie still on a table while the CT scanner, which
+is large and round like a doughnut, slowly rotates around you. It
+may take about 30 minutes to prepare for the scan, but the actual
+test is painless and takes less than 10 minutes. You will be able to
+go home when the scan is complete.
+The dye that is injected into your veins before a CT or MRI scan
+may contain iodine, and may affect your kidneys. Before your scan,
+tell your doctor if you have any allergies. You may need to have
+blood tests to check your kidney function.
+18 Cancer Council
+MRI scan
+An MRI (magnetic resonance imaging) scan uses magnetic waves
+to create detailed cross-sectional pictures of organs in your brain
+and spine. You should let your medical team know if you have a
+pacemaker or another iron-based metallic object in your body,
+because the scan may damage these devices.
+For an MRI, you may be injected with a dye that highlights the
+organs in your body. You will then lie on an examination table
+inside a large metal tube that is open at both ends.
+The test is painless, but the noise of the machine can be a source
+of distress. In addition, some people feel anxious or claustrophobic
+lying in such a confined space.
+If you think you may become distressed, mention it beforehand to
+your medical team. You may be given medicine to help you relax
+or you might be able to bring someone into the room with you for
+support. You will usually be offered headphones or earplugs.
+The MRI scan takes 30–90 minutes and you will be able to go
+home afterwards.
+ I found the MRI confronting, going into the cylinder head
+first and having to hold my breath. But now when I have this
+scan during check-ups, I count to myself. This helps me feel
+more in control. Robyn
+Diagnosis 19
+Further tests
+You may also have some of the tests below, which show how quickly
+or aggressively a tumour is growing (the grade) – see page 21. If
+your doctor suggests any of these tests, you can ask for a more
+detailed explanation of the procedures and any follow-up care.
+MRS scan – An MRS (magnetic resonance spectroscopy) scan can
+be done at the same time as a standard MRI. It detects the chemical
+make-up of the brain, which may be changed by a brain tumour.
+MR tractography – An advanced imaging technique that may
+enable visualisation of the message pathways (tracts) within
+the brain e.g. the visual pathway (tracts). This can be useful in
+planning treatment for gliomas.
+MR perfusion scan – Another advanced imaging technique
+that shows the amount of blood flow to various parts of the brain.
+This scan also be used to distinguish between active tumour and
+treatment effects.
+SPET or SPECT scan – A SPET or SPECT (single photon
+emission computerised tomography) scan takes 3D pictures of
+your body to assess blood flow in the brain. A small amount of
+radioactive fluid is injected into your body, which is then scanned
+with a gamma camera. A brain tumour may have higher blood
+flow than the rest of the brain.
+PET scan – In a PET (positron emission tomography) scan you
+are injected with a radioactive tracer solution. This is absorbed
+20 Cancer Council
+by cancer cells at a faster rate than normal cells and highlights the
+active cells.
+Lumbar puncture – A needle is inserted into the spinal column
+to collect cerebrospinal fluid to see if cancer cells or abnormal
+substances, such as blood or proteins, are present. Also called a
+spinal tap.
+Surgical biopsy – If scans show an abnormality that looks like a
+tumour, some or all of the tissue may be removed for examination
+(biopsy). In some cases, the neurosurgeon makes a small opening
+in the skull and inserts a needle to take a sample. In other cases, the
+neurosurgeon removes a larger part of the skull to get to the tumour.
+Grading brain and spinal cord
+tumours
+The grade describes the rate at which tumours grow and the
+likeliness or ability to spread into nearby tissue. Most brain and
+spinal cord tumours don’t spread in the body. However, your
+medical team may need to do other tests to check if the cancer has
+spread (e.g. CT or MRI scans, or checking the cerebrospinal fluid).
+Other tests to determine the type of tumour may also be used to
+predict how a tumour will grow.
+Brain and spinal cord tumours are usually given a grade on a scale
+of 1 to 4. The grade is worked out by looking at the tumour cells
+and comparing them to normal cells.
+Diagnosis 21
+Prognosis
+Prognosis means the expected outcome of a disease. You may wish to
+discuss your prognosis and treatment options with your doctor, but
+it is not possible for any doctor to predict the exact course of your
+disease.
+There are many factors that may affect your prognosis. These include
+tumour type, location of the tumour, grade, age, family history and
+your general health.
+Both benign and malignant tumours can be life-threatening, but you
+may have a better prognosis if the tumour is benign or low-grade, or
+if a surgeon is able to remove the entire tumour.
+Some brain or spinal cord tumours, particularly gliomas, can come
+back (recur). In this case, treatments such as surgery, radiotherapy or
+Grading
+Grades 1 and 2 These are the slowest-growing tumours.
+They are called low-grade tumours.
+Grade 3 Tumours grow at a moderate rate. They
+are called high-grade tumours.
+Grade 4 These are the fastest-growing tumours.
+They are also called high-grade tumours.
+22 Cancer Council
+chemotherapy may be used to control the growth of the tumour for
+as long as possible, relieve symptoms, and improve quality of life.
+To determine your prognosis, your doctor will consider:
+• test results
+• the type of cancer you have
+• the rate and depth of tumour growth
+• how well you respond to treatment
+• other factors such as age, fitness and medical history.
+For information about the prognosis of children with brain or
+spinal cord tumours, see page 10.
+Which health professionals will I see?
+If your GP or another doctor suspects you have a brain or spinal
+cord tumour, they will arrange the first tests to assess your
+symptoms. You will then be referred to a neurologist, neurooncologist
+or a neurosurgeon, who will examine you and may
+do more tests and advise you about your treatment options.
+You will be cared for by a range of health professionals who
+specialise in different aspects of your treatment. This is called a
+multidisciplinary team (MDT). The MDT will probably include
+some or all of the health professionals listed on the next page.
+Diagnosis 23
+Health professional Role
+neurologist
+diagnoses and treats diseases of the brain
+and nervous system, particularly those not
+requiring surgery
+neurosurgeon diagnoses and surgically treats diseases and
+injuries of the brain and nervous system
+nurses and cancer care
+coordinators
+administer drugs, including chemotherapy,
+and provide care, information and support
+throughout your treatment
+neuropathologist pathologist specialising in analysing blood
+and tissue from the brain and spinal cord
+medical oncologist
+specialises in diagnosing cancers and
+treating them using chemotherapy and
+biological therapies
+radiation oncologist specialist in treating cancers with radiotherapy
+dietitian recommends an eating plan for you to follow
+while you are in treatment and recovery
+social worker,
+psychologist,
+neuropsychologist,
+psychiatrist
+help with emotional, spiritual, physical, social
+or practical and financial issues and link you
+to support services
+physiotherapist,
+speech therapist and
+occupational therapist
+provide rehabilitation services and help with
+physical issues
+24 Cancer Council
+Key points
+• Many people diagnosed
+with a brain or spinal cord
+tumour have symptoms
+caused by the tumour, such
+as dizziness, headaches or
+difficulty walking.
+• You will probably have many
+tests to diagnose the disease.
+• A physical examination
+checks how different parts
+of your brain are working.
+• Imaging scans, such as CT
+and MRI, allow the doctor to
+see pictures of the inside of
+the brain.
+• Other scans assess the
+chemical make-up of the
+brain, blood flow in the brain,
+and whether there are active
+cancer cells in the central
+nervous system.
+• You may also need a blood
+test to check hormone
+levels, and a biopsy, which
+removes some tissue
+for examination under a
+microscope.
+• The tests help doctors
+diagnose the type of brain
+or spinal cord tumour you
+have, as well as its grade
+and if it has spread. The
+grade shows how abnormal
+the cells are and how quickly
+the tumour is growing.
+• Many people want to know
+the likely outcome of their
+disease (prognosis). You will
+need to discuss this with
+your doctor, as it depends
+on many factors.
+• You will see a range of
+health professionals who
+specialise in different areas
+of your treatment. You will
+usually be referred to a
+neurologist, neurosurgeon
+or neuro-oncologist.
+Diagnosis 25
+Sometimes it is difficult to decide on the type of treatment to have.
+You may feel that everything is happening too fast. Check with
+your doctor how soon your treatment should start, and take as
+much time as you can before making a decision.
+Understanding the disease, the available treatments and possible
+side effects can help you weigh up the pros and cons of different
+treatments and make a well-informed decision that’s based on
+your personal values. You may also want to discuss the options
+with your doctor, friends and family.
+You have the right to accept or refuse any treatment offered. Some
+people with more advanced cancer choose treatment even if it
+only offers a small benefit for a short period of time. Others want
+to make sure the benefits outweigh the side effects so that they
+have the best possible quality of life.
+Talking with doctors
+When your doctor first tells you that you have cancer, you may
+not remember the details about what you are told. Taking notes
+or recording the discussion may help. Many people like to have
+a family member or friend go with them to take part in the
+discussion, take notes or simply listen.
+If you are confused or want clarification, you can ask questions
+– see page 63 for a list of suggested questions. If you have several
+questions, you may want to talk to a nurse or ask the office
+manager if it is possible to book a longer appointment.
+Making treatment
+decisions
+26 Cancer Council
+A second opinion
+You may want to get a second opinion from another specialist to
+confirm or clarify your doctor’s recommendations or reassure you
+that you have explored all of your options. Specialists are used to
+people doing this.
+Your doctor can refer you to another specialist and send your
+initial results to that person. You can get a second opinion even if
+you have started treatment or still want to be treated by your first
+doctor. You might decide you would prefer to be treated by the
+doctor who provided the second opinion.
+Taking part in a clinical trial
+Your doctor or nurse may suggest you take part in a clinical trial.
+Doctors run clinical trials to test new or modified treatments and
+ways of diagnosing disease to see if they are better than current
+methods. For example, if you join a randomised trial for a new
+treatment, you will be chosen at random to receive either the best
+existing treatment or the modified new treatment.
+Over the years, trials have improved treatments and led to better
+outcomes for people diagnosed with cancer.
+ My husband’s doctor said the tumour was inoperable.
+We decided to get a second opinion from another
+neurosurgeon to see if they agreed. Judith
+Making treatment decisions 27
+It may be helpful to talk to your specialist or clinical trials nurse,
+or get a second opinion. If you decide to take part, you can
+withdraw at any time. For more information, call Cancer Council
+13 11 20 for a free copy of Understanding Clinical Trials and
+Research or visit australiancancertrials.gov.au
+Children and clinical trials
+When parents discover their
+child is suffering a brain or
+spinal cord tumour, they
+usually want to explore all
+treatment options. This may
+include thinking about whether
+to join a clinical trial. For some
+parents the decision is easy.
+Other parents may have mixed
+feelings.
+If you are unsure, discussing
+the issue in depth with
+your treatment team before
+committing may help with any
+concerns. Or you may wish to
+call Cancer Council 13 11 20
+if you need more information
+or support when deciding
+whether or not to join a trial.
+Oncologists will quite often
+prescribe a treatment that is
+based on clinical trials even
+if the child is not enrolled in
+the trial. This is because, in
+many instances, the treatment
+protocol follows the best
+known treatment for a specific
+tumour at the time. It may be
+worth considering that today’s
+treatments would not exist
+without research. Participating
+in a study means your child
+also contributes to the
+improvement of treatments for
+children affected by all types
+of cancer.
+28 Cancer Council
+Treatment
+The main treatments for brain or spinal cord tumours are surgery,
+radiotherapy and chemotherapy. These treatments may be used
+alone or in combination. Medication, such as steroids, or anticonvulsants
+(anti-seizure medication), may also be given to reduce
+symptoms. Treatment offered to children is similar to adults.
+There also may be new and experimental treatments, or
+improvements in existing treatments. These are given in clinical
+trials – for more information, see page 27.
+The aim of treatment is to remove the tumour, slow its growth, or
+relieve symptoms by shrinking the tumour and swelling.
+Your choice of treatment will depend on:
+• the type, size, grade and location of the tumour
+• your age, medical history and general state of health
+• the types of symptoms you experience.
+Surgery
+Surgery in the central and peripheral nervous system is called
+neurosurgery. In many cases, removing all or part of the tumour
+may allow you to fully recover and return to leading an active
+life. However, you may also have other treatments, including
+radiotherapy and chemotherapy.
+Some tumours can be removed by neurosurgery. This type of
+operation is called a gross total resection. In other cases, the surgeon
+may only be able to remove part of the tumour. This is called a
+Treatment 29
+partial resection or debulking. Partial removal may be because
+the tumour is widespread, near major blood vessels, or cannot be
+removed without damaging other important parts of the brain or
+spinal cord. A partial resection may improve your symptoms by
+reducing the pressure on your brain.
+Sometimes a tumour cannot be removed because it is too close to
+certain parts of the brain and would cause serious problems. This
+is called an inoperable or unresectable tumour. Your doctor will
+talk to you about other ways to try to ease the symptoms.
+Preparing for surgery
+The types of scans used for diagnosing the tumour (e.g. CT, MRI
+or MRS scans) are often done again when planning surgery to
+precisely pinpoint the location of the tumour. If a stereotactic
+surgery is planned, these scans will be imported into a computer
+and be used to guide the surgeon during the operation (see page
+33). You may also have what is called a ‘functional MRI scan’
+to help the doctors work out which areas of your brain control
+speech and movement.
+Identifying the brain’s sensitive areas can help the surgeon avoid
+causing damage during the operation. Brain mapping is another
+way to find these parts of the brain. A tiny electrode is placed on
+the outside layer of the brain during the surgery and stimulated
+with a low dose of electrical current. The night before or on the
+day of surgery you may be sent for a stereotactic CT or MRI scan.
+Stereotactic surgery may require the surgeon to use small markers
+called fiducial markers. See page 33 for more information.
+30 Cancer Council
+Before surgery, talk to your doctor about any medicines you are
+taking. Some medicines interfere with the anaesthetic used during
+the operation, so you should temporarily stop taking them. You may
+also be advised to stop smoking before surgery.
+Surgery for a brain tumour
+The surgeon will remove as much of the tumour as possible
+without damaging healthy parts of your brain. Surgery may be
+done as open surgery (a relatively large opening made in the skull)
+or a stereotactic surgery (see page 33).
+Biopsy – A small sample of tumour is removed using a needle and
+examined under a microscope. A biopsy can also be done at the
+same time as a craniotomy.
+Craniotomy –The most common type of brain tumour operation.
+You are given a general anaesthetic and some hair is shaved off
+and you are given a general anaesthetic. The surgeon cuts through
+the scalp and moves it aside, then removes a piece of skull above
+the tumour. After the tumour is taken out, the bone and scalp are
+put back. The surgeon uses small plates and screws to hold the
+piece of skull in place.
+Patients with a high grade glioma may be given a solution of Gliolan®
+(5-ALA) prior to surgery. This makes the tumour glow red under
+ultraviolet light. It ensures the surgeon is able to remove as much of
+the tumour as possible, while avoiding normal brain matter.
+Treatment 31
+Awake craniotomy – This operation is used if the tumour is near
+parts of the brain that control speech or movement. All or part
+of this operation is done with the patient awake (conscious) but
+relaxed, so they can speak, move and respond. This is not painful
+because the brain itself does not feel pain, and local anaesthetic is
+used to numb surrounding tissues. During the surgery, the surgeon
+asks the patient to speak or move parts of the body, so they can
+identify and avoid certain parts of the brain. An electrode is also
+used to stimulate and identify the important areas of the brain.
+Endoscopic transphenoidal surgery – A rarer type of surgery
+used for tumours near the base of the brain (e.g. a pituitary gland
+tumour). The surgeon puts a long tube (endoscope) into the
+nose, then removes all or part of the tumour through the nostrils.
+Recovery may be faster than a craniotomy. An Ear, Nose and
+Throat surgeon (ENT) may assist with this type of surgery.
+Craniectomy – This is similar to a craniotomy, except the piece of
+skull removed is not replaced. Bone (or a piece of plastic or mesh)
+may be replaced in the future when it won’t cause extra pressure.
+This procedure is very uncommon.
+ I had a craniotomy for a benign brain tumour but they
+couldn’t take all the tumour out. The risk of paralysis or
+a stroke was too high because the tumour was wrapped
+around my carotid artery. Later I had radiotherapy. Part of the
+tumour is still there, but it is stable, so I have been able to
+return to full-time work and I can now drive again. Debbie
+32 Cancer Council
+Stereotactic surgery
+This is when surgery is done
+using a computer to guide
+the surgeon. The computer
+creates 3D images of the brain
+and tumour and monitors the
+surgical instruments during
+the operation, allowing the
+surgeon to operate precisely.
+Stereotactic surgery may
+require the surgeon to use
+small markers called fiducial
+markers. These are taped
+or glued to the scalp before
+a scan. Less commonly, a
+lightweight frame is screwed to
+the scalp. The scan shows the
+brain and tumour in relation to
+the markers or frame.
+Stereotactic surgery is safer,
+more accurate and requires
+a smaller cut in the skull than
+non-computer guided surgery.
+Surgery for a spinal cord tumour
+The most common surgery to access a spinal cord tumour is called
+a laminectomy. In this procedure, the surgeon makes an opening
+through the skin, muscle and a vertebra in the spinal column to
+remove the tumour that is affecting the spinal cord. You will be
+given a general anaesthetic for this operation.
+After your brain or spinal cord operation
+For the first 12–24 hours after the operation, you will be closely
+monitored. Nurses will regularly check your breathing, pulse,
+blood pressure, temperature, pupil size, arm and leg strength and
+function, and you will be asked questions to assess your level of
+consciousness. These neurological observations show how your
+brain and body are recovering from surgery.
+Treatment 33
+Some people have a build-up of fluid in their brain. This is called
+hydrocephalus. The surgeon may place a long, thin, permanent or
+temporary tube called a shunt from your brain into your abdomen
+to drain the extra fluid. The fluid can then be safely absorbed into
+the bloodstream. A small valve is inserted just under the scalp to
+make sure the fluid flows away from the brain. You may need to
+wear pressure stockings on your legs to prevent blood clots from
+forming while you are recovering from surgery. Tell your doctor or
+nurse if you have pain or swelling in your legs or suddenly develop
+difficulty breathing.
+If you are recovering from a craniotomy, your head will be
+bandaged. Your face and eyes may be swollen or bruised, but this is
+not usually painful and should ease within about a week.
+You may have a headache or nausea after the operation. Both can
+be treated with medicines.
+If you have had an operation on your spinal cord, the nurses will
+regularly check the movement and sensation in your arms and legs.
+You may need to lie flat in bed for 2–5 days to allow the wound to
+heal. A physiotherapist will help you learn how to roll over and how
+to get out of bed safely so the wound is not damaged. Your doctor
+will tell you when you can start regular activities again.
+Your length of stay in hospital will depend on whether you have any
+problems or side effects following surgery. You may require a period
+of rehabilitation before you can return home. For more information,
+see page 44.
+34 Cancer Council
+Radiotherapy
+Radiotherapy (also called radiation therapy) is a type of
+treatment that uses high-energy x-ray beams to kill or damage
+cancer cells. The radiation is specifically targeted at the
+treatment site to reduce the risk of damage to healthy cells. The
+treatment itself is usually painless, though you may experience
+side effects afterwards – see page 37 for more information.
+Before your radiotherapy begins, you will need to have a
+simulation or planning appointment to plan the treatment. A
+radiation therapist will take measurements of your body, as
+well as doing a CT scan, to work out the precise area to
+be treated.
+If you are receiving radiotherapy treatment for a spinal cord
+tumour, some small tattoos may be marked on your skin to
+indicate the treatment area. If you are having radiotherapy for
+a brain tumour, a face mask is made before your CT session to
+keep the head in position.
+The face mask is made of a tight-fitting mesh, but you will only
+wear it for about 10 minutes at a time. You can see and breathe
+through the mask but it may feel strange and uncomfortable
+at first. Your treating team can talk to you about techniques to
+help you manage if you need them.
+Radiotherapy treatment is usually given once daily, from
+Monday to Friday, for several weeks. However, the course of
+your treatment will depend on the size and type of the tumour.
+Treatment 35
+Stereotactic radiosurgery
+Stereotactic radiosurgery is a specialised type of radiation
+therapy, not a type of surgery. Stereotactic radiosurgery is
+sometimes called Gamma Knife® or CyberKnife® treatment, after
+the machines used to give it.
+It is a non-invasive treatment that uses high doses of precisely
+targeted radiation to treat a brain tumour. Treatment is so
+accurate that surrounding areas of healthy brain tissue are
+unlikely to be affected.
+A treatment session usually lasts between 15 minutes and two
+hours, depending on the type of radiosurgery given. You will
+usually be able to return home afterwards.
+Radiosurgery may be offered when traditional surgery is not
+suitable or as an alternative to open surgery. It is most commonly
+used for some meningiomas and pituitary tumours, and acoustic
+neuroma. It is also used for metastatic cancers that have spread
+from another part of the body.
+Stereotactic radiotherapy may also be used to deliver a long course
+of radiation, particularly for benign brain tumours. The same
+precise system is used, but several small treatments are given.
+Radiosurgery is not usually used for gliomas, as they require a
+larger treatment area.
+36 Cancer Council
+Side effects of radiotherapy
+Radiotherapy side effects commonly occur in the treatment area
+and are usually temporary, but some may be permanent or last for
+a few months or years.
+The side effects vary depending on if you have a brain or spinal
+cord tumour. They may include:
+• nausea – often occurs during the course of treatment
+• headaches – often occur during the course of treatment
+• tiredness or fatigue – worse at the end of treatment for a brain
+or spinal cord tumour, and fades over time
+• red, sore, inflamed or flaky skin – may occur in the
+treatment area, usually happens at the end of treatment for brain
+tumours, but can and may worsen before improving
+• hair loss – may occur in the brain tumour treatment area
+• swallowing problems (dysphagia) – may occur following
+treatment for spinal cord tumours
+• diarrhoea – may occur after radiotherapy for spinal cord
+tumours.
+Some people experience similar side effects for several years after
+treatment. However, it is not always clear if these changes are
+caused by radiotherapy, the tumour or other treatment. You may
+benefit from rehabilition therapy (see page 44) or medication.
+Your treatment team may also monitor the hormone levels in your
+pituitary gland.
+For more information on radiotherapy treatment, call Cancer
+Council 13 11 20 for a free copy of Understanding Radiotherapy.
+Treatment 37
+Chemotherapy
+Chemotherapy is the use of drugs to treat cancer. Generally,
+chemotherapy drugs travel through the bloodstream and damage
+or destroy rapidly dividing cells such as cancer cells, while causing
+the least possible damage to healthy cells. Healthy fast-growing
+cells, such as your bone marrow, may also be affected, causing side
+effects (see the next page).
+However, it can be difficult to treat brain tumours with
+chemotherapy drugs because the body has a protection system
+called the blood-brain barrier. This guards the brain from harmful
+substances that may be circulating in the blood, such as germs or
+chemicals. Only certain drugs can get through this barrier.
+You may be given chemotherapy by taking an oral capsule or
+through a drip inserted into your vein (intravenously). Each
+treatment session is usually followed by a rest period of a few weeks.
+Oral temozolomide is commonly used to treat gliomas because it
+is generally effective and well tolerated. If the tumour progresses
+or recurs while you are taking temozolomide, your onocologist
+may consider changing the dose or switching to a different
+chemotherapy drug or combination.
+Chemotherapy is often combined with radiotherapy for the
+treatment of glioblastomas (grade 4 tumours). This combination
+improves outcomes, compared with radiotherapy alone.
+38 Cancer Council
+Side effects of chemotherapy
+The way your body reacts to chemotherapy will be monitored
+through regular blood tests. Your treatment schedule may change
+when your doctor sees how you are responding to the drugs.
+There are many possible side effects of chemotherapy, depending
+on the type of drugs you are given. Side effects may include:
+• increased risk of infection
+• nausea, vomiting or loss of appetite
+• tiredness, fatigue and lack of energy
+• mouth sores and ulcers
+• diarrhoea or constipation
+• breathlessness due to low red blood cell levels (anaemia)
+• the feeling of pins and needles (nerve damage known as
+peripheral neuropathy).
+Hair loss is rare with the drugs commonly used to treat brain and
+spinal cord tumours.
+For more information on chemotherapy call Cancer Council
+13 11 20 for a free copy of Understanding Chemotherapy.
+Steroids
+Steroids are made naturally in the body, but they can also be
+produced artificially and used as drugs. Steroids may help to
+reduce swelling in the brain, and can be given before, during
+and after surgery and radiotherapy. Dexamethasone is the most
+commonly prescribed steroid. It is important to eat some food
+Treatment 39
+before taking steroids. This decreases the likelihood of the steroids
+irritating your stomach.
+The side effects you experience depend on the dose and the length
+of treatment. If you are prescribed steroids for a short period,
+you may experience increased appetite, weight gain, insomnia,
+restlessness, mood swings, anxiety and very occasionally more
+serious disturbances of thought and behaviour.
+If taken for several months, steroids can cause puffy skin (fluid
+retention or oedema) in the feet, hands or face; high blood pressure;
+unstable blood sugar levels; diabetes; or muscle weakness and
+osteoporosis. You will also be more likely to get infections.
+Most side effects are temporary and will fade if your medical team
+reduces your dose. Short-term side effects can be managed. An
+experienced counsellor, psychologist or psychiatrist can help you
+manage mood swings or behavioural changes. A physiotherapist
+can assist with muscle weakness. If you or your family members are
+worried about side effects, talk to your doctor, nurse or a counsellor.
+ Steroids cause severe mood swings for me. You could
+tell me I won the lottery and I’d feel like I hated life. I get
+irritated and cry easily. It’s not rational of course, but I’m
+aware of how they make me feel and I wait out the feelings.
+ Kate
+40 Cancer Council
+Palliative treatment
+Palliative treatment helps to improve people’s quality of life by
+alleviating symptoms of cancer without trying to cure the disease.
+It is particularly important for people with advanced cancer.
+However, it is not just for end-of-life care and it can be used at
+different stages of cancer. Palliative care services can be accessed
+in the home as well as in a hospital or residential care.
+Often treatment is concerned with pain relief and stopping the
+spread of cancer, but it also involves the management of other
+physical and emotional symptoms, and psychosocial support for
+patients and families.
+Call Cancer Council 13 11 20 or visit your local Cancer Council
+website for more information about palliative care and advanced
+cancer, or to order the Understanding Palliative Care booklet.
+ I’ve been having palliative care treatment for five years.
+I’m not trying to get rid of the disease, just keeping it under
+control – and my quality of life is excellent. Cate
+Treatment 41
+Key points
+• The main treatments for
+brain or spinal cord tumours
+are surgery, radiotherapy
+and chemotherapy.
+• Some tumours can be
+completely removed in
+a gross total resection.
+Others can only be partially
+removed. This is a partial
+resection.
+• Different types of surgery
+are used for different types
+of tumours. The most
+common brain surgery is a
+craniotomy. A laminectomy
+removes tumours from the
+spinal cord.
+• Stereotactic surgery is
+when a computer guides
+the surgeon so the surgery
+is more precise.
+• Radiotherapy uses x-rays
+to kill cancer cells. You
+will have a planning
+appointment so the doctor
+can work out exactly where
+to direct the radiation. It
+is rarely used for children
+under five.
+• Radiosurgery is a type of
+radiotherapy that precisely
+targets the treatment area.
+• Chemotherapy is the use
+of drugs to destroy or kill
+cancer cells. You may be
+given chemotherapy
+orally, into a vein via a
+drip, or as wafers that
+are placed directly in
+the brain during surgery.
+• Other treatments include
+steroids to reduce brain
+inflammation, and anticonvulsants
+to prevent
+seizures occurring.
+• Treatments may cause
+short- and long-term
+side effects. Talk to your
+doctors and nurses about
+managing symptoms and
+side effects, including if
+you will need rehabilitation.
+42 Cancer Council
+Living with a brain
+tumour
+Many people experience changes in the way their body functions
+as a result of a brain or spinal cord tumour, or treatment for
+these tumours. You or your family members may notice changes
+in your speech, personality, memory, movement, balance and
+coordination. If you notice some differences in behaviour, talk to
+your doctor, nurse or care coordinator.
+Emotionally, these changes may be difficult to cope with. You
+might find that your self esteem and your relationships, especially
+with those close to you, are affected. Talking to a counsellor or
+someone who has had a similar experience may help. Call Cancer
+Council 13 11 20 to see what support is available close to you.
+The brain can sometimes heal itself after treatment, but this can be
+a slow process. Many patients require some rehabilitation to help
+restore their abilities or manage changes. The type of therapy you
+have depends on your needs, choices and what is available.
+Children and brain tumours
+School-aged children with
+brain tumours may benefit
+from tutoring as part of their
+rehabilitation. This may be
+available through children’s
+charities such as Redkite
+and CanTeen. Ask your child’s
+school if they have a copy
+of Cancer Council’s
+Cancer in the School
+Community, or talk to the
+student welfare coordinator,
+school counsellor or the
+principal. You can also
+ask the medical team for
+information about how the
+tumour and treatment may
+have affected your child.
+Living with a brain tumour 43
+Rehabilitation
+Cognitive rehabilitation – If your memory, language skills or
+concentration is affected, a neuropsychologist, speech pathologist or
+occupational therapist may help you to improve your cognitive skills
+using memory activities, diaries and language puzzles.
+Physiotherapy – In some cases, physiotherapy can help you to learn
+how to move more easily. It can also help you to develop, maintain or
+regain strength and balance. Moving and strengthening your muscles
+can help reduce tiredness. If you can’t move easily, you may be able
+to learn compensation techniques, such as using a walking stick.
+You may also be given advice on how to exercise safely and stimulate
+parts of your body to improve circulation and reduce swelling.
+Speech therapy – If your ability to talk has been affected, a speech
+pathologist may be able to help. Speech pathologists also work with
+people who have difficulty swallowing (dysphagia).
+Occupational therapy – Some people find their tumour or their
+treatment impacts on their ability to perform everyday activities
+(e.g. preparing a meal). Occupational therapy aims to help you to
+return to the activities that are important to you. A range of physical
+or cognitive strategies are used to manage fatigue and improve or
+maintain your independence.
+Assistance for vision impaired – Some people may lose some
+or all of their sight as a result of a brain tumour or surgery. Vision
+Australia can help people learn how to live independently. For more
+information, call 1300 847 466 or go to visionaustralia.org.
+44 Cancer Council
+Managing seizures
+If you are diagnosed with a brain tumour, you may experience
+seizures, which are disruptions to the normal patterns of electrical
+impulses in the brain.
+Seizures are sometimes called fits or convulsions. They can often
+be prevented with anti-convulsant medication (also called antiepileptic
+or anti-seizure medication). You can minimise your
+seizure risk by making sure you don’t get too tired or fatigued.
+Generalised seizures – These types of seizures typically affect the
+whole body. The most common type is called a tonic-clonic seizure
+(previously known as a grand mal seizure). A seizure often starts
+with a sudden cry, followed by the person falling down and losing
+consciousness. The person’s muscles may twitch violently and their
+breathing may be shallow for up to two minutes. They may lose
+control of their bladder or bowel and bite their tongue.
+Partial seizures – These affect one part of the body, such as an
+arm or a leg. Symptoms include twitching; jerking; tingling or
+numbness; altered sensations (hallucinations), such as changed
+vision or hearing, sensing strange tastes or smells, or a feeling of
+déjà vu. Partial seizures may cause a brief loss of consciousness.
+Grapefruit, Seville oranges and certain herbal medicines may
+change the way some anti-convulsants work. You should also limit
+your alcohol intake.
+Living with a brain tumour 45
+Ways to help someone having a seizure
+• Remain calm and stay with
+the person while they are
+having a seizure, but do not
+restrain them or put anything
+in their mouth.
+• Protect the person from
+injury (e.g. move hazards,
+lower to floor if possible,
+loosen clothing, place a soft
+pillow under their head and
+shoulders).
+• Lie the person on their side
+to clear their airway. This
+is particularly important
+if they have vomited, are
+unconscious or have food
+or fluid in their mouth.
+• If help is needed, call an
+ambulance (000).
+• Observe the person until
+they have recovered or the
+ambulance arrives.
+• Time how long the seizure
+lasts so you can advise the
+paramedics.
+• Talk to the person and explain
+what has occurred. In many
+cases, people are confused
+after a seizure.
+• If the seizure occurs while a
+person is in a wheelchair or
+car, support their head and
+leave them safely strapped
+in their seat until the seizure
+is over. Afterwards, remove
+the person from their seat, if
+possible. Roll them onto their
+side if there is food, water or
+vomit in their mouth.
+• Allow the person to rest after
+having a seizure as most
+seizures are exhausting.
+• For detailed information
+about seizures, contact
+Epilepsy Action Australia
+on 1300 374 537 or visit
+epilepsy.org.au.
+46 Cancer Council
+Anti-convulsant medicines
+There are many types of anti-convulsant drugs, which are used to
+prevent seizures. You may require blood tests while you are taking
+anti-convulsants. This is to check whether the dose is effective and
+how your liver is coping with the medicine.
+Side effects of anti-convulsant drugs vary and may include
+tiredness, weight changes, gum problems, tremors, nausea,
+vomiting and depression. If you are allergic to the medicine,
+you may get a rash. Tell your medical team if you have any skin
+changes or other side effects.
+Your doctor can adjust your dose to reduce any side effects, or can
+give you another type to try. It is important not to stop taking the
+medicine or change the dose without your doctor’s advice.
+Driving
+Benign and malignant tumours, seizures, and certain treatments
+and medications (such as anti-convulsants and some pain-killers)
+can cause changes in vision, mobility, coordination, perception
+and judgment. These changes can affect a person’s driving skills.
+If you are diagnosed with any type of brain tumour it is very
+important to ask your doctor how your condition or treatment
+will impact on your ability to drive. When you are first diagnosed
+with a brain tumour your doctor may advise you not to drive for a
+period of time. You may also be advised not to drive for a period
+after surgery, radiotherapy and chemotherapy.
+Living with a brain tumour 47
+Always check with your doctor before resuming driving.
+Laws in Australia require drivers to report any permanent or long
+term illness or injury that is likely to affect their ability to drive
+to their driver licensing authority. Your doctor can advise you if
+you should report your condition or if there are any temporary
+restrictions. The licensing authority will request information from
+your doctor to decide if you are medically fit to drive.
+You may be referred to a neurologist to assess your fitness/
+suitability to return to driving. This may include doing an
+electroencephalogram (EEG) to assess your seizure risk. You
+may also have an occupational therapy driving assessment. This
+can determine the type of difficulties you are experiencing while
+driving (for example, a slow reaction time).
+The focus of a driving assessment is not to suspend or cancel your
+licence. In some cases, an occupational therapist is able to teach
+you driving techniques to address your weaknesses or instruct
+you on how to use car modifications (such as additional mirrors).
+You may also be able to drive with restrictions, such as only in
+daylight, only in vehicles with automatic transmission, or only
+short distances from home.
+Some people feel upset or frustrated if they are no longer able
+to drive or they have restrictions placed on their licence. These
+reactions are natural and understandable.
+Changes in your ability to drive can affect your sense of
+independence and may impact on your family too. However, it
+48 Cancer Council
+may help to remember that the decision is made for your safety
+and wellbeing. It is also made for the safety of passengers,
+pedestrians and other road users who could be injured if your
+driving is unsafe. If you have to stop driving, you may want to
+talk to a counsellor or someone who has been through a similar
+experience (see page 56). Depending on your situation and
+your ongoing health, it may be possible to return to driving at
+a later stage.
+For more information, talk to your doctor or visit the Frequently
+Asked Questions under ‘Assessing Fitness to Drive’ on the
+Austroads website austroads.com.au.
+The impact of licence changes
+If your licence has restrictions but you ignore them or drive
+unsafely, your licence may then be suspended or cancelled. If your
+licence has been suspended or cancelled, but you keep driving,
+you may be fined. In addition, if you have an accident whilst
+driving, you could be charged with a criminal offence and your
+insurance policy will no longer be valid.
+ I was diagnosed with a grade 4 glioblastoma multiforme
+that couldn’t be operated on, so I had radiotherapy and
+chemotherapy. I needed to stop work and I couldn’t drive. I
+found it all mentally draining, but eventually my scans came
+back clear. John
+Living with a brain tumour 49
+Key points
+• Many people experience
+changes in the way their body
+functions as a result of a brain
+or spinal cord tumour, or
+treatment for one.
+• You or a family member
+may notice changes to
+speech, personality, memory,
+movement, balance and
+coordination.
+• Emotionally, these changes
+may be difficult to cope with.
+Talking to a counsellor or
+someone who has had a similar
+experience may help.
+• Many patients require some
+rehabilitation to help restore
+their abilities or manage
+changes. The type of therapy
+you have will depend on your
+needs, choices and what is
+available.
+• If your cognitive function is
+affected, a neuropsychologist,
+speech pathologist or
+occupational therapist
+may help improve memory,
+language skills and
+concentration.
+• Physiotherapy can help you
+to learn how to move more
+easily, maintain or regain
+strength and balance.
+• Speech therapy may assist
+if your ability to talk has
+been affected.
+• People living with a brain
+tumour may experience
+seizures. Anti-convulsants
+may be prescribed.
+• Living with, or being treated
+for a brain or spinal cord
+tumour may affect your ability
+to drive.
+• Laws in Australia require drivers
+to report any permanent or long
+term illness or injury that may
+affect their ability to drive. Ask
+your doctor how your condition
+or treatment is likely to affect
+your driving ability.
+50 Cancer Council
+Looking after yourself
+Cancer can cause physical and emotional strain. It’s important to
+try to look after your wellbeing as much as possible.
+Nutrition – Eating healthy food can help you cope with treatment
+and side effects. A dietitian can help you manage special dietary
+needs or eating problems, and choose the best foods for your
+situation. Call Cancer Council 13 11 20 for a free copy of the
+Nutrition and Cancer booklet.
+Staying active – Physical activity may help to reduce tiredness,
+improve circulation and elevate mood. The amount and type of
+exercise you do depends on what you are used to, how you feel,
+and your doctor’s advice. Cancer Council’s Exercise for People
+Living with Cancer booklet provides more information about the
+benefits of exercise, and outlines simple exercises that you may
+want to try.
+Complementary therapies – These therapies are used with
+conventional medical treatments. You may have therapies such
+as massage, relaxation and acupuncture to increase your sense of
+control, decrease stress and anxiety, and improve your mood. Let
+your doctor know about any therapies you are using or thinking
+about trying, as some may not be safe or evidence-based.
+Alternative therapies are used instead of conventional medical
+treatments. These therapies, such as coffee enemas and magnet
+therapy, can be harmful. For more information, call 13 11 20 for a
+free copy of the Understanding Complementary Therapies booklet
+or visit your local Cancer Council website.
+Looking after yourself 51
+Relationships with others
+Having cancer can affect your relationships with family, friends
+and colleagues. This may be because cancer is stressful, tiring and
+upsetting, or as a result of more positive changes to your values,
+priorities, or outlook on life.
+Give yourself time to adjust to what’s happening, and do the same
+for others. People may deal with the cancer in different ways – for
+example, by being overly positive, playing down fears, or keeping a
+distance. It may be helpful to discuss your feelings with each other.
+Sexuality, intimacy and fertility
+Cancer can affect your sexuality in physical and emotional ways. The
+impact of these changes depends on many factors, such as treatment
+and side effects, your self-confidence, and if you have a partner.
+Although sexual intercourse may not always be possible, closeness
+and sharing can still be part of your relationship. If you are able to
+have sex, you may be advised to use certain types of contraception
+to protect your partner or avoid pregnancy for a certain period of
+time. Your doctor will talk to you about the precautions to take. They
+will also tell you if treatment will affect your fertility permanently
+or temporarily. If having children is important to you, talk to your
+doctor before starting treatment.
+Call Cancer Council 13 11 20 for free copies of Sexuality, Intimacy
+and Cancer and Fertility and Cancer, or download the booklets
+from your local Cancer Council website.
+52 Cancer Council
+Life after treatment
+For most people, the cancer experience doesn’t end on the last
+day of treatment. Life after cancer treatment can present its own
+challenges. You may have mixed feelings when treatment ends, and
+worry if every ache and pain means the cancer is coming back.
+Some people say that they feel pressure to return to ‘normal life’,
+but they don’t want life to return to how it was before cancer. Take
+some time to adjust to the physical and emotional changes, and reestablish
+a new daily routine at your own pace.
+Cancer Council 13 11 20 can help you connect with other people
+who have had cancer, and provide you with information about the
+emotional and practical aspects of living well after cancer.
+Dealing with feelings of sadness
+If you have continued feelings
+of sadness, have trouble
+getting up in the morning or
+have lost motivation to do
+things that previously gave
+you pleasure, you may be
+experiencing depression.
+This is quite common among
+people who have had cancer.
+Talk to your GP, as counselling
+or medication – even for a
+short time – may help. Some
+people are able to get a
+Medicare rebate for sessions
+with a psychologist. Ask your
+doctor if you are eligible. Your
+local Cancer Council may also
+run a counselling program.
+The organisation beyondblue
+has information about coping
+with depression and anxiety.
+Go to beyondblue.org.au or
+call 1300 224 636 to order a
+fact sheet.
+Looking after yourself 53
+Follow-up after treatment
+After your treatment, you will need regular check-ups – this may
+include MRI scans, blood tests, scans and physical examinations.
+Depending on the type of tumour you had, check-ups will often
+become less frequent if you have no further problems and more
+time passes since you were diagnosed.
+What if the cancer returns?
+For some people, a brain or spinal cord tumour does come back
+or continues growing after treatment. If the tumour returns, this is
+known as a recurrence. Your doctor will talk to you about your
+treatment options. Some people choose to have further treatment;
+others decide not to have any. Your subsequent treatment will
+depend on your situation and the treatments you’ve already had.
+ You do get nervous and you tell yourself it’s only a
+check-up – but it becomes this mountain. I have my scans on
+Monday and see the doctor on Wednesday, because I can’t
+handle having to wait for the results any longer. Mark
+54 Cancer Council
+Seeking support
+Cancer may cause you to experience a range of emotions, such
+as fear, sadness, anxiety, anger or frustration. It can also cause
+practical and financial problems.
+Practical and financial help
+There are many services that can help deal with practical or
+financial problems caused by the cancer. Benefits, pensions and
+programs can help pay for prescription medicines, transport costs
+or utility bills. Home care services, aids and appliances can also be
+arranged to help make life easier.
+Ask the hospital social worker which services are available in your
+local area and if you are eligible to receive them.
+If you need legal or financial advice, you should talk to a qualified
+professional about your situation. Cancer Council offers free legal
+and financial services in some states and territories for people who
+can’t afford to pay – call 13 11 20 to ask if you are eligible.
+Talk to someone who’s been there
+Coming into contact with other people who have had similar
+experiences to you can be beneficial. You may feel supported
+and relieved to know that others understand what you are going
+through and that you are not alone.
+People often feel they can speak openly and share tips with others
+who have gone through a similar experience.
+Seeking support 55
+In a support setting, you may find that you are comfortable talking
+about your diagnosis and treatment, relationships with friends and
+family, and hopes and fears for the future. Some people say they
+can be even more open and honest because they aren’t trying to
+protect their loved ones.
+Types of support
+There are many ways to connect with others for mutual support
+and to share information. This includes:
+• face-to-face support groups – often held in community
+centres or hospitals
+• telephone support groups – facilitated by trained counsellors
+• peer support programs – match you with someone who has
+had a similar cancer experience, e.g. Cancer Connect
+• online forums – such as cancerconnections.com.au.
+Talk to your nurse, social worker or Cancer Council 13 11 20
+about what is available in your area.
+ My family members don’t really understand what it’s like
+to have cancer thrown at you, but in my support group, I
+don’t feel like I have to explain. Sam
+56 Cancer Council
+Caring for an adult
+with a tumour
+You may be reading this booklet because you are caring for
+someone with a tumour. Being a carer can be stressful and cause
+you much anxiety. Try to look after yourself – give yourself some
+time out and share your worries and concerns with somebody
+neutral such as a counsellor or your doctor.
+Many cancer support groups and cancer education programs are
+open to carers, as well as people with cancer. Support groups and
+programs can offer valuable opportunities to share experiences
+and ways of coping.
+Support services such as Home Help, Meals on Wheels or visiting
+nurses can help you in your caring role. There are also many
+groups and organisations that can provide you with information
+and support, such as Carers Australia, the national body
+representing carers in Australia. Carers Australia works with the
+Carers Associations in each of the states and territories. Phone
+1800 242 636 or visit carersaustralia.com.au for more information
+and resources.
+You can also call Cancer Council 13 11 20 to find out more about
+carers’ services and get a copy of the Caring for Someone with
+Cancer booklet.
+BrainLink may also have helpful services for carers of people with
+brain diseases – visit the website brainlink.org.au.
+Caring for an adult with a tumour 57
+Caring for a child with
+a tumour
+Prognosis
+The outcome for your child depends on the type of tumour they
+have, its location and grade, treatment, and other factors such as
+their overall health. A significant number of children with a brain
+or spinal cord tumour will recover completely. In general, children
+who are diagnosed with a malignant tumour will have a better
+outlook than adults. Other children have treatment that controls
+their tumour for many years.
+Because a child’s nervous system is still developing, some children
+may develop a physical, behavioural or learning disability as a result
+of their tumour or treatment.
+Talk to your child’s medical team about the treatment options, what
+to expect, and any concerns you have. You may also benefit from
+talking to a hospital social worker, who can provide practical and
+emotional support to your family.
+Try to keep things normal
+One of your child’s most important needs will be for as many things
+as possible to stay consistent. It is important to continue to show
+your love and support. It may help to keep rules and discipline as
+normal as possible. Although you may be tempted to relax the rules,
+this can lead to confusion over time.
+A tumour diagnosis can also be difficult for other children in the
+family. Their routines may also be disturbed and they may feel left
+out if parents and visitors show more attention to their sibling.
+58 Cancer Council
+Try to make time to talk to all your children – ask them how they’re
+coping and thank them for their patience and help. If your teenager
+has been diagnosed with a tumour, it can be hard not to be protective
+at a time when they want to be independent. Talk about finding
+a balance between maintaining regular activities, going out with
+friends and staying at home.
+Who can help?
+Many hospital staff members specialise in working with children and
+young adults (paediatrics). Some hospitals employ staff, such as play
+therapists, music therapists or art therapists, who can help children
+cope with the challenges of treatment. Rehabilitation will also be
+important for your child’s recovery (see page 44). Organisations
+like CanTeen and Redkite offer practical and emotional support for
+families, young adults and children who are affected by cancer.
+What should I tell my child?
+It is natural to want to protect your child from the news of the
+diagnosis, but children are quick to listen, observe and learn.
+Doctor’s visits, tests, and absences from school or activities will let
+them know that something is different. Talking openly about the
+tumour will help your child to be less anxious and to feel more
+in control. What you tell your child will depend on their age and
+knowledge. See tables on the following pages.
+For a free copy of Talking to Kids about Cancer, call 13 11 20 or visit
+your local Cancer Council website.
+Caring for a child with a tumour 59
+Newborns, infants and toddlers
+Children this young do not
+understand illness, but will
+react to being separated
+from you and changes
+in routine. They may not
+be able to talk about it,
+but they often pick up on
+physical and emotional
+changes. Toddlers like to
+have control over their
+environment.
+• Create a familiar environment
+that can travel with the child,
+such as their travel cot and
+favourite blanket, books
+and toys.
+• Be honest about hospital trips
+and explain tests that may hurt.
+• Give your toddler choices where
+possible. e.g. “Would you like
+to wear the red or blue shirt to
+hospital?”
+• If they are in hospital for a period
+of time, put up some family
+photographs.
+Preschool children, 3–5 years
+Children in this age group
+are beginning to understand
+the difference between
+being well and being sick.
+They often believe their
+actions can make things
+happen.
+• Assure your child that their
+thoughts and behaviour have not
+caused the illness.
+• Be honest when talking about
+the tests and treatments that
+they need.
+• Reassure your child about your
+love and care for them.
+• Bring familiar toys and books to
+appointments and the hospital.
+60 Cancer Council
+School-age children, 6–12 years
+By this age some children
+know about cancer, but
+may not know its causes.
+They may fill in the gaps
+with their own theories.
+They can understand what
+cancer cells are.
+• Be open and truthful so they don’t
+assume their own interpretations
+are correct.
+• Tell the school about your child’s
+health and the reasons for any
+changes in their behaviour or
+attendance patterns.
+• If necessary, seek the support of
+the student welfare coordinator
+who may be able to organise
+extra tutoring or support.
+Teenagers, 13–18 years
+Many teenagers have an
+adult understanding of
+cancer and often want
+detailed information. They
+are starting to separate
+from the family. This is a
+vulnerable time, as they
+don’t want to appear
+different from their peers.
+• Provide resources so they can
+learn more about the diagnosis
+and treatment of tumours, and
+get valuable peer and adult
+support.
+• Talk to the school’s student
+welfare coordinator, who may be
+able to organise or provide extra
+tutoring or support.
+• Encourage teenagers to talk
+about their feelings but realise
+they may find it easier to confide
+in friends, teachers and other
+trusted people.
+Caring for a child with a tumour 61
+The internet has many useful resources, although not all websites
+are reliable. The websites below are good sources of information
+and support.
+Australian
+Cancer Australia................................................canceraustralia.gov.au
+Cancer Council Australia..................................................cancer.org.au
+beyondblue..............................................................beyondblue.org.au
+Carers Australia................................................carersaustralia.com.au
+Brain Foundation..............................................brainfoundation.org.au
+Brain Cancer Action....................................braincanceraction.com.au
+BrainLink.......................................................................brainlink.org.au
+Brain Tumour Alliance Australia............................................btaa.org.au
+Brain Tumour Australia Information.....................................btai.com.au
+CanTeen.........................................................................canteen.org.au
+Camp Quality...........................................................campquality.org.au
+Redkite.............................................................................redkite.org.au
+Cooperative Trials Group for Neuro-Oncology..................cogno.org.au
+Sydney Neuro-Oncology Group.........................................snog.org.au
+International
+American Cancer Society......................................................cancer.org
+Macmillan Cancer Support (UK).................................macmillan.org.uk
+National Cancer Institute (US)...............................................cancer.gov
+American Brain Tumor Association...........................................abta.org
+Cancer Research UK.........................................cancerresearch.org.uk
+National Brain Tumor Society.........................................braintumor.org
+Pediatric Brain Tumor Foundation.................................curethekids.org
+Spinal Cord Tumour Forum............................spinalcordtumour.org.uk
+Useful websites
+62 Cancer Council
+Question checklist
+You may find this checklist helpful when thinking about the
+questions you want to ask your doctor about your disease and
+treatment. If your doctor gives you answers that you don’t
+understand, ask for clarification.
+• What type of brain or spinal cord tumour do I have? Is it benign
+or malignant?
+• How extensive is the tumour? What grade is it?
+• What treatment do you recommend and why? Are there other
+treatment choices for me? If not, why not?
+• What are the risks and possible side effects of each treatment? Is
+there anything I should watch out for?
+• How long will treatment take? Will I have to stay in hospital?
+• How much will treatment cost? How can the cost be reduced?
+• Will I have a lot of pain with the treatment? What will be done
+about this?
+• Are the latest tests and treatments for this type of cancer
+available in this hospital?
+• Are there any clinical trials or research studies I could join?
+• How frequently will I need check-ups after treatment? Who
+should I go to for these appointments?
+• Are there any complementary therapies that might help me?
+• Should I change my diet during or after treatment?
+• If the cancer comes back, how will I know?
+Question checklist 63
+anaesthetic
+A drug that stops a person feeling
+pain during a medical procedure. A
+local anaesthetic numbs part of the
+body; a general anaesthetic puts a
+person to sleep for some time.
+astrocyte
+A type of glial cell.
+astrocytoma
+A type of malignant brain tumour.
+benign
+Not cancerous or malignant.
+biopsy
+The removal of a small sample of
+tissue from the body, for examination
+under a microscope, to help diagnose
+a disease.
+brain stem
+Connects the cerebrum and the
+spinal cord. Controls life-supporting
+functions.
+central nervous system
+The brain and spinal cord.
+cerebellum
+Part of the brain responsible for the
+coordination of voluntary movements,
+as well as balance, standing and
+walking.
+cerebrospinal fluid
+Clear, watery fluid surrounding the
+brain and spinal cord.
+cerebrum
+The largest, upper part of the brain.
+The cerebrum is divided into right and
+left hemispheres.
+chemotherapy
+The use of drugs to treat cancer by
+killing cancer cells or slowing
+their growth.
+continence
+Ability to control urination and
+bowel movements.
+corpus callosum
+Transfers information between the left
+and right hemispheres of the brain.
+craniectomy
+An operation to open the skull by
+removing some bone in order to
+access the brain. The bone is
+not replaced due to swelling.
+cranio-pharyngioma
+A type of benign brain tumour.
+craniotomy
+An operation to open the skull and
+access the brain.
+CT scan
+A computerised tomography scan.
+This scan uses x-rays to build a
+picture of the body.
+ependymoma
+A type of malignant brain tumour.
+fiducial markers
+Small markers that are taped or
+glued to the scalp before the brain is
+scanned for stereotactic surgery.
+frontal lobe
+Part of the brain responsible for
+cognition, executive thinking and
+memory.
+glial cell
+A type of nervous system cell that
+surrounds and holds neurons in
+place, nourishes them, and gets
+Glossary
+64 Cancer Council
+rid of dead cells and germs. Also
+called neuroglia.
+glioblastoma
+A type of glioma. Also known as
+glioblastoma multiforme or GBM.
+glioma
+A common type of brain tumour
+that begins in the glial cells.
+grade
+The degree of abnormality of
+cancer cells.
+hydrocephalus
+The build-up of cerebrospinal fluid in
+the brain.
+inoperable
+Not able to be surgically removed.
+Also called unresectable.
+interneuron
+A type of neuron that connects other
+neuron cells in the brain and spinal
+cord.
+laminectomy
+Surgery that involves cutting into the
+spinal column and removing the back
+part of the vertebral column to access
+a spinal cord tumour.
+lumbar puncture
+A test where a needle is inserted into
+the spinal column to collect fluid. Also
+called a spinal tap.
+malignant
+Cancerous. Malignant cells spread
+and can eventually cause death if they
+are not treated.
+malignant transformation
+When a benign tumour becomes a
+rapidly growing, cancerous tumour.
+medulloblastoma
+A type of malignant brain tumour.
+meninges
+The membranes surrounding the brain
+and spinal cord.
+meningioma
+A type of benign brain tumour.
+metastasis
+A cancer that has spread from
+another part of the body. Also called a
+secondary cancer.
+motor neuron
+A type of neuron that causes muscle
+contractions.
+MRI scan
+A magnetic resonance imaging scan.
+This scan uses magnetism and radio
+waves to take detailed cross-sectional
+pictures of the body.
+neurologist
+A doctor who specialises in the
+structure, function and diseases of the
+nervous system (including the brain,
+spinal cord and peripheral nerves).
+neuroma
+A type of benign brain tumour.
+neuron
+A cell that transmits electrical
+impulses that carry information from
+one part of the body to the other.
+The three types of neurons are
+sensory neurons, motor neurons and
+interneurons.
+neuro-oncologist
+Neurologist or oncologist who
+specialises in the management of
+brain tumours and the neurologic side
+effects of cancer and its therapies.
+Glossary 65
+neuropsychologist
+A psychologist who specialises
+in helping people with brain
+impairments.
+neurosurgeon
+A surgeon who specialises in
+operations on the nervous system.
+occipital lobe
+Part of the brain responsible for
+visual processing.
+oligodendrocyte
+A type of glial cell.
+oligodendroglioma
+A type of brain tumour.
+oncologist
+A doctor who uses drugs, including
+chemotherapy, to treat cancer.
+palliative care
+The holistic care of people who have
+a life-limiting illness, their families
+and carers. It aims to improve
+quality of life by addressing physical,
+emotional, spiritual, social and
+practical needs. It is not just for
+people who are about to die,
+although end-of-life care is a part
+of palliative care.
+palliative treatment
+Medical treatment to help people
+with cancer manage pain and other
+physical and emotional symptoms.
+parietal lobe
+Part of the brain responsible for
+spatial awareness and integrating
+senses.
+peripheral nervous system
+The system of nerves extending
+outside the central nervous system
+to the limbs and organs.
+pilocytic astrocytoma
+A type of brain tumour.
+pituitary tumour
+A type of benign brain tumour.
+primary cancer
+The original cancer. Cells from the
+primary cancer may break away and
+be carried to other parts of the body,
+where secondary cancers may form.
+prognosis
+The likely outcome of a person’s
+disease.
+psycho-oncologist
+A psychologist or psychiatrist who
+has special training and experience
+in the treatment of psychosocial
+aspects of cancer.
+radiotherapy
+The use of radiation, usually x-rays
+or gamma rays, to kill cancer cells or
+injure them so they cannot grow and
+multiply.
+rehabilitation
+A program to help a person recover
+and regain function after illness or
+injury.
+resectable
+Able to be surgically removed.
+schwannoma
+A type of benign brain tumour.
+secondary cancer. See metastasis.
+seizure
+A disruption of the normal electrical
+impulses in the brain, causing a
+person to convulse or have other
+symptoms.
+66 Cancer Council
+Can’t find a word here?
+For more cancer-related words, visit:
+• cancercouncil.com.au/words
+• cancervic.org.au/glossary
+• cancersa.org.au/glossary.
+sensory neuron
+A type of neuron that responds
+to light, sound and touch.
+shunt
+A small, permanent tube used to
+drain fluid build-up in the brain.
+spinal cord
+The portion of the central nervous
+system enclosed in the spinal
+column, consisting of nerve cells
+and bundles of nerves that
+connect all parts of the body with
+the brain.
+spinal tap
+See lumbar puncture.
+stereotactic radiosurgery
+Highly-focused, precisely-targeted
+radiotherapy done as a single day
+treatment.
+stereotactic surgery
+Surgery done using a computer
+to guide the surgeon.
+steroids
+Hormones used to reduce swelling
+in the brain caused by a tumour.
+temporal lobe
+Part of the brain responsible for
+auditory perception and language.
+vertebrae
+The bones or segments of the spinal
+column that protect the spinal cord.
+References
+1. Australian Institute of Health and
+Welfare (AIHW) 2015. Australian
+Cancer Incidence and Mortality (ACIM)
+books: Brain cancer. Canberra: AIHW.
+2. 2011 Australian Cancer Database,
+Australian Institute of Health and
+Welfare.
+3. Martin Dobes, Bruce Shadbolt,
+Vini G. Khurana, Sanjiv Jain, Sarah F.
+Smith, Robert Smee, Mark Dexter, and
+Raymond Cook ‘A multicenter study
+of primary brain tumor incidence in
+Australia (2000-2008)’ Neuro-Oncology
+13(7):783-790, 2011.
+Glossary 67
+How you can help
+At Cancer Council we’re dedicated to improving cancer control.
+As well as funding millions of dollars in cancer research every
+year, we advocate for the highest quality care for cancer
+patients and their families. We create cancer-smart communities
+by educating people about cancer, its prevention and early
+detection. We offer a range of practical and support services for
+people and families affected by cancer. All these programs would
+not be possible without community support, great and small.
+Join a Cancer Council event: Join one of our community
+fundraising events such as Daffodil Day, Australia’s Biggest
+Morning Tea, Relay For Life, Girls Night In and Pink Ribbon Day,
+or hold your own fundraiser or become a volunteer.
+Make a donation: Any gift, large or small, makes a meaningful
+contribution to our work in supporting people with cancer and
+their families now and in the future.
+Buy Cancer Council sun protection products: Every purchase
+helps you prevent cancer and contribute financially to our goals.
+Help us speak out for a cancer-smart community: We are a
+leading advocate for cancer prevention and improved patient
+services. You can help us speak out on important cancer issues
+and help us improve cancer awareness by living and promoting a
+cancer-smart lifestyle.
+Join a research study: Cancer Council funds and carries out
+research investigating the causes, management, outcomes and
+impacts of different cancers. You may be able to join a study.
+To find out more about how you, your family and friends can
+help, please call your local Cancer Council.
+68 Cancer Council
+Cancer Council
+13 11 20
+Being diagnosed with cancer can be overwhelming. At Cancer
+Council, we understand it isn’t just about the treatment or
+prognosis. Having cancer affects the way you live, work and think.
+It can also affect our most important relationships.
+When disruption and change happen in our lives, talking to
+someone who understands can make a big difference. Cancer
+Council has been providing information and support to people
+affected by cancer for over 50 years.
+Calling 13 11 20 gives you access to trustworthy information
+that is relevant to you. Our cancer nurses are available to answer
+your questions and link you to services in your area, such as
+transport, accommodation and home help. We can also help
+with other matters, such as legal and financial advice.
+If you are finding it hard to navigate through the health care
+system, or just need someone to listen to your immediate
+concerns, call 13 11 20 and find out how we can support you,
+your family and friends.
+Cancer Council services and programs vary in each area.
+13 11 20 is charged at a local call rate throughout Australia (except from mobiles).
+If you need information
+in a language other
+than English, an
+interpreting service is
+available. Call 13 14 50.
+If you are deaf, or have
+a hearing or speech
+impairment, contact us
+through the National
+Relay Service.
+www.relayservice.gov.au
+UNDERSTANDING BRAIN TUMOURS MAY2016 CAN879
+Cancer Council ACT
+actcancer.org
+Cancer Council NSW
+cancercouncil.com.au
+Cancer Council NT
+nt.cancer.org.au
+Cancer Council Queensland
+cancerqld.org.au
+Cancer Council SA
+cancersa.org.au
+Cancer Council Tasmania
+cancertas.org.au
+Cancer Council Victoria
+cancervic.org.au
+Cancer Council WA
+cancerwa.asn.au
+Cancer Council Australia
+cancer.org.au
+For information and support
+on cancer-related issues,
+call Cancer Council 13 11 20.
+This is a confidential service.
+This booklet is funded through the generosity of the people of Australia.
+To support Cancer Council, call your local Cancer Council or visit your local website.
+Visit your local Cancer Council website

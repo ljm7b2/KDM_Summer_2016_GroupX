@@ -1,0 +1,538 @@
+Mumps, also known as epidemic parotitis, is a viral disease caused by the mumps virus.[1] Initial signs and symptoms often include fever, muscle pain, headache, and feeling tired.[2] This is then usually followed by painful swelling of one or both parotid glands.[3] Symptoms typically occur 16 to 18 days after exposure and resolve after seven to ten days.[1][2] Symptoms in adults are often more severe than in children.[2] About a third of people have mild or no symptoms.[2] Complications may include infections of the covering of the brain (15 percent), pancreatitis (four percent), permanent deafness, and painful testicular swelling which uncommonly results in infertility.[2] Women may develop ovarian swelling but this does not increase the risk of infertility.[3]
+
+Mumps is highly contagious and spreads rapidly among people living in close quarters.[4] The virus is transmitted by respiratory droplets or direct contact with an infected person.[1] Only humans get and spread the disease.[2] People are infectious to each other from about seven days before the start of symptoms to about eight days after.[5] After an infection a person is typically immune for life.[2] Reinfection is possible but tends to be mild.[6] Diagnosis is usually suspected due to parotid swelling and can be confirmed by isolating the virus on a swab of the parotid duct.[1] Testing for IgM antibodies in the blood is simple and may be useful; however, can be falsely negative in those who have been immunized.[1]
+
+Mumps is preventable by two doses of the mumps vaccine. Most of the developed world includes it in their immunization programs, often in combination with measles and rubella vaccine.[2] Countries that have low immunization rates may see an increase in cases among older age groups and thus worse outcomes.[3] There is no specific treatment.[2] Efforts involve controlling symptoms with pain medication such as acetaminophen. Intravenous immunoglobulin may be useful in certain complications.[3] Hospitalization may be required if meningitis or pancreatitis develops.[4][6] About one per ten thousand people who are infected die.[2]
+
+Without immunization about 0.1 percent to one percent of the population are affected per year. Widespread vaccination has resulted in a more than 90 percent decline in rates of disease. Mumps is more common in the developing world where vaccination is less common.[7] Outbreaks, however, may still occur in a vaccinated population.[3] Before the introduction of a vaccine, mumps was a common childhood disease worldwide. Larger outbreaks of disease would typically occur every two to five years. Children between the ages of five and nine were most commonly affected.[2] Among immunized population often those in their early 20s are affected.[3] Around the equator it often occurs all year round while in the more northerly and southerly regions of the world it is more common in the winter and spring.[2] Painful swelling of the parotid glands and testicles were described by Hippocrates in the 5th century BCE.
+
+Signs and symptoms
+Mumps is usually preceded by a set of prodromal symptoms including low-grade fever, headache, and malaise.[8] This is followed by progressive swelling of one or both parotid glands.[8] Parotid gland swelling usually lasts about one week.[8] Other symptoms of mumps can include dry mouth, sore face and/or ears and some patients find it difficult to talk.[9] A vaccine has been available since the 1960s.[2]
+
+Complications
+Painful testicular inflammation develops in 15–40 percent of men who have completed puberty and contract the mumps virus.[8] This testicular inflammation is generally one-sided (both testicles are swollen in 15–30 percent of mumps orchitis cases) and typically occurs about 10 days after the parotid gland.[8] Testicular swelling has been documented as late as six weeks after parotid gland swelling.[8] Decreased fertility is an uncommon consequence of testicular inflammation from mumps and infertility is rare.[8]
+Studies have reached differing conclusions regarding whether or not infection with the mumps virus during pregnancy leads to an increased rate of spontaneous abortion[3]
+Meningitis occurs in up to 10 percent of cases[6] (40 percent of cases occur without parotid swelling)
+Ovarian inflammation occurs in about five percent of adolescent and adult females.[6]
+Acute pancreatic inflammation in about four percent of cases, manifesting as abdominal pain and vomiting
+Brain inflammation (very rare, and fatal in about one percent of the cases when it occurs)[6]
+Profound (91 dB or more) but rare sensorineural hearing loss, uni- or bilateral. Acute unilateral deafness occurs in about 0.005 percent of cases.[6]
+Cause
+The mumps virus is an enveloped single-stranded, linear negative-sense RNA virus of the Rubulavirus genus and Paramyxovirus family. The genome consists of 15,384 bases encoding nine proteins. Proteins involved in viral replication are the nucleoprotein, phosphoprotein, and polymerase protein while the genomic RNA forms the ribonucleocapsid.[3][8][10] Humans are the only natural host for the virus.
+
+Mumps is spread from person to person through contact with respiratory secretions, such as saliva from an infected person.[8] When an infected person coughs or sneezes, the droplets aerosolize and can enter the eyes, nose, or mouth of another person. Mumps can also be spread by sharing eating utensils or cups.[11] The virus can also survive on surfaces and then be spread after contact in a similar manner. A person infected with mumps is contagious from approximately seven days before the onset of symptoms until about eight days after symptoms start.[5] The incubation period (time until symptoms begin) can be from 12–25 days, but is typically 16–18 days.[5] 20-40 percent of persons infected with the mumps virus do not show symptoms, so it is possible to be infected and spread the virus without knowing it.[5]
+
+Diagnosis
+During an outbreak, a diagnosis can be made by determining recent exposure and parotitis. However, when the disease incidence is low, other infectious causes of parotitis should be considered such as HIV, coxsackievirus, and influenza. Some viruses such as enteroviruses may cause aseptic meningitis that is very clinically similar to mumps.[10]
+
+A physical examination confirms the presence of the swollen glands. Usually, the disease is diagnosed on clinical grounds, and no confirmatory laboratory testing is needed. If there is uncertainty about the diagnosis, a test of saliva or blood may be carried out; a newer diagnostic confirmation, using real-time nested polymerase chain reaction (PCR) technology, has also been developed.[12] As with any inflammation of the salivary glands, the serum level of the enzyme amylase is often elevated.[13][14]
+
+Prevention
+The most common preventative measure against mumps is a vaccination with a mumps vaccine, invented by American microbiologist Maurice Hilleman at Merck.[15][16] The vaccine may be given separately or as part of the MMR immunization vaccine that also protects against measles and rubella. In the US, MMR is now being supplanted by MMRV, which adds protection against chickenpox (varicella, HHV3). The WHO (World Health Organization) recommends the use of mumps vaccines in all countries with well-functioning childhood vaccination programmes. In the United Kingdom it is routinely given to children at age 13 months with a booster at 3–5 years (preschool) This confers lifelong[citation needed] immunity. The American Academy of Pediatrics recommends the routine administration of MMR vaccine at ages 12–15 months and at 4–6 years.[17] In some locations, the vaccine is given again between four and six years of age, or between 11 and 12 years of age if not previously given. The efficacy of the vaccine depends on the strain of the vaccine, but is usually around 80 percent.[18][19] The Jeryl Lynn strain is most commonly used in developed countries but has been shown to have reduced efficacy in epidemic situations. The Leningrad-Zagreb strain commonly used in developing countries appears to have superior efficacy in epidemic situations.[20]
+
+Because of the outbreaks within college and university settings, many governments have established vaccination programs to prevent large-scale outbreaks. In Canada, provincial governments and the Public Health Agency of Canada have all participated in awareness campaigns to encourage students ranging from grade one to college and university to get vaccinated.[21]
+
+Some anti-vaccine activists protest against the administration of a vaccine against mumps, claiming that the attenuated vaccine strain is harmful, and/or that the wild disease is beneficial. There is no evidence whatsoever to support the claim that the wild disease is beneficial, or that the MMR vaccine is harmful. Claims have been made that the MMR vaccine is linked to autism and inflammatory bowel disease, including one study by Andrew Wakefield.[22][23] The paper was discredited and retracted in 2010 and Wakefield was later stripped of his license after his work was found to be an "elaborate fraud".[24] Also, subsequent studies indicate no link between vaccination with the MMR and autism.[25] Since the dangers of the disease are well known, and the dangers of the vaccine are quite minimal, most doctors recommend vaccination.
+
+The WHO, the American Academy of Pediatrics, the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, the American Academy of Family Physicians, the British Medical Association and the Royal Pharmaceutical Society of Great Britain currently recommend routine vaccination of children against mumps. The British Medical Association and Royal Pharmaceutical Society of Great Britain had previously recommended against general mumps vaccination, changing that recommendation in 1987.
+
+Before the introduction of the mumps vaccine, the mumps virus was the leading cause of viral meningoencephalitis in the United States. However, encephalitis occurs rarely (less than two per 100,000).[26] In one of the largest studies in the literature, the most common symptoms of mumps meningoencephalitis were found to be fever (97 percent), vomiting (94 percent) and headache (88.8 percent).[27] The mumps vaccine was introduced into the United States in December 1967: since its introduction there has been a steady decrease in the incidence of mumps and mumps virus infection. There were 151,209 cases of mumps reported in 1968. From 2001 to 2008, the case average was only 265 per year, excluding an outbreak of less than 6000 cases in 2006 attributed largely to university contagion in young adults.[28][29]
+
+Management
+There is no available cure for mumps and treatment is supportive.[8] Symptoms may be relieved by the application of intermittent ice or heat to the affected neck/testicular area and by acetaminophen for pain relief.[8] Warm saltwater gargles, soft foods, and extra fluids may also help relieve symptoms. Acetylsalicylic acid (aspirin) is not used to treat children due to the risk of Reye's syndrome.[30]
+
+There is no effective post-exposure recommendation to prevent secondary transmission, nor is the post-exposure use of vaccine or immunoglobulin effective.[31]
+
+Mumps is considered most contagious in the five days after the onset of symptoms, and isolation is recommended during this period. In someone who has been admitted to the hospital, standard and droplet precautions are needed. People who work in healthcare cannot work for five days
+Signs and symptoms
+Mumps is usually preceded by a set of prodromal symptoms including low-grade fever, headache, and malaise.[8] This is followed by progressive swelling of one or both parotid glands.[8] Parotid gland swelling usually lasts about one week.[8] Other symptoms of mumps can include dry mouth, sore face and/or ears and some patients find it difficult to talk.[9] A vaccine has been available since the 1960s.[2]
+
+Complications
+Painful testicular inflammation develops in 15–40 percent of men who have completed puberty and contract the mumps virus.[8] This testicular inflammation is generally one-sided (both testicles are swollen in 15–30 percent of mumps orchitis cases) and typically occurs about 10 days after the parotid gland.[8] Testicular swelling has been documented as late as six weeks after parotid gland swelling.[8] Decreased fertility is an uncommon consequence of testicular inflammation from mumps and infertility is rare.[8]
+Studies have reached differing conclusions regarding whether or not infection with the mumps virus during pregnancy leads to an increased rate of spontaneous abortion[3]
+Meningitis occurs in up to 10 percent of cases[6] (40 percent of cases occur without parotid swelling)
+Ovarian inflammation occurs in about five percent of adolescent and adult females.[6]
+Acute pancreatic inflammation in about four percent of cases, manifesting as abdominal pain and vomiting
+Brain inflammation (very rare, and fatal in about one percent of the cases when it occurs)[6]
+Profound (91 dB or more) but rare sensorineural hearing loss, uni- or bilateral. Acute unilateral deafness occurs in about 0.005 percent of cases.[6]
+Cause
+The mumps virus is an enveloped single-stranded, linear negative-sense RNA virus of the Rubulavirus genus and Paramyxovirus family. The genome consists of 15,384 bases encoding nine proteins. Proteins involved in viral replication are the nucleoprotein, phosphoprotein, and polymerase protein while the genomic RNA forms the ribonucleocapsid.[3][8][10] Humans are the only natural host for the virus.
+
+Mumps is spread from person to person through contact with respiratory secretions, such as saliva from an infected person.[8] When an infected person coughs or sneezes, the droplets aerosolize and can enter the eyes, nose, or mouth of another person. Mumps can also be spread by sharing eating utensils or cups.[11] The virus can also survive on surfaces and then be spread after contact in a similar manner. A person infected with mumps is contagious from approximately seven days before the onset of symptoms until about eight days after symptoms start.[5] The incubation period (time until symptoms begin) can be from 12–25 days, but is typically 16–18 days.[5] 20-40 percent of persons infected with the mumps virus do not show symptoms, so it is possible to be infected and spread the virus without knowing it.[5]
+
+Diagnosis
+During an outbreak, a diagnosis can be made by determining recent exposure and parotitis. However, when the disease incidence is low, other infectious causes of parotitis should be considered such as HIV, coxsackievirus, and influenza. Some viruses such as enteroviruses may cause aseptic meningitis that is very clinically similar to mumps.[10]
+
+A physical examination confirms the presence of the swollen glands. Usually, the disease is diagnosed on clinical grounds, and no confirmatory laboratory testing is needed. If there is uncertainty about the diagnosis, a test of saliva or blood may be carried out; a newer diagnostic confirmation, using real-time nested polymerase chain reaction (PCR) technology, has also been developed.[12] As with any inflammation of the salivary glands, the serum level of the enzyme amylase is often elevated.[13][14]
+
+Prevention
+The most common preventative measure against mumps is a vaccination with a mumps vaccine, invented by American microbiologist Maurice Hilleman at Merck.[15][16] The vaccine may be given separately or as part of the MMR immunization vaccine that also protects against measles and rubella. In the US, MMR is now being supplanted by MMRV, which adds protection against chickenpox (varicella, HHV3). The WHO (World Health Organization) recommends the use of mumps vaccines in all countries with well-functioning childhood vaccination programmes. In the United Kingdom it is routinely given to children at age 13 months with a booster at 3–5 years (preschool) This confers lifelong[citation needed] immunity. The American Academy of Pediatrics recommends the routine administration of MMR vaccine at ages 12–15 months and at 4–6 years.[17] In some locations, the vaccine is given again between four and six years of age, or between 11 and 12 years of age if not previously given. The efficacy of the vaccine depends on the strain of the vaccine, but is usually around 80 percent.[18][19] The Jeryl Lynn strain is most commonly used in developed countries but has been shown to have reduced efficacy in epidemic situations. The Leningrad-Zagreb strain commonly used in developing countries appears to have superior efficacy in epidemic situations.[20]
+
+Because of the outbreaks within college and university settings, many governments have established vaccination programs to prevent large-scale outbreaks. In Canada, provincial governments and the Public Health Agency of Canada have all participated in awareness campaigns to encourage students ranging from grade one to college and university to get vaccinated.[21]
+
+Some anti-vaccine activists protest against the administration of a vaccine against mumps, claiming that the attenuated vaccine strain is harmful, and/or that the wild disease is beneficial. There is no evidence whatsoever to support the claim that the wild disease is beneficial, or that the MMR vaccine is harmful. Claims have been made that the MMR vaccine is linked to autism and inflammatory bowel disease, including one study by Andrew Wakefield.[22][23] The paper was discredited and retracted in 2010 and Wakefield was later stripped of his license after his work was found to be an "elaborate fraud".[24] Also, subsequent studies indicate no link between vaccination with the MMR and autism.[25] Since the dangers of the disease are well known, and the dangers of the vaccine are quite minimal, most doctors recommend vaccination.
+
+The WHO, the American Academy of Pediatrics, the Advisory Committee on Immunization Practices of the Centers for Disease Control and Prevention, the American Academy of Family Physicians, the British Medical Association and the Royal Pharmaceutical Society of Great Britain currently recommend routine vaccination of children against mumps. The British Medical Association and Royal Pharmaceutical Society of Great Britain had previously recommended against general mumps vaccination, changing that recommendation in 1987.
+
+Before the introduction of the mumps vaccine, the mumps virus was the leading cause of viral meningoencephalitis in the United States. However, encephalitis occurs rarely (less than two per 100,000).[26] In one of the largest studies in the literature, the most common symptoms of mumps meningoencephalitis were found to be fever (97 percent), vomiting (94 percent) and headache (88.8 percent).[27] The mumps vaccine was introduced into the United States in December 1967: since its introduction there has been a steady decrease in the incidence of mumps and mumps virus infection. There were 151,209 cases of mumps reported in 1968. From 2001 to 2008, the case average was only 265 per year, excluding an outbreak of less than 6000 cases in 2006 attributed largely to university contagion in young adults.[28][29]
+
+Management
+There is no available cure for mumps and treatment is supportive.[8] Symptoms may be relieved by the application of intermittent ice or heat to the affected neck/testicular area and by acetaminophen for pain relief.[8] Warm saltwater gargles, soft foods, and extra fluids may also help relieve symptoms. Acetylsalicylic acid (aspirin) is not used to treat children due to the risk of Reye's syndrome.[30]
+
+There is no effective post-exposure recommendation to prevent secondary transmission, nor is the post-exposure use of vaccine or immunoglobulin effective.[31]
+
+Mumps is considered most contagious in the five days after the onset of symptoms, and isolation is recommended during this period. In someone who has been admitted to the hospital, standard and droplet precautions are needed. People who work in healthcare cannot work for five days
+Immunization Action Coalition • Saint Paul, Minnesota • www.vaccineinformation.org • www.immunize.org
+www.immunize.org/catg.d/p4211.pdf • Item #P4211 (3/14)
+Mumps: Questions and Answers
+Information about the disease and vaccines
+Technical content reviewed by the Centers for Disease Control and Prevention
+Page 1 of 4
+What causes mumps?
+Mumps is caused by a virus.
+How does mumps spread?
+Mumps spreads from person to person via droplets
+of saliva or mucus from the mouth, nose, or throat of
+an infected person, usually when the person coughs,
+sneezes, or talks. The virus may also be spread indirectly
+when someone with mumps touches items
+or surfaces without washing their hands and then
+someone else touches the same surface and rubs
+their mouth or nose. Mumps is less contagious than
+measles or chickenpox.
+How long does it take to show signs of mumps after
+being exposed?
+The incubation period of mumps is usually 16–18
+days, but can range from 12–25 days.
+What are the symptoms of mumps?
+Individuals with mumps usually first feel sick with
+nonspecific symptoms like headache, loss of appetite,
+and low-grade fever. The most well-known sign
+of mumps is parotitis, the swelling of the salivary
+glands, or parotid glands, below the ear. Parotitis occurs
+only in 31% to 65% of individuals infected with
+mumps. From 15% to 27% of people with mumps
+have no signs or symptoms of illness; others may
+have respiratory symptoms or only nonspecific symptoms
+such as headache, loss of appetite, and lowgrade
+fever.
+How serious is mumps?
+In children, mumps is usually a mild disease. Adults
+may have more serious disease and more complications.
+What are possible complications from mumps?
+Before a vaccine was available mumps accounted
+for about 10% of viral meningitis reported in the
+United States. This complication is now rare. Up to
+10% of postpubertal males experience orchitis (testicular
+inflammation) as a complication of mumps.
+This may involve pain, swelling, nausea, vomiting,
+and fever, with tenderness of the area possibly lasting
+for weeks. Approximately half of patients with
+orchitis have some degree of testicular atrophy, but
+sterility is rare.
+Inflammation of the ovaries (oophoritis) and/or
+breasts (mastitis) can occur in females who have
+reached puberty. An increase in spontaneous abortion
+(miscarriage) has been found among women
+who developed mumps during the first trimester of
+pregnancy in some studies but not in others; however,
+there is no evidence that mumps causes birth
+defects. Deafness, in one or both ears, can occur
+in approximately one per 20,000 reported cases of
+mumps.
+Is there a treatment for mumps?
+There is no cure for mumps, only supportive treatment
+(bed rest, fluids, and fever reduction).
+How is mumps diagnosed?
+Mumps is diagnosed by a combination of symptoms
+and physical signs and laboratory confirmation of the
+virus, as not all cases develop characteristic parotitis
+and not all cases of parotitis are caused by mumps.
+How long is a person with mumps contagious?
+People with mumps are usually considered most infectious
+from a few days before until 5 days after
+the onset of parotitis. Therefore, CDC recommends
+isolating mumps patients for 5 days after their glands
+begin to swell.
+What should be done if someone is exposed to
+mumps?
+If the exposed person has not been vaccinated
+against mumps, receiving the vaccine after exposure
+to the virus will not help prevent disease if the person
+has already been infected. However, if they did
+not become infected after this particular exposure,
+the vaccine may help protect him or her against future
+infection with mumps virus.
+How common is mumps in the United States?
+Due to good immunization coverage, mumps is now
+rare in the United States. An estimated 212,000
+cases occurred in 1964, while only 229 cases were
+reported in 2012. Large outbreaks of mumps occurred
+in the United States in 2006 and 2009–10
+with more than 6,000 and 3,000 cases, respectively,
+reported in those years.
+Can someone get mumps more than once?
+People who have had mumps are usually protected
+for life against another mumps infection. However,
+second occurrences of mumps do rarely occur.
+Immunization Action Coalition • Saint Paul, Minnesota • www.vaccineinformation.org • www.immunize.org
+Page 2 of 4
+How effective is this vaccine?
+Postlicensure studies have demonstrated one dose
+of MMR vaccine is 78% (range, 45%-97%) effective
+for prevention of mumps. The second dose of MMR
+is intended to produce immunity in those who did
+not respond to the first dose, but a very small percentage
+of people may not be protected even after
+a second dose.
+Which adolescents and adults should receive the
+MMR vaccine?
+All unvaccinated adolescents without a valid contraindication
+to the vaccine should have documentation
+of two doses of MMR. All adults born in or after 1957
+should also have documentation of vaccination or
+other evidence of immunity.
+Adults born before 1957 are likely to have had
+measles and/or mumps disease as a child and are
+generally (but not always) considered not to need
+vaccination.
+Which adults need two doses of MMR vaccine?
+Certain adults are at higher risk of exposure to measles,
+mumps, and/or rubella and may need a second
+dose of MMR unless they have other evidence of
+immunity; this includes adults who are:
+• students in postsecondary educational institutions
+(for measles and mumps)
+• healthcare personnel (for measles and mumps)
+• living in a community experiencing an outbreak
+or recently exposed to the disease (for measles
+and mumps)
+• planning to travel internationally (for measles and
+mumps)
+• people who received inactivated (killed) measles
+vaccine or measles vaccine of unknown type during
+1963-1967 should be revaccinated with two
+doses of MMR vaccine.
+• people vaccinated before 1979 with either killed
+mumps vaccine or mumps vaccine of unknown
+type who are at high risk for mumps infection
+(e.g., people who are working in a healthcare
+facility) should be considered for revaccination
+with 2 doses of MMR vaccine.
+Why do healthcare personnel need vaccination or
+other evidence of immunity to measles, mumps, and
+rubella?
+People who work in medical facilities are at much
+higher risk for being exposed to disease than is the
+general population. Making sure that all employees
+are immune to these diseases protects both the
+employee and the patients with whom he or she
+When did vaccines for measles, mumps, and rubella
+become available?
+The first measles vaccines (an inactivated and a live
+virus product) became available in 1963, both of
+which were largely replaced by a further attenuated
+live virus vaccine that was licensed in 1968. The
+mumps vaccine first became available in 1967, followed
+by the rubella vaccine in 1969. These three
+vaccines were combined in 1971 to form the measles-mumps-rubella
+(MMR) vaccine. A vaccine that
+combines both MMR and varicella (chickenpox) vaccines,
+known as MMRV, became available in 2005.
+Single antigen measles, mumps, and rubella vaccines
+are no longer available in the United States.
+What kind of vaccine is it?
+MMR vaccine contains live, attenuated (or weakened)
+strains of the measles, mumps, and rubella
+viruses.
+How is this vaccine given?
+This vaccine is a shot given subcutaneously (in the
+fatty layer of tissue under the skin).
+Who should get this vaccine?
+All children, adolescents, and adults born in 1957 or
+later without a valid contraindication should have
+documentation of vaccination or other evidence of
+immunity. Additionally, some healthcare personnel
+who were born before 1957 may also need proof of
+vaccination or other evidence of immunity.
+What kind of “evidence of immunity” can substitute
+for MMR vaccination?
+Evidence of immunity can be shown by having laboratory
+evidence of immunity to measles, mumps,
+and/or rubella or laboratory confirmation of disease.
+However, if a person doesn’t have evidence of immunity
+to all three diseases (e.g., measles, mumps, and
+rubella), they would still need to get vaccinated with
+MMR since the vaccine is not available as a single
+antigen product in the U.S.
+At what age should the first dose of MMR be given?
+The first dose of MMR should be given on or after the
+child’s first birthday; the recommended age range is
+from 12–15 months. A dose given before 12 months
+of age will not be counted, so the child’s medical
+appointment should be scheduled with this in mind.
+When should children get the second MMR shot?
+The second dose is usually given when the child is
+4–6 years old, or before he or she enters kindergarten
+or first grade. However, the second dose can be
+given earlier as long as there has been an interval of
+at least 28 days since the first dose.
+Immunization Action Coalition • Saint Paul, Minnesota • www.vaccineinformation.org • www.immunize.org
+Page 3 of 4
+may have contact. All people working in a healthcare
+facility in any capacity should have documentation
+of vaccination or evidence of immunity, including
+full- or part-time employees, medical or non-medical,
+paid or volunteer, students, and those with or
+without direct patient responsibilities.
+Facilities should consider vaccinating with MMR vaccine
+healthcare personnel born before 1957 who lack
+laboratory evidence of measles, mumps, and rubella
+immunity or laboratory confirmation of previous
+disease. These facilities should vaccinate healthcare
+personnel with MMR during an outbreak of any of
+the diseases, regardless of birth year.
+Who recommends this vaccine?
+The Centers for Disease Control and Prevention
+(CDC), the American Academy of Pediatrics (AAP),
+the American Academy of Family Physicians (AAFP),
+the American College of Obstetricians and Gynecologists,
+and the American College of Physicians (ACP)
+have all recommended this vaccine.
+How safe is this vaccine?
+Hundreds of millions of doses of measles, mumps,
+and rubella vaccine prepared either as separate vaccines
+or as the combined MMR have been given in
+the United States, and its safety record is excellent.
+What side effects have been reported with this vaccine?
+
+Fever is the most common side effect, occurring in
+5%–15% of vaccine recipients. About 5% of people
+develop a mild rash. When they occur, fever and rash
+usually appear 7–12 days after vaccination. About
+25% of adult women receiving MMR vaccine develop
+temporary joint pain, a symptom related to the
+rubella component of the combined vaccine. Joint
+pain only occurs in women who are not immune to
+rubella at the time of vaccination. MMR vaccine may
+cause thrombocytopenia (low platelet count) at the
+rate of about 1 case per 30,000–40,000 vaccinated
+people. Cases are almost always temporary and not
+life-threatening. More severe reactions, including
+allergic reactions, are rare. Other severe problems
+(e.g., deafness, permanent brain damage) occur so
+rarely that experts cannot be sure whether they are
+caused by the vaccine or not.
+If a child develops a rash after getting the MMR vaccine,
+is he contagious?
+Transmission of the vaccine viruses does not occur
+from a vaccinated person, including those who develop
+a rash. No special precautions (e.g., exclusion
+from school or work) need be taken.
+Who should NOT receive MMR vaccine?
+Anyone who had a severe allergic reaction (e.g., generalized
+hives, swelling of the lips, tongue, or throat,
+difficulty breathing) following the first dose of MMR
+should not receive a second dose. Anyone knowing
+they are allergic to an MMR component (e.g.,
+gelatin, neomycin) should not receive this vaccine.
+As with all live virus vaccines, women known to be
+pregnant should not receive the MMR vaccine, and
+pregnancy should be avoided for four weeks following
+vaccination with MMR. Children and other
+household contacts of pregnant women should be
+vaccinated according to the recommended schedule.
+Women who are breast-feeding can be vaccinated.
+Severely immunocompromised people should not be
+given MMR vaccine. This includes people with conditions
+such as congenital immunodeficiency, AIDS,
+leukemia, lymphoma, generalized malignancy, and
+those receiving treatment for cancer with drugs, radiation,
+or large doses of corticosteroids. Household
+contacts of immunocompromised people should be
+vaccinated according to the recommended schedule.
+Although people with AIDS or HIV infection with
+signs of serious immunosuppression should not be
+given MMR, people with HIV infection who do not
+have laboratory evidence of severe immunosuppression
+can and should be vaccinated against measles.
+Can individuals with egg allergy receive MMR vaccine?
+In the past it was believed that people who were allergic
+to eggs would be at risk of an allergic reaction
+from the vaccine because the vaccine is grown in
+tissue from chick embryos. However, recent studies
+have shown that this is not the case. MMR may be
+given to egg-allergic individuals without prior testing
+or use of special precautions.
+Does the MMR vaccine cause autism?
+There is no scientific evidence that measles, MMR,
+or any other vaccine causes autism. The question
+about a possible link between MMR vaccine and autism
+has been extensively reviewed by independent
+groups of experts in the U.S. including the National
+Academy of Sciences’ Institute of Medicine. These
+reviews have concluded that there is no association
+between MMR vaccine and autism.
+For a summary of the issues on this topic, please
+read “Do Vaccines Cause Autism?” on the website of
+the Vaccine Education Center at Children’s Hospital
+of Philadelphia. This discussion can be accessed at
+www.chop.edu/service/vaccine-education-center/
+vaccine-safety/vaccines-and-health-conditions/autism.html.
+
+Immunization Action Coalition • Saint Paul, Minnesota • www.vaccineinformation.org • www.immunize.org
+“MMR vaccine does not cause autism. Examine the
+evidence!” lists all the major studies related to this
+issue with links to journal article abstracts: www.
+immunize.org/catg.d/p4026.pdf
+Dr. Ari Brown has written a good piece for parents
+questioning the safety of vaccines. To access “Clear
+Answers & Smart Advice about Your Baby’s Shots,”
+go to: www.immunize.org/catg.d/p2068.pdf
+For more information, visit CDC’s web page about
+vaccines and autism at www.cdc.gov/vaccinesafety/
+Concerns/Autism/Index.html
+Can the live virus in the vaccine cause measles,
+mumps, and/or rubella?
+Because the measles, mumps, and rubella viruses in
+the MMR vaccine are weak versions of the disease
+viruses, they may cause a very mild case of the disease
+they were designed to prevent; however, it is
+usually much milder than the natural disease and
+is referred to as an adverse reaction to the vaccine.
+Page 4 of 4
+What if a pregnant woman inadvertently got the
+MMR vaccine?
+Women are advised not to receive any live virus vaccine
+during pregnancy as a safety precaution based
+on the theoretical possibility of a live vaccine causing
+disease (e.g., rubella virus leading to congenital
+rubella syndrome [CRS]).
+Because a number of women have inadvertently received
+this vaccine while pregnant or soon before
+conception, the Centers for Disease Control and Prevention
+has collected data about the outcomes of
+their births. From 1971–1989, no evidence of CRS
+occurred in the 324 infants born to 321 women who
+received rubella vaccine while pregnant and continued
+pregnancy to term. As any risk to the fetus from
+rubella vaccine appears to be extremely low or zero,
+individual counseling of women in this situation is
+recommended, rather than routine termination of
+pregnancy.
+Mumps is a contagious disease caused by a virus. It typically starts with a few days of fever, headache, muscle aches, tiredness, and loss of appetite, followed by swollen salivary glands. You can protect yourself and your family against mumps with vaccination.
+Mumps usually involves pain, tenderness, and swelling in one or both parotid salivary glands (cheek and jaw area). Swelling is first visible in front of the lower part of the ear. It then extends downward and forward as fluid builds up in the skin and soft tissue of the face and neck. Swelling usually peaks in 1 to 3 days and then subsides during the next week. The swollen tissue pushes the angle of the ear up and out. As swelling worsens, the angle of the jawbone below the ear is no longer visible. Often, the jawbone cannot be felt because of swelling of the parotid. One parotid may swell before the other, and in 25% of patients, only one side swells. Other salivary glands (submandibular and sublingual) under the floor of the mouth also may swell but do so less frequently (10%).
+
+Nonspecific prodromal symptoms may precede parotitis by several days, including low-grade fever which may last three to four days, myalgia, anorexia, malaise, and headache. Fever may persist for 3 to 4 days. Parotitis, lasts at least 2 days, but may persist longer than 10 days. However, mumps infection may present only with nonspecific or primarily respiratory symptoms, or may be asymptomatic. 
+
+Mumps infection is most often confused with swelling of the lymph nodes of the neck. Lymph node swelling can be differentiated by the well-defined borders of the lymph nodes, their location behind the angle of the jawbone, and lack of the ear protrusion or obscuring of the angle of the jaw, which are characteristics of mumps. People with mumps are usually considered most infectious for several days before and after onset of parotitis.
+
+Parotitis and Flu
+
+While not a common symptom of flu, since December 2014, multiple states have notified CDC of laboratory-confirmed influenza infections in persons who have swelling of their salivary glands (parotitis). To learn more, see What You Should Know for the Influenza Season.
+
+ Top of Page
+Background
+Before there was a vaccine against mumps, the disease was a common disease in the United States and caused complications, such as permanent deafness in children, and occasionally, encephalitis, which could result in death, although very rarely. Before the U.S. mumps vaccination program started in 1967, about 186,000 cases were reported each year, and many more unreported cases occurred. Since the pre-vaccine era, there has been a more than 99% decrease in mumps cases in the United States. From year to year, the number of mumps cases can range from roughly a couple hundred to a couple thousand. However, outbreaks still occasionally occur. In 2006, there was an outbreak affecting more than 6,584 people in the United States, with many cases occurring on college campuses. In 2009, an outbreak started in close-knit religious communities and schools in the Northeast, resulting in more than 3,000 cases. These outbreaks have shown that when people who are sick with mumps have close contact with a lot of other people (such as among students living in dormitories and students and families in close-knit communities) mumps can spread even among vaccinated people. However, outbreaks are much larger in areas where vaccine coverage rates are lower.
+
+Transmission
+The mumps virus replicates in the upper respiratory tract and spread through direct contact with respiratory secretions or saliva or through fomites. The risk of spreading the virus increases the longer and the closer the contact a person has with someone who has mumps. When a person is ill with mumps, he or she should avoid contact with others from the time of diagnosis until at least 5 days after the onset of parotitis by staying home from work or school and staying in a separate room if possible.
+
+ Top of Page
+
+Complications
+Some complications of mumps are known to occur more frequently among adults than children. Death from mumps is exceedingly rare.
+
+In recent U.S. mumps outbreaks (2006, 2009 to 2010), orchitis occurred in 3.3 to 10% of adolescent and adult males. In 60% to 83% of males with orchitis caused by mumps, only one testis is affected. Such orchitis, even bilaterally, very rarely causes sterility. Among adolescent and adult females in recent outbreaks, mastitis rates have been =1% and oophoritis rates have been =1%. Other rare complications of mumps that include pancreatitis, deafness, meningitis, and encephalitis, which has occurred in less than 1% of cases in recent U.S. outbreaks. There have been no mumps related deaths reported in the United States during recent mumps outbreaks.
+
+Mumps during Pregnancy
+Like other infections, there is a theoretical risk that mumps during the early months of pregnancy may cause complications. One study from 1966 that was conducted before the introduction of MMR vaccine reported an association between mumps infection during the first trimester of pregnancy and an increase in the rate of spontaneous abortion or intrauterine fetal death1, but was not found in a more recent study2. Another study with methodological flaws showed that congenital malformations may occur from mumps during pregnancy, but because the author did not compare rates with infants born to women not affected with mumps, these findings must be interpreted with caution3; other papers have not reported similar findings4.
+
+Learn more about preventing infections during pregnancy.
+
+Vaccination
+Vaccination is the best way to prevent mumps. This vaccine is included in the combination measles-mumps-rubella (MMR) and measles-mumps-rubella-varicella (MMRV) vaccines. Two doses of mumps vaccine are 88% (range 66% to 95%) effective at preventing the disease; one dose is 78% range (49% to 91%) effective. The first vaccine against mumps was licensed in the United States in 1967, and by 2005, high two-dose childhood vaccination coverage reduced disease rates by 99%.
+
+See Mumps Vaccination for vaccination recommendations for different groups.
+
+ Top of Page
+
+Case Classification
+For information about how to classify mumps cases, visit the National Notifiable Diseases Surveillance System (NNDSS) page for mumps or the Laboratory Testing Section of the Manual for the Surveillance of Vaccine-Preventable Diseases (5th Edition, 2012), Chapter 9: Mumps.
+
+Reporting Mumps Cases
+Each state and territory has regulations or laws governing the reporting of diseases and conditions of public health importance. These regulations and laws list the diseases that are to be reported and describe those people or groups responsible for reporting, such as healthcare providers, hospitals, schools, laboratories, daycare and childcare facilities, and other institutions.
+
+Contact your state health department for reporting requirements in your state.
+
+For information about reporting mumps cases to CDC, see the Reporting Section of the Manual for the Surveillance of Vaccine-Preventable Diseases (5th Edition, 2012), Chapter 9: Mumps
+
+Mumps in Vaccinated People
+
+During mumps outbreaks in highly vaccinated communities, the proportion of cases that occur among people who have been vaccinated may be high (see example below). This should not be interpreted as meaning that the vaccine is not effective. The effectiveness of the vaccine is assessed by comparing the attack rate in people who are vaccinated with the attack rate in those who have not been vaccinated. In outbreaks in highly vaccinated populations, people who have not been vaccinated against mumps usually have a much greater mumps attack rate than those who have been fully vaccinated.
+
+Vaccination and Mumps Outbreak: an Example
+
+Example: Let’s say that an outbreak occurs among 1,000 people and that 950 of these 1,000 people have received two doses of the vaccine and 50 are unvaccinated (i.e., vaccine coverage is 95%). If there is a 30% attack rate among people who haven’t been vaccinated, 15 unvaccinated people would get the disease. Among the 950 vaccinated people, the attack rate would be 3%, so 29 vaccinated people would get the disease. Therefore, of the 44 people who got sick during the outbreak, the majority (29, or 66%) would have been vaccinated. This doesn’t imply that the vaccine didn’t work. In fact, the people who hadn’t been vaccinated were 10 times more likely to get sick as those who had been vaccinated, it’s just that there were a lot fewer unvaccinated people at risk. Furthermore, if none of the 1,000 people had been vaccinated, the outbreak would have resulted in 300 cases rather than only 44. In this scenario, we would say that the vaccine is 90% effective in preventing the disease after two doses, which is the same as saying that the attack rate in the unvaccinated group is 10 times higher than the attack rate among people who have received two doses of vaccine. The formula to calculate vaccine effectiveness is (attack rate in unvaccinated group minus attack rate in vaccinated group) divided by attack rate in unvaccinated group, or (ARU-ARV)/ARU.
+
+ Top of Page
+Mumps Prevention and Control in Healthcare Settings
+Mumps transmission in healthcare settings, while not common, has occurred in past outbreaks, involving hospitals and long-term care facilities housing adolescents and adults. Information about what measures to take to prevent and control mumps in healthcare settings can be found under the Healthcare Setting section of the Manual for the Surveillance of Vaccine-Preventable Diseases (5th Edition, 2012), Chapter 9: Mumps
+
+Controlling Mumps in a School Setting
+In school settings, children in kindergarten through 12th grade should& have documentation of two doses of MMR vaccine, except students with medical or religious exemptions. For all incidences, consider the entire group that could have been exposed, including the teachers and staff. Teachers and staff should have their immune status verified (vaccination, serologic evidence of immunity, laboratory confirmation of disease, or birth before 1957). All staff should be educated on how to prevent the spread of mumps and signs and symptoms of the disease.
+
+Exclusion of susceptible students from schools/colleges affected by a mumps outbreaks (and other, unaffected schools judged by local public health authorities to be at risk for transmitting the disease) should be considered as one way to control mumps outbreaks. Once vaccinated, students can be readmitted to school. Students who have been exempted from mumps vaccination for medical, religious, or other reasons should stay home from the 12th day after they were exposed to mumps through the 25th day after the onset of parotitis in the last person with mumps in the affected school.
+
+Prevention
+By Mayo Clinic Staff
+In general, you're considered immune to mumps if you've previously had the infection or if you've been immunized against mumps.
+
+The mumps vaccine is usually given as a combined measles-mumps-rubella (MMR) inoculation, which contains the safest and most effective form of each vaccine. Two doses of the MMR vaccine are recommended before a child enters school:
+
+The first between ages 12 and 15 months
+The second between ages 4 and 6 years, or between 11 and 12 if not previously given
+In response to a mumps outbreak in the Midwest, college students and health care workers in particular are encouraged to make sure they've had two doses of the MMR vaccine. A single dose doesn't appear to offer sufficient protection during an outbreak. Since the recommendation for a second dose didn't begin until the late 1980s or early 1990s, many young adults may not have received their second dose and should have one now.
+
+Those who don't need the MMR vaccine
+
+You don't need a vaccine if you:
+
+Had two doses of the MMR vaccine after 12 months of age or one dose of the MMR vaccine plus a second dose of the measles vaccine
+Had one dose of MMR and you're not at high risk of measles or mumps exposure
+Have blood tests that demonstrate you're immune to measles, mumps and rubella
+Are a man who was born before 1957
+Are a woman who was born before 1957 and you don't plan to have any more children
+Also, the vaccine isn't recommended for:
+
+Pregnant women or women who plan to get pregnant within the next four weeks
+People who have had a life-threatening allergic reaction to gelatin or the antibiotic neomycin
+People with severely compromised immune systems, or people who take oral steroids, unless the benefits of the vaccine exceed the risks
+Those who should get the MMR vaccine
+
+If you don't fit the criteria listed above for not getting vaccinated, you should be vaccinated if you:
+
+Are a nonpregnant woman of childbearing age
+Attend college, trade school or postsecondary school
+Work in a hospital, medical facility, child care center or school
+Plan to travel overseas or take a cruise
+Those who should wait to get the MMR vaccine
+
+Consider waiting if:
+
+You're moderately or severely ill. Wait until you recover.
+You're pregnant. Wait until after you give birth.
+Those who should check with their doctors
+
+Check with your doctor before getting vaccinated for mumps if:
+
+You have cancer
+You have a blood disorder
+You have a disease that affects your immune system, such as HIV/AIDS
+You're being treated with drugs, such as steroids, that affect your immune system
+You've received another vaccine within the past four weeks
+Side effects of the vaccine
+
+You can't get mumps from the MMR vaccine, and most people experience no side effects from the vaccine. A few may experience a mild fever or rash, and some people (mostly adults) have achy joints afterward for a short time. Less than one out of 1 million doses causes a serious allergic reaction.
+
+Although concerns have been raised about a connection between the MMR vaccine and autism, extensive reports from the American Academy of Pediatrics, the Institute of Medicine and the Centers for Disease Control and Prevention conclude that there's no scientifically proven link between the MMR vaccine and autism.
