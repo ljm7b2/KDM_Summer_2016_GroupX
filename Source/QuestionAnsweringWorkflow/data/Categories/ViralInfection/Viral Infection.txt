@@ -1,0 +1,508 @@
+People may get viruses by swallowing or inhaling them, by being bitten by insects, or through sexual contact.
+
+Most commonly, viral infections involve the nose, throat, and upper airways.
+
+Doctors may base the diagnosis on symptoms, blood tests and cultures, or examination of infected tissues.
+
+Antiviral drugs may interfere with the reproduction of viruses or strengthen the immune response to the viral infection.
+
+A virus is a small infectious organism—much smaller than a fungus or bacterium—that must invade a living cell to reproduce (replicate). The virus attaches to a cell (called the host cell), enters it, and releases its DNA or RNA inside the cell. The virus’s DNA or RNA is the genetic material containing the information needed to make copies of (replicate) the virus. The virus’s genetic material takes control of the cell and forces it to replicate the virus. The infected cell usually dies because the virus keeps it from performing its normal functions. When it dies, the cell releases new viruses, which go on to infect other cells.
+
+Viruses are classified as DNA viruses or RNA viruses, depending on whether they use DNA or RNA to replicate. RNA viruses include retroviruses, such as HIV (human immunodeficiency virus—see Human Immunodeficiency Virus (HIV) Infection). RNA viruses, particularly retroviruses, are prone to mutate.
+
+Some viruses do not kill the cells they infect but instead alter the cell's functions. Sometimes the infected cell loses control over normal cell division and becomes cancerous. Some viruses, such as herpesviruses (see Herpesvirus Infection Overview) and HIV (see Human Immunodeficiency Virus (HIV) Infection), leave their genetic material in the host cell, where the material remains dormant for an extended time (called latent infection). When the cell is disturbed, the virus may begin replicating again and cause disease.
+
+Did You Know...
+A virus takes control of the cell it infects and forces it to make more viruses.
+
+Viruses usually infect one particular type of cell. For example, common cold viruses infect only cells of the upper respiratory tract. Additionally, most viruses infect only a few species of plants or animals. Some infect only people. Many viruses commonly infect infants and children (see Viral Infections in Infants and Children).
+
+Viruses are spread (transmitted) in various ways. Some are swallowed, some are inhaled, and some are spread by the bites of insects, such as mosquitoes, certain biting flies, or ticks. Some are spread sexually (see Sexually Transmitted Diseases) or during transfusion of contaminated blood.
+
+Many viruses that were once present in only a few parts of the world are now spreading. These viruses include chikungunya virus, Crimean-Congo hemorrhagic fever virus, Japanese encephalitis virus, Rift Valley Fever virus, West Nile virus, Ross River virus, Zika virus, and louping ill virus. These viruses are spreading partly because climate change has resulted in more areas where the mosquitoes that spread the viruses can live. Also, travelers may be infected, then return home and be bitten by a mosquito, which spreads the virus to other people. Chikungunya virus, which is spread by mosquitoes, was first identified in Africa but has recently spread to the Caribbean and Central, South, and North America. Chikungunya virus infection typically causes a fever and severe joint pain, often in the hands and feet. Infected people may also have a headache, muscle pain, joint swelling, or a rash. Most people feel better within a week.
+
+Defenses against viruses
+The body has a number of defenses against viruses. Physical barriers, such as the skin, discourage easy entry. Infected cells also make interferons, substances that can make uninfected cells more resistant to infection by many viruses.
+
+When a virus enters the body, it triggers the body's immune defenses. These defenses begin with white blood cells, such as lymphocytes and monocytes, which learn to attack and destroy the virus or the cells it has infected (see White blood cells). If the body survives the virus attack, some of the white blood cells remember the invader and are able to respond more quickly and effectively to a subsequent infection by the same virus. This response is called immunity. Immunity can also be produced by getting a vaccine (see Immunization).
+
+Types of viral infections
+Probably the most common viral infections are
+
+Respiratory infections: Infections of the nose, throat, upper airways, and lungs
+
+The most common respiratory infections are upper respiratory infections, which include sore throat, sinusitis, and the common cold.
+
+Other viral respiratory infections include influenza and pneumonia.
+
+In small children, viruses also commonly cause croup (which is inflammation of the upper and lower airways, called laryngotracheobronchitis) or lower airways (bronchiolitis—see Bronchiolitis).
+
+Respiratory infections are more likely to cause severe symptoms in infants, older people, and people with a lung or heart disorder.
+
+Other viruses infect other specific parts of the body:
+
+Gastrointestinal tract: Infections of the gastrointestinal tract, such as gastroenteritis, are commonly caused by viruses, such as noroviruses and rotaviruses.
+
+Liver: These infections result in hepatitis.
+
+Nervous system: Some viruses, such as the rabies virus and the West Nile virus, infect the brain, causing encephalitis. Others infect the layers of tissue that cover the brain and spinal cord (meninges), causing meningitis or polio.
+
+Skin: Viral infections that affect only the skin sometimes result in warts or other blemishes. Many viruses that affect other parts of the body, such as chickenpox, also cause a rash.
+
+Some viruses typically affect many body systems. Such viruses include enteroviruses (such as coxsackieviruses and echoviruses) and cytomegaloviruses.
+
+Viruses and cancer
+Some viruses alter the DNA of their host cells in a way that helps cancer develop. Only a few viruses are known to cause cancer, but there may be others.
+
+Viruses and Cancer: A Link
+Virus
+
+Cancer
+
+Epstein-Barr virus
+
+Burkitt lymphoma
+
+Certain nose and throat cancers
+
+Hodgkin lymphoma
+
+B-cell lymphomas in people with a weakened immune system (such as those with AIDS)
+
+Hepatitis B and C viruses
+
+Liver cancer
+
+Herpesvirus 8
+
+In people with AIDS, Kaposi sarcoma and non-Hodgkin lymphoma
+
+Human papillomavirus
+
+Cervical cancer, rectal cancer, and mouth and throat cancer
+
+
+Diagnosis
+A doctor's evaluation
+
+For infections that occur in epidemics, the presence of other similar cases
+
+For some infections, blood tests and cultures
+
+Common viral infections (such as measles, rubella, or chickenpox) may be diagnosed based on symptoms.
+
+For infections that occur in epidemics (such as influenza), the presence of other similar cases may help doctors identify a particular infection.
+
+For other infections, blood tests and cultures (growing microorganisms in the laboratory from samples of blood, body fluid, or other material taken from an infected area) may be done. Blood may be tested for antibodies to viruses or for antigens (proteins on or in viruses that trigger the body’s defenses). Polymerase chain reaction (PCR) techniques may be used to make many copies of the viral genetic material, enabling doctors to rapidly and accurately identify the virus. Tests are sometimes done quickly—for instance, when the infection is a serious threat to public health or when symptoms are severe.
+
+A sample of blood or other tissues is sometimes examined with an electron microscope, which provides high magnification with clear resolution.
+
+Treatment
+Treatment of symptoms
+
+Sometimes antiviral drugs
+
+Treatment of symptoms
+There are no specific treatments for many viruses. However, many things can help relieve certain symptoms, such as the following:
+
+Dehydration: Plenty of fluids, sometimes given by vein (intravenously)
+
+Diarrhea: Sometimes loperamide
+
+Fever and aches: Acetaminophen or nonsteroidal anti-inflammatory drugs (NSAIDs)
+
+Nausea and vomiting: A clear-liquid diet and sometimes an antiemetic (antinausea) drug, such as ondansetron
+
+A rash (some): Soothing or moisturizing creams and sometimes an antihistamine for itching
+
+A runny nose: Sometimes nasal decongestants, such as phenylephrine or phenylpropanolamine
+
+A sore throat: Sometimes throat-numbing lozenges containing benzocaine or dyclonine
+
+Not everyone who has these symptoms needs treatment. If symptoms are mild, it may be better to wait for them to go away on their own. Some treatments may not be appropriate for infants and young children.
+
+Antiviral drugs
+Drugs that combat viral infections are called antiviral drugs. There are no effective antiviral drugs for many viral infections. However, there are several drugs for influenza (see Influenza (Flu) : Treatment), many drugs for infection by one or more herpesviruses (see Table: Some Antiviral Drugs for Herpesvirus Infections), and many new antiviral drugs for treatment of HIV (see Table: Drugs for HIV Infection) and hepatitis C (see Chronic Hepatitis : Treatment) infections.
+
+Antiviral drugs can work by
+
+Interfering with the replication of viruses
+
+Strengthening the immune response to the viral infection
+
+Many antiviral drugs work by interfering with replication of viruses. Most drugs used to treat human immunodeficiency virus (HIV) infection (see Human Immunodeficiency Virus (HIV) Infection : Treatment) work this way. Because viruses are tiny and replicate inside cells using the cells' own metabolic functions, there are only a limited number of metabolic functions that antiviral drugs can target. In contrast, bacteria are relatively large organisms, commonly reproduce by themselves outside of cells, and have many metabolic functions that antibacterial drugs (antibiotics) can target. Therefore, antiviral drugs are much more difficult to develop than antibacterial drugs. Also, unlike antibiotics, which are usually effective against many different species of bacteria, most antiviral drugs are usually effective against only one (or a very few) viruses.
+
+Antiviral Drugs
+Antiviral Drugs
+Antiviral drugs can be toxic to human cells. Also, viruses can develop resistance to antiviral drugs.
+
+Other antiviral drugs strengthen the immune response to the viral infection. These drugs include several types of interferons, immunoglobulins, and vaccines:
+
+Interferon drugs are replicas of naturally occurring substances that slow or stop viral replication.
+
+Immune globulin is a sterilized solution of antibodies (also called immunoglobulins) collected from a group of people.
+
+Vaccines are materials that help prevent infection by stimulating the body's natural defense mechanisms (see Immunization).
+
+Many immune globulins and vaccines are given before exposure to a virus to prevent infection. Some immune globulins and some vaccines, such as those for rabies and hepatitis B, are also used after exposure to the virus to help prevent infection from developing or reduce the severity of infection. Immune globulins may also help treat some infections.
+
+Most antiviral drugs can be given by mouth. Some can also be given by injection into a vein (intravenously) or muscle (intramuscularly). Some are applied as ointments, creams, or eye drops or are inhaled as a powder.
+
+Antibiotics are not effective against viral infections, but if a person has a bacterial infection in addition to a viral infection, an antibiotic is often necessary.
+A viral disease (or viral infection) occurs when an organism's body is invaded by pathogenic viruses, and infectious virus particles (virions) attach to and enter susceptible cells.
+Structural characteristics[edit]
+Basic structural characteristics, such as genome type, virion shape and replication site, generally share the same features among virus species within the same family.
+
+There are five double-stranded DNA families: three are non enveloped (Adenoviridae, Papillomaviridae and Polyomaviridae) and two are enveloped (Herpesviridae and Poxviridae). All of the non-enveloped families have icosahedral capsids.
+
+There is one family of partly double-stranded DNA viruses: Hepadnaviridae. These viruses are enveloped.
+
+There is one family of single-stranded DNA viruses that infect humans: Parvoviridae. These viruses are non-enveloped.
+
+There are seven positive single-stranded RNA families: three non enveloped (Astroviridae, Caliciviridae and Picornaviridae) and four enveloped (Coronoviridae, Flaviviridae, Retroviridae and Togaviridae). All the non-enveloped families have icosahedral nucleocapsids.
+
+There are six negative single-stranded RNA families: Arenaviridae, Bunyaviridae, Filoviridae, Orthomyxoviridae, Paramyxoviridae and Rhabdoviridae. All are enveloped with helical nucleocapsids.
+
+There is one family with a double-stranded RNA genome: Reoviridae.
+
+There is one additional virus (Hepatitis D virus) which has not yet been assigned to a family but is clearly distinct from the other families infecting humans.
+
+There is one family and one genus of viruses known to infect humans that have not been associated with disease: the family Anelloviridae and the genus Dependovirus. Both of these taxa are non-enveloped single-stranded DNA viruses.
+
+Useful rules of thumb[edit]
+Among the human infecting families there are a number of rules that may assist physicians and medical microbiologists/virologists.
+
+As a general rule, DNA viruses replicate within the nucleus while RNA viruses replicate within the cytoplasm. Exceptions are known to this rule: poxviruses replicate within the cytoplasm and orthomyxoviruses and hepatitis D virus (RNA viruses) replicate within the nucleus.
+
+Four families have segmented genomes: Bunyaviridae, Orthomyxoviridae, Arenaviridae and Reoviridae (acronym BOAR). All are RNA viruses.
+
+Three families are transmitted almost exclusively by arthropods: Bunyavirus, Flavivirus and Togavirus. Some Reoviruses are transmitted from arthropod vectors as well. All are RNA viruses.[2]
+
+Only one family of enveloped viruses causes gastroenteritis (Coronaviridae). All other viruses associated with gastroenteritis are non enveloped.
+
+These are tables of the clinically most important[3] viruses.
+
+Comparison table of clinically important virus families and species
+Family	Baltimore group	Important species	envelopment
+Adenoviridae	Group I (dsDNA)[3][4]	Adenovirus[3][4]	non-enveloped[3][4]
+Herpesviridae	Group I (dsDNA)[3][4]	Herpes simplex, type 1, Herpes simplex, type 2, Varicella-zoster virus, Epstein-barr virus, Human cytomegalovirus, Human herpesvirus, type 8[5][6][7]	enveloped[3][4]
+Papillomaviridae	Group I (dsDNA)[3][8]	Human papillomavirus[3][8]	non-enveloped[3][8]
+Polyomaviridae	Group I (dsDNA)[3][9]	BK virus, JC virus[3][9]	non-enveloped[3][9]
+Poxviridae	Group I (dsDNA)[3][4]	Smallpox[3][4]	enveloped[3][4]
+Hepadnaviridae	Group VII (dsDNA-RT)[3][10]	Hepatitis B virus[3][4]	enveloped[3][4]
+Parvoviridae	Group II (ssDNA)[3][4]	Parvovirus B19[3][4]	non-enveloped[3][4]
+Astroviridae	Group IV (positive-sense ssRNA)[11]	Human astrovirus[4]	non-enveloped[4]
+Caliciviridae	Group IV (positive-sense ssRNA)[12]	Norwalk virus[4]	non-enveloped[4]
+Picornaviridae	Group IV (positive-sense ssRNA)[13]	coxsackievirus, hepatitis A virus, poliovirus,[4] rhinovirus	non-enveloped[4]
+Coronaviridae	Group IV (positive-sense ssRNA)[14]	Severe acute respiratory syndrome virus[4]	enveloped[4]
+Flaviviridae	Group IV (positive-sense ssRNA)[3][4][15]	Hepatitis C virus,[3] yellow fever virus,[3] dengue virus,[3] West Nile virus,[3] TBE virus[4]	enveloped[3][4]
+Togaviridae	Group IV (positive-sense ssRNA)[3][4][16]	Rubella virus[3]	enveloped[3][4]
+Hepeviridae	Group IV (positive-sense ssRNA)[17]	Hepatitis E virus[4]	non-enveloped[4][17]
+Retroviridae	Group VI (ssRNA-RT)[3][18]	Human immunodeficiency virus (HIV)[3][4]	enveloped[3][4]
+Orthomyxoviridae	Group V (negative-sense ssRNA)[3][19]	Influenza virus[3][19]	enveloped[3][19]
+Arenaviridae	Group V (negative-sense ssRNA)[20]	Lassa virus[4][20]	enveloped[4][20]
+Bunyaviridae	Group V (negative-sense ssRNA)[21]	Crimean-Congo hemorrhagic fever virus, Hantaan virus[4]	enveloped[4][21]
+Filoviridae	Group V (negative-sense ssRNA)[22]	Ebola virus,[22] Marburg virus[22]	enveloped[4]
+Paramyxoviridae	Group V (negative-sense ssRNA)[23]	Measles virus,[3] Mumps virus,[3] Parainfluenza virus,[3] Respiratory syncytial virus,[3][4]	enveloped[3][23]
+Rhabdoviridae	Group V (negative-sense ssRNA)[24]	Rabies virus[3][4]	enveloped[3][4]
+Unassigned[25]	Group V (negative-sense ssRNA)[25]	Hepatitis D[25]	enveloped[25]
+Reoviridae	Group III (dsRNA)[12]	Rotavirus,[12] Orbivirus, Coltivirus, Banna virus	non-enveloped[4]
+Clinical characteristics[edit]
+The clinical characteristics of viruses may differ substantially among species within the same family:
+
+Type	Family	Transmission	Diseases	Treatment	Prevention
+Adenovirus	Adenoviridae	
+droplet contact[3][9]
+fecal-oral[3][9]
+venereal[3]
+direct eye contact[3]
+gastroenteritis[3][9]
+keratoconjunctivitis[3][9]
+pharyngitis[3]
+croup[9]
+pharyngoconjunctival fever[3]
+pneumonia[9]
+pneumonia[9]
+cystitis[9]
+None[3][9]	
+Adenovirus vaccine[9]
+hand washing
+covering mouth when coughing or sneezing
+avoiding close contact with the sick
+Coxsackievirus	Picornaviridae	
+fecal-oral[3][26]
+respiratory[26] droplet contact[3]
+Hand, foot and mouth disease[27]
+pleurodynia[26]
+aseptic meningitis[26]
+pericarditis
+myocarditis
+None[3]	
+hand washing
+covering mouth when coughing/sneezing
+avoiding contaminated food/water
+improved sanitation
+Epstein-Barr virus	Herpesviridae	
+saliva[3]
+infectious mononucleosis[3]
+Burkitt's lymphoma[3]
+Hodgkin's lymphoma
+nasopharyngeal carcinoma
+None[3]	
+avoiding close contact with the sick
+Hepatitis A virus	Picornaviridae	
+fecal-oral[3][28]
+acute hepatitis[3][28]
+Immunoglobulin (post-exposure prophylaxis)[3]	
+Hepatitis A vaccine[3][28]
+avoiding contaminated food/water[3]
+improved sanitation
+Hepatitis B virus	Hepadnaviridae	
+bodily fluids[3]
+Vertical and sexual[29]
+
+acute hepatitis[3][29]
+chronic hepatitis[29]
+hepatic cirrhosis[29]
+hepatocellular carcinoma[29]
+Lamivudine[3][29]
+immunoglobulin[3]
+Adefovir[3]
+Entecavir[3]
+Pegylated interferon alfa-2[3]
+Hepatitis B vaccine[3][29]
+immunoglobulin (perinatal and post-exposure prophylaxis)[3]
+avoiding shared needles/syringes
+safe sex
+Hepatitis C virus	Flaviviridae	
+blood[3]
+sexual contact[3]
+acute hepatitis[3][30]
+chronic hepatitis[3]
+hepatic cirrhosis[3]
+hepatocellular carcinoma[3]
+Ribavirin[3][30]
+Pegylated interferon alfa-2[3]
+avoiding shared needles/syringes
+safe sex
+Herpes simplex virus, type 1	Herpesviridae	
+direct contact[3][31]
+saliva[3][31]
+herpes labialis,[3] cold sores[3][31] - can recur by latency[3]
+gingivostomatitis in children[3]
+tonsillitis & pharyngitis in adults[3]
+keratoconjunctivitis[3]
+acyclovir[3][31]
+famciclovir[3][31]
+foscarnet[3]
+penciclovir[3]
+avoiding close contact with lesions
+safe sex
+Herpes simplex virus, type 2	Herpesviridae	
+sexual contact[3][31]
+vertical transmission[3][31]
+Skin vesicles, mucosal ulcers,[31] Oral and/or genital[31]
+Can be latent[3]
+Aseptic meningitis[3]
+acyclovir[3][31]
+famciclovir[3][31]
+foscarnet[3]
+penciclovir[3]
+cidofovir[3]
+avoiding close contact with lesions[3]
+safe sex[3]
+Cytomegalovirus	Herpesviridae	
+vertical transmission[3][31]
+bodily fluids[3]
+infectious mononucleosis[3]
+Cytomegalic inclusion disease[3]
+ganciclovir[3]
+cidofovir[3]
+foscarnet[3]
+hand washing
+avoid sharing food and drinks with others
+safe sex
+Human herpesvirus, type 8	Herpesviridae	
+Saliva[31]
+Sexual[31]
+Kaposi sarcoma[3]
+multicentric Castleman disease[3]
+primary effusion lymphoma[3]
+many in evaluation-stage[3]	
+avoid close contact with lesions
+safe sex
+HIV	Retroviridae	
+sexual contact[3][32]
+blood[3][32]
+breast milk[3][32]
+vertical transmission
+AIDS[3]
+HAART,[3] such as protease inhibitors[32] and reverse-transcriptase inhibitors[32]	
+zidovudine (perinatally)[3]
+blood product screening[3]
+safe sex[3]
+avoiding shared needles/syringes
+Influenza virus	Orthomyxoviridae	
+droplet contact[3]
+influenza[3]
+(Reye syndrome)[3]
+amantadine[3][19]
+rimantadine[3][19]
+zanamivir[3][19]
+oseltamivir[3][19]
+influenza vaccine[3][19]
+amantadine[3]
+rimantadine[3]
+hand washing
+covering mouth when coughing/sneezing
+avoiding close contact with the sick
+Measles virus	Paramyxoviridae	
+droplet contact[3][23]
+measles[3][23]
+postinfectious encephalomyelitis[3]
+None[3]	
+MMR vaccine[3][23]
+quarantining the sick
+avoiding contact with the sick
+Mumps virus	Paramyxoviridae	
+droplet contact[3][23]
+mumps[3][23]
+None[3]	
+MMR vaccine[3][23]
+avoiding close contact with the sick
+Human papillomavirus	Papillomaviridae	
+direct contact[3][33]
+sexual contact[33]
+vertical transmission
+hyperplastic epithelial lesions (common, flat, plantar and anogenital warts, laryngeal papillomas, epidermodysplasia verruciformis)[3]
+Malignancies for some species (cervical carcinoma,[33] squamous cell carcinomas)[3]
+liquid nitrogen[3]
+laser vaporization[3]
+cytotoxic chemicals[3]
+interferon[3]
+cidofovir[3]
+HPV vaccine[3][33]
+avoiding close contact with lesions[3]
+safe sex[3]
+Parainfluenza virus	Paramyxoviridae	
+droplet contact[3][23]
+croup[3]
+pneumonia[3]
+bronchiolitis[3]
+common cold[3]
+None[3]	
+hand washing
+covering mouth when coughing/sneezing
+Poliovirus	Picornaviridae	
+fecal-oral[3]
+poliomyelitis[3]
+None[3]	
+Polio vaccine[3][28]
+avoiding contaminated food and water
+improved sanitation
+Rabies virus	Rhabdoviridae	
+animal bite[3][24]
+droplet contact[3]
+rabies[3] (fatal encephalitis)[24]
+Post-exposure prophylaxis[3]	
+rabies vaccine[24]
+avoiding rabid animals
+Respiratory syncytial virus	Paramyxoviridae	
+droplet contact[3][23]
+hand to mouth[3]
+bronchiolitis[3]
+pneumonia[3]
+influenza-like syndrome[3]
+severe bronchiolitis with pneumonia[3]
+(ribavirin)[3]	
+hand washing[3]
+avoiding close contact with the sick[3]
+palivizumab in high risk individuals[3]
+covering mouth when coughing/sneezing
+Rubella virus	Togaviridae	
+Respiratory[34] droplet contact[3]
+congenital rubella[3][34]
+German measles[3]
+None[3]	
+MMR vaccine[3][34]
+avoiding close contact with the sick
+Varicella-zoster virus	Herpesviridae	
+droplet contact[3]
+direct contact
+chickenpox[31]
+herpes zoster[3]
+Congenital varicella syndrome[31]
+Varicella:
+
+acyclovir[3]
+famciclovir[3]
+valacyclovir[3]
+Zoster:
+
+acyclovir[3]
+famciclovir[3]
+Varicella:
+
+varicella vaccine[3]
+varicella-zoster immunoglobulin[3]
+avoiding close contact with the sick
+Zoster:
+
+vaccine
+varicella-zoster immunoglobulin
+Notes[edit]
+In 2010 it was reported that the presence of a begomovirus (Pepper mild mottle virus) in the stool was associated with clinical disease and a specific immune response.[35] If this association can be confirmed it is the first known case of disease caused by a virus previously considered pathogenic only to plants.
+
+Diagnosis and treatment[edit]
+Viral disease is usually detected by clinical presentation, for instance severe muscle and joint pains preceding fever, or skin rash and swollen lymph glands. Laboratory investigation is not directly effective in detecting viral infections, because they do not themselves increase the white blood cell count. Laboratory investigation may be useful in diagnosing associated bacterial infections, however. Viral infections are commonly of limited duration, so treatment usually consists in reducing the symptoms; antipyretic and analgesic drugs are commonly prescribed.[36]
+
+See also[edit]
+Folding@home
+List of latent human viral infections
+Pathogenic bacteria
+What is viral infection?
+
+A viral infection is a disease that can be caused by different kinds of viruses, of which the influenza-virus is best known. A viral infection can be in different places in the body, some viruses are mainly in the intestine, while others prefer the lungs and airways. With a viral infection you usually have a fever, but other complaints can range from abdominal pain and diarrhea to coughing and shortness of breath.
+
+What are symptoms of viral infection?
+
+Fever
+Fatigue
+Headache
+Depending on the virus
+Coughing
+Diarrhea
+Abdominal pain
+Sore throat
+Is viral infection serious and should I see a doctor?
+
+Everyone has a flu or a bad cold once in a while, so a viral infection usually isn't serious. Of course it can be very bothersome and unfortunately there isn't any properly effective medication to cure viral infection, antibiotics aren't effective either, because those focus on bacteria, not viruses. Though a viral infection usually isn't serious, know when to see a doctor.
+
+Contact a doctor:
+
+Complaints lasting more than 7 days
+Fever longer than 5 days
+When you become short of breath
+Immediately contact a doctor:
+
+With a fever over 106.7 degrees Fahrenheit
+With new red spots or a new red rash on the skin
+When it hurts to put your chin to your chest, while turning your head doesn't hurt
+The symptoms severly worsen
+What can I do about viral infection?
+
+Rest
+Hydrate
+Eat light foods (fruit, toast etc.)
+Prevent infecting others:
+Wash your hands regularly
+Don't leave used tissues and hankerchiefs lying around
+Don't share cups, plates, cutlery
+How does viral infection affect my body?
+
+A viral infection is a common name for several kinds of diseases caused by viruses. What these diseases have in common, aside from viruses, is symptoms like fever and fatigue, which makes you feel miserable.
+
+There are different kinds of viruses; gastro-intestinal-viruses and viruses of the airways are the most important viruses in this case, because they most often cause fever and fatigue. Other viruses cause more local symptoms, like laryngitis, cold sores and shingles.
+
+Antibiotics don't help when you have a viral infection and a doctor usually shouldn't prescribe an antibiotic, because only a small percentage of people with general complaints like fever and fatigue have a bacterial infection. Doctors also shouldn't prescribe antibiotics 'just to be sure', because bacteria can get used to the antibiotics and become resistant, so when they're really needed, threre's a chance they won't be effective anymore.
+
